@@ -24,8 +24,15 @@ const SEED = 20260831;
 let wasmKmeans: WasmKmeans;
 
 beforeAll(async () => {
-  const bytes = readFileSync(fileURLToPath(new URL("../public/hanshoku.wasm", import.meta.url)));
-  wasmKmeans = await makeWasmKmeans(bytes);
+  // 既定は**出荷している** wasm。`HANSHOKU_WASM` を渡すと別のものを試せる ——
+  // CI はその場でビルドした wasm でも同じ照合を回し、
+  // **`rust/src/lib.rs` を直して出荷 wasm を更新し忘れた**状態を捕まえる。
+  //
+  // **バイト一致では検査しない。** ビルドする Rust の版が違えば生成物のバイトは変わるので、
+  // 「出荷 wasm とビルド結果が同一バイト」は原理的に達成できない(HC-073 —— 達成不能な閾値を掲げない)。
+  // 比べるのは**振る舞い**である。
+  const path = process.env.HANSHOKU_WASM ?? fileURLToPath(new URL("../public/hanshoku.wasm", import.meta.url));
+  wasmKmeans = await makeWasmKmeans(readFileSync(path));
 });
 
 /** 画像を「相異なる色 → OKLab 点 + 重み」に畳む。**この変換は両実装で共有する**(境界の外) */

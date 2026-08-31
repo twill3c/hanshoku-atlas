@@ -1,11 +1,23 @@
 {
-  "base_branch": null,
-  "test_command": null,
-  "setup_command": null,
+  "base_branch": "main",
+  "test_command": "npm test",
+  "setup_command": "npm ci",
   "gate": {
     "max_total_lines": 500,
     "max_files": 30,
-    "exempt": ["logs/loops/*", "out/*", "*.lock", "docs/generated/*"]
+    "exempt": [
+      "logs/loops/*",
+      "out/*",
+      "out-shots/*",
+      "*.lock",
+      "package-lock.json",
+      "data/frame.json",
+      "data/plates.json",
+      "data/sample.json",
+      "data/palette.json",
+      "src/data/*.json",
+      "public/hanshoku.wasm"
+    ]
   },
   "secret_scan": true
 }

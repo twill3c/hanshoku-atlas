@@ -1,0 +1,108 @@
+# 検査。**ネットワークを要らない構成にしてある** ——
+# 画像の取得も CSV のダウンロードも CI では走らせない(N-02 と同じ理由で、
+# 外へ取りに出る CI は「取れなかった日」に落ちる)。
+#
+# 走らせるのは手元と同じ 5 本。**手元でも同じものをそのまま走らせられる。**
+#
+# 出荷ビルドも通す —— **テストが緑であることは、出荷物が作れることを意味しない**(HC-062)。
+# vitest と next build はモジュール解決も型の要求も別物である。
+
+name: check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: 依存を入れる
+        run: npm ci
+
+      - name: 型検査
+        run: npx tsc --noEmit
+
+      - name: テスト(vitest)
+        run: npm test
+
+      - name: about が出す数字が、いま測った値と同じであること
+        # `tests/gates.test.ts` は測定値を `src/data/gates.json` に書き出す。
+        # **コミットされた値と食い違えば、/about は古い数字を出している。**
+        # 手で写した数字は必ずずれるので、写さずに書き出し、ずれたら CI が落とす(HC-045)
+        run: git diff --exit-code -- src/data/gates.json
+
+      - name: 出荷ビルド(静的書き出し)
+        run: npm run build
+
+      - name: 出荷物に画像が混ざっていないこと(N-03)
+        # **画像は再配布しない。** 参照するだけで、閲覧者のブラウザが取得する
+        run: |
+          found=$(find out -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.webp' \) | head -5)
+          if [ -n "$found" ]; then
+            echo "出荷物に画像がある:"; echo "$found"; exit 1
+          fi
+          echo "画像 0 件"
+
+      - name: WASM が出荷物に入っていること(F-08)
+        # **落ちたら黙って TS 実装に落ちる**ので、無いことに気づけない
+        run: test -f out/hanshoku.wasm && echo "$(stat -c%s out/hanshoku.wasm) B"
+
+  rust:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Rust の第二実装(G-08 の相手側)
+        run: cargo test --manifest-path rust/Cargo.toml --release
+
+      - name: wasm32 に落ちること
+        run: |
+          rustup target add wasm32-unknown-unknown
+          cargo build --manifest-path rust/Cargo.toml --target wasm32-unknown-unknown --release
+
+      - run: npm ci
+
+      - name: いまビルドした wasm でも TS 実装とビット一致すること
+        # **バイト一致では見ない。** Rust の版が違えば生成物のバイトは変わるので、
+        # 「出荷 wasm とビルド結果が同一バイト」は原理的に達成できない(HC-073)。
+        #
+        # 見るのは振る舞い —— これが落ちるのは
+        # **rust/src/lib.rs を直して出荷 wasm を更新し忘れた**ときである
+        env:
+          HANSHOKU_WASM: rust/target/wasm32-unknown-unknown/release/hanshoku.wasm
+        run: npx vitest run tests/wasm.test.ts
+
+  hygiene:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 字種検査(G-10)
+        # 日本語の本文に別字種・制御文字が紛れる。**字形が近いので読んでも気づけない**
+        run: python harness/text_hygiene.py
+
+      - name: ループログの検証(LL-11)
+        # **validate の合格はループ完了条件である。** 記録は追記のみで、
+        # 訂正は correction を通す —— それが守られているかを機械が見る
+        run: python harness/looplog.py validate
