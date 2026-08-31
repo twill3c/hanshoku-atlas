@@ -580,3 +580,173 @@ table.suri td.doubt {
   border-top: 1px dashed var(--rule-2);
   padding-top: 10px;
 }
+
+/* ---- ③ 年代の帯(F-10) */
+.verdict.pass {
+  border-left: 3px solid var(--ai);
+}
+
+.verdict.fail {
+  border-left: 3px solid var(--beni);
+}
+
+.verdict h2 {
+  margin: 0 0 8px;
+  font-size: 1.05rem;
+}
+
+td.ok {
+  color: var(--ai);
+  font-weight: 700;
+}
+
+td.ng {
+  color: var(--beni);
+  font-weight: 700;
+}
+
+.chart {
+  display: block;
+  width: 100%;
+  min-width: 620px;
+  height: auto;
+}
+
+.chart .axis {
+  stroke: var(--rule-2);
+  stroke-width: 1;
+}
+
+.chart .grid {
+  stroke: var(--rule);
+  stroke-width: 1;
+  stroke-dasharray: 2 4;
+}
+
+.chart .ylab {
+  fill: var(--ink-3);
+  font-size: 9px;
+  text-anchor: end;
+  dominant-baseline: middle;
+  font-family: ui-monospace, Consolas, monospace;
+}
+
+.chart .xlab {
+  fill: var(--ink-3);
+  font-size: 10px;
+  text-anchor: middle;
+  font-family: ui-monospace, Consolas, monospace;
+}
+
+.chart .mark {
+  fill: var(--beni);
+  opacity: 0.16;
+}
+
+.chart .marklab {
+  fill: var(--beni);
+  font-size: 9px;
+  text-anchor: middle;
+  font-family: ui-monospace, Consolas, monospace;
+}
+
+.chart .line {
+  fill: none;
+  stroke-width: 1.8;
+}
+
+.chart .line.loose {
+  stroke: var(--ink-3);
+  stroke-dasharray: 4 3;
+}
+
+.chart .line.strict {
+  stroke: var(--ai);
+}
+
+.legend {
+  font-size: 0.78rem;
+  color: var(--ink-3);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+.legend .k {
+  display: inline-block;
+  width: 22px;
+  height: 0;
+  border-top: 2px solid var(--ink-3);
+  margin-left: 12px;
+}
+
+.legend .k.strict {
+  border-top: 2px solid var(--ai);
+}
+
+.legend .k.loose {
+  border-top: 2px dashed var(--ink-3);
+  margin-left: 0;
+}
+
+.note-inline {
+  font-size: 0.82rem;
+  color: var(--ink-2);
+  margin: 10px 0 0;
+}
+
+.bandwrap {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.band {
+  display: grid;
+  grid-template-columns: 1fr 74px;
+  gap: 10px;
+  align-items: center;
+  padding: 2px 4px;
+  border: 1px solid transparent;
+  background: transparent;
+  border-radius: 2px;
+}
+
+.band.on {
+  border-color: var(--ai);
+  background: var(--ai-soft);
+}
+
+.bandbar {
+  display: flex;
+  height: 16px;
+  border-radius: 2px;
+  overflow: hidden;
+  border: 1px solid var(--rule);
+}
+
+.bandbar > span {
+  display: block;
+  min-width: 0;
+}
+
+.bandlab {
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 0.76rem;
+  color: var(--ink-2);
+  text-align: left;
+}
+
+.bandlab .sub {
+  color: var(--ink-3);
+}
+
+.minibar {
+  display: inline-block;
+  height: 10px;
+  background: var(--ai);
+  border-radius: 1px;
+  min-width: 1px;
+}

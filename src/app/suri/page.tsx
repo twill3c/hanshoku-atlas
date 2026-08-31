@@ -88,6 +88,7 @@ export default function SuriPage() {
       <nav className="nav">
         <a href="/">① 一枚解剖</a>
         <a href="/suri/" aria-current="page">⑤ 摺りの散らばり</a>
+        <a href="/nendai/">③ 年代の帯</a>
       </nav>
 
       <p className="subject">

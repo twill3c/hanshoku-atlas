@@ -11,3 +11,4 @@ out-shots/
 .vercel
 .env*
 rust/target/
+.cache/

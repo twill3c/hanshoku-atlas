@@ -196,6 +196,7 @@ export default function Page() {
       <nav className="nav">
         <a href="/" aria-current="page">① 一枚解剖</a>
         <a href="/suri/">⑤ 摺りの散らばり</a>
+        <a href="/nendai/">③ 年代の帯</a>
       </nav>
 
       {/* F-04 —— 主語を短くしない */}

@@ -11,7 +11,12 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "measure:gates": "vitest run tests/gates.test.ts --reporter=verbose",
-    "verify:browser": "next build && node scripts/verify-browser.mjs"
+    "verify:browser": "next build && node scripts/verify-browser.mjs",
+    "core:bundle": "esbuild src/core/index.ts --bundle --format=esm --outfile=.cache/core.mjs --platform=neutral --log-level=warning",
+    "frame": "python pipeline/build_frame.py",
+    "fetch": "python pipeline/fetch_images.py",
+    "analyze": "npm run core:bundle && node pipeline/analyze.mjs",
+    "aggregate": "npm run core:bundle && node pipeline/aggregate.mjs"
   },
   "dependencies": {
     "next": "^15.5.24",
