@@ -1,0 +1,9 @@
+{
+ "generated": "2026-08-31",
+ "k": 8,
+ "seed": 20260831,
+ "count": 830,
+ "minPixels": 60000,
+ "engine": "rust/wasm(TS 実装とビット一致 —— G-08)",
+ "note": "pipeline/analyze.mjs の出力から about 用に抜いたメタ。手で編集しない"
+}

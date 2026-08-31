@@ -1,0 +1,20 @@
+{
+ "note": "tests/gates.test.ts が書き出す。手で編集しない",
+ "samples": 60,
+ "seed": 20260831,
+ "thresholds": {
+  "deMedian": 2,
+  "deMax": 5,
+  "shareMax": 0.01,
+  "centerpieceHitRate": 0.8
+ },
+ "measured": {
+  "g01Median": 0,
+  "g01Max": 0.30475295574906075,
+  "g01Plates": 450,
+  "g02Max": 0.000442708333333347,
+  "g04Fired": 52,
+  "centerpieceClean": 1,
+  "centerpieceStandard": 1
+ }
+}

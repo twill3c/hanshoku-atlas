@@ -101,4 +101,22 @@ writeFileSync(
   ) + "\n",
   "utf-8",
 );
+// about の画面が読むメタ。**plates.json は 1 MB あるので、必要な分だけを別に出す**
+writeFileSync(
+  resolve(ROOT, "src/data/plates-meta.json"),
+  JSON.stringify(
+    {
+      note: "pipeline/analyze.mjs が書き出す。手で編集しない",
+      generated: new Date().toISOString().slice(0, 10),
+      k: K,
+      seed: SEED,
+      count: out.length,
+      minPixels: MIN_PIXELS,
+      engine: "rust/wasm(TS 実装とビット一致 —— G-08)",
+    },
+    null,
+    1,
+  ) + "\n",
+  "utf-8",
+);
 console.log(`版色を抽出 ${out.length} 件 / 小さすぎて落とした ${dropped} 件 / ${((Date.now() - t0) / 1000).toFixed(0)}s`);

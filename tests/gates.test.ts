@@ -19,8 +19,8 @@
 //   **閾値は据え置きである**(2.0 / 5.0 / 0.010)。緩めたのではなく、対象を難しくした。
 //   無劣化条件は「厳密に 0 でなければ実装に欠陥がある」という床として残す。
 
-import { describe, expect, it } from "vitest";
-import { readFileSync } from "node:fs";
+import { afterAll, describe, expect, it } from "vitest";
+import { readFileSync, writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 
 import { createRng } from "@/core/rng";
@@ -112,6 +112,37 @@ function median(xs: number[]): number {
   return s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2;
 }
 
+// about の画面が出す数字は、**ここで測った値そのものを書き出す**。
+// 手で写すと必ずずれる(HC-045 —— 図に添える文字は図を生成したのと同じデータから導く)。
+// 測定はすべて固定シードなので、この JSON は決定論的に同じ内容になる。
+//
+// 注意: ブロックコメントの中に `**` と `/` を続けて書かないこと ——
+// `*/` として解釈されコメントが途中で閉じる(実測 2026-08-31)。
+const measured: Record<string, number> = {};
+afterAll(() => {
+  const out = fileURLToPath(new URL("../src/data/gates.json", import.meta.url));
+  writeFileSync(
+    out,
+    JSON.stringify(
+      {
+        note: "tests/gates.test.ts が書き出す。手で編集しない",
+        samples: SAMPLE_COUNT,
+        seed: SEED,
+        thresholds: {
+          deMedian: G01_DE_MEDIAN,
+          deMax: G01_DE_MAX,
+          shareMax: G02_SHARE_MAX,
+          centerpieceHitRate: CENTERPIECE_HIT_RATE,
+        },
+        measured,
+      },
+      null,
+      1,
+    ) + "\n",
+    "utf-8",
+  );
+});
+
 // ---------------------------------------------------------------- 前提の検算
 
 describe("標本の前提(これが崩れると以下のゲートは何も測っていない)", () => {
@@ -183,6 +214,9 @@ describe("G-01 / G-02(標準条件)—— 版色と面積比を復元する", ()
     const med = median(all);
     const max = Math.max(...all);
     console.log(`[G-01/標準] ΔE2000 中央値 ${med.toFixed(4)} / 最大 ${max.toFixed(4)}(${all.length} 版)`);
+    measured.g01Median = med;
+    measured.g01Max = max;
+    measured.g01Plates = all.length;
     expect(med).toBeLessThanOrEqual(G01_DE_MEDIAN);
     expect(max).toBeLessThanOrEqual(G01_DE_MAX);
   });
@@ -191,6 +225,7 @@ describe("G-01 / G-02(標準条件)—— 版色と面積比を復元する", ()
     const all = results.flatMap((r) => r.m.map((x) => x.dShare));
     const max = Math.max(...all);
     console.log(`[G-02/標準] 面積比の絶対誤差 最大 ${max.toExponential(3)} / 中央値 ${median(all).toExponential(3)}`);
+    measured.g02Max = max;
     expect(max).toBeLessThanOrEqual(G02_SHARE_MAX);
   });
 
@@ -223,6 +258,7 @@ describe("T-012 (G-04 陽性対照) —— 壊した抽出器は標準条件で�
     });
     const over = broken.filter((d) => d > G01_DE_MAX).length;
     console.log(`[G-04 陽性対照] 退化初期化で閾値超過 ${over}/${SAMPLE_COUNT} 枚`);
+    measured.g04Fired = over;
     expect(over).toBeGreaterThan(0);
   });
 });
@@ -282,6 +318,7 @@ describe("G-目玉1 —— エルボーが版数を当てるか", () => {
   it(`T-014 無劣化(SPEC の宣言どおり)の的中率 ≥ ${CENTERPIECE_HIT_RATE}`, () => {
     const { rate, miss } = hitRate(samples.map((s) => s.image));
     console.log(`[G-目玉1/無劣化] 的中率 ${rate.toFixed(3)}${miss.length ? " 外し: " + miss.slice(0, 10).join(" / ") : ""}`);
+    measured.centerpieceClean = rate;
     expect(rate).toBeGreaterThanOrEqual(CENTERPIECE_HIT_RATE);
   });
 
@@ -290,6 +327,7 @@ describe("G-目玉1 —— エルボーが版数を当てるか", () => {
     // **ここは閾値を置かない測定である**が、この値が低ければ UI は「版数」と呼ばない。
     const { rate, miss } = hitRate(stdImages);
     console.log(`[G-目玉1/標準] 的中率 ${rate.toFixed(3)}${miss.length ? " 外し: " + miss.slice(0, 12).join(" / ") : ""}`);
+    measured.centerpieceStandard = rate;
     expect(rate).toBeGreaterThanOrEqual(0); // 測定。判定はループ末尾で人間が行う
   });
 });

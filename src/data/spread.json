@@ -1,0 +1,29 @@
+{
+ "note": "scripts/verify-browser.mjs --write-spread が書き出す。手で編集しない",
+ "measured": [
+  {
+   "label": "神奈川沖浪裏 — 葛飾北斎(4 摺り)",
+   "deMedian": 6.1,
+   "deMax": 14.1,
+   "shareMedian": 4.3,
+   "shareMax": 23,
+   "doubt": 4
+  },
+  {
+   "label": "甲州石班沢 — 葛飾北斎(3 摺り)",
+   "deMedian": 4.4,
+   "deMax": 20.7,
+   "shareMedian": 5.9,
+   "shareMax": 17.9,
+   "doubt": 1
+  },
+  {
+   "label": "大はしあたけの夕立 — 歌川広重(4 摺り)",
+   "deMedian": 4.6,
+   "deMax": 44.3,
+   "shareMedian": 4.5,
+   "shareMax": 14.5,
+   "doubt": 1
+  }
+ ]
+}

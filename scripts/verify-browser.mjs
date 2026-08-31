@@ -9,7 +9,7 @@
 // 終了コードで失敗を知らせる —— 取得に失敗した画面を撮っても「撮影しました」と出る道具にしない。
 
 import { createServer } from "node:http";
-import { readFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 import { existsSync, mkdirSync } from "node:fs";
 import { extname, join, resolve } from "node:path";
 import { chromium, firefox } from "playwright";
@@ -304,6 +304,29 @@ try {
     );
   }
   if (sp.all.length < 3) fail.push(`suri: 図柄が 3 つ未満(${sp.all.length})`);
+
+  // about の画面が出す ⑤ の数字は、この測定と同じでなければならない。
+  // **手で写した数字を置かない** —— 置くと必ずずれる(HC-045)。
+  // `--write-spread` で書き出し、以後は毎回の検品が食い違いを落とす。
+  {
+    const path = resolve(process.cwd(), "src/data/spread.json");
+    const now = { measured: sp.all.map(({ label, deMedian, deMax, shareMedian, shareMax, doubt }) => ({ label, deMedian, deMax, shareMedian, shareMax, doubt })) };
+    if (process.argv.includes("--write-spread")) {
+      await writeFile(path, JSON.stringify({ note: "scripts/verify-browser.mjs --write-spread が書き出す。手で編集しない", ...now }, null, 1) + "\n", "utf-8");
+      console.log("  src/data/spread.json を書いた");
+    } else {
+      try {
+        const saved = JSON.parse(await readFile(path, "utf-8"));
+        if (JSON.stringify(saved.measured) !== JSON.stringify(now.measured)) {
+          fail.push("suri: src/data/spread.json が今の実測と食い違う(--write-spread で更新すること)");
+          console.log("  保存: " + JSON.stringify(saved.measured));
+          console.log("  実測: " + JSON.stringify(now.measured));
+        }
+      } catch {
+        fail.push("suri: src/data/spread.json が無い(--write-spread で作ること)");
+      }
+    }
+  }
   if (sp.problems.length) fail.push(`suri: ${sp.problems.join(" / ")}`);
   if (sp.rows.length < 2) fail.push("suri: 版が 2 行未満");
   if (sp.overflow) fail.push("suri: 横に溢れた");

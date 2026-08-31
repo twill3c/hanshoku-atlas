@@ -815,3 +815,36 @@ table.suri td:last-child {
   white-space: normal;
   max-width: 520px;
 }
+
+/* ---- /about(F-14) */
+.dropped {
+  margin: 12px 0 0;
+}
+
+.dropped dt {
+  font-weight: 700;
+  color: var(--ink);
+  margin-top: 18px;
+  padding-left: 13px;
+  border-left: 3px solid var(--beni);
+  line-height: 1.5;
+}
+
+.dropped dd {
+  margin: 6px 0 0 16px;
+  color: var(--ink-2);
+  font-size: 0.94rem;
+  max-width: 66ch;
+}
+
+.dropped dd strong {
+  color: var(--ink);
+}
+
+main h2 + h3 {
+  margin-top: 18px;
+}
+
+.verdict h3 {
+  color: var(--ink);
+}
