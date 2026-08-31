@@ -1,0 +1,5475 @@
+{
+ "sources": {
+  "en": {
+   "title": "en.wikipedia \"Traditional colors of Japan\"",
+   "url": "https://en.wikipedia.org/wiki/Traditional_colors_of_Japan",
+   "license": "CC BY-SA 4.0"
+  },
+  "ja": {
+   "title": "ja.wikipedia「日本の色の一覧」",
+   "url": "https://ja.wikipedia.org/wiki/日本の色の一覧",
+   "license": "CC BY-SA 4.0"
+  }
+ },
+ "jis_reference": {
+  "name": "JIS Z 8102 慣用色名",
+  "url": "https://www.jisc.go.jp/",
+  "note": "唯一の公的基準だが規格票のため数値・名称表を転載しない(参照のみ)"
+ },
+ "colors": [
+  {
+   "name": "ときがら茶",
+   "readings": {
+    "en": "Tokigaracha"
+   },
+   "hex_by_source": {
+    "en": "#E68364"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Brewed mustard-brown"
+   }
+  },
+  {
+   "name": "びろうど",
+   "readings": {
+    "en": "Birōdo"
+   },
+   "hex_by_source": {
+    "en": "#224634"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Velvet"
+   }
+  },
+  {
+   "name": "カーキ色",
+   "readings": {
+    "ja": "かーきいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C3B091"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "帯赤茶褐色。明治末期から昭和初期にかけて日本陸軍の軍服に用いられた。"
+   }
+  },
+  {
+   "name": "一斤染",
+   "readings": {
+    "en": "Ikkonzome",
+    "ja": "いっこんぞめ"
+   },
+   "hex_by_source": {
+    "en": "#F08F90",
+    "ja": "#FFD3E4"
+   },
+   "delta_e": 18.7747,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "One kin ({{cvt|0.6|kg}}) dye",
+    "ja": "紅花で染めたやや淡い紅色。"
+   }
+  },
+  {
+   "name": "丁子染",
+   "readings": {
+    "en": "Chōjizome"
+   },
+   "hex_by_source": {
+    "en": "#A96232"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Clove-dyed"
+   }
+  },
+  {
+   "name": "丁子茶",
+   "readings": {
+    "en": "Chōjicha",
+    "ja": "ちょうじちゃ"
+   },
+   "hex_by_source": {
+    "en": "#8F583C",
+    "ja": "#B4866B"
+   },
+   "delta_e": 17.0029,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Clove-brown",
+    "ja": "茶を帯びた丁子色。"
+   }
+  },
+  {
+   "name": "中紅",
+   "readings": {
+    "en": "Nakabeni"
+   },
+   "hex_by_source": {
+    "en": "#C93756"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Medium crimson (dye)"
+   }
+  },
+  {
+   "name": "丹色",
+   "readings": {
+    "ja": "にいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E45E32"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "赤土の色。赤みがかった灰黄色から赤褐色。"
+   }
+  },
+  {
+   "name": "丼鼠",
+   "readings": {
+    "en": "Dobunezumi"
+   },
+   "hex_by_source": {
+    "en": "#4B3C39"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Brown rat grey"
+   }
+  },
+  {
+   "name": "乳白色",
+   "readings": {
+    "ja": "にゅうはくしょく"
+   },
+   "hex_by_source": {
+    "ja": "#FFFFFB"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "乳のような不透明な白。"
+   }
+  },
+  {
+   "name": "二藍",
+   "readings": {
+    "en": "Futa'ai",
+    "ja": "ふたあい"
+   },
+   "hex_by_source": {
+    "en": "#614E6E",
+    "ja": "#6B4978"
+   },
+   "delta_e": 5.1618,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Dark indigo",
+    "ja": "染料「藍」と「呉藍（紅）」を使った染色法に由来する。平安時代に愛好された紫系統の色。"
+   }
+  },
+  {
+   "name": "亜麻色",
+   "readings": {
+    "ja": "あまいろ"
+   },
+   "hex_by_source": {
+    "ja": "#D6C6AF"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "亜麻の繊維の色。"
+   }
+  },
+  {
+   "name": "京紫",
+   "readings": {
+    "ja": "きょうむらさき"
+   },
+   "hex_by_source": {
+    "ja": "#772F6D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "紫色。江戸紫より鮮やかな紫。"
+   }
+  },
+  {
+   "name": "今様色",
+   "readings": {
+    "ja": "いまよういろ"
+   },
+   "hex_by_source": {
+    "ja": "#D0576B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "今流行の色という意味。平安時代に流行した薄い紅色。"
+   }
+  },
+  {
+   "name": "仙斎茶",
+   "readings": {
+    "ja": "せんさいちゃ"
+   },
+   "hex_by_source": {
+    "ja": "#474B42"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "千歳茶とも書く。暗い緑がかった茶色。"
+   }
+  },
+  {
+   "name": "代赭色",
+   "readings": {
+    "en": "Taisha-iro",
+    "ja": "たいしゃいろ"
+   },
+   "hex_by_source": {
+    "en": "#9F5233",
+    "ja": "#B36C3C"
+   },
+   "delta_e": 10.3695,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Red ochre color",
+    "ja": "褐色を帯びた黄色または赤色。"
+   }
+  },
+  {
+   "name": "似せ紫",
+   "readings": {
+    "en": "Nisemurasaki"
+   },
+   "hex_by_source": {
+    "en": "#43242A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Fake purple"
+   }
+  },
+  {
+   "name": "似紫",
+   "readings": {
+    "ja": "にせむらさき"
+   },
+   "hex_by_source": {
+    "ja": "#513743"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "高価な生薬であった紫根（しこん）の代わりに、藍の下染めの上に蘇芳（すおう）などで染めた紫色。くすんだ青みのある赤紫。"
+   }
+  },
+  {
+   "name": "伽羅色",
+   "readings": {
+    "en": "Kyara-iro",
+    "ja": "きゃらいろ"
+   },
+   "hex_by_source": {
+    "en": "#6A432D",
+    "ja": "#D8A373"
+   },
+   "delta_e": 38.7477,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Aloewood-color",
+    "ja": "茶色がかった暗い黄褐色。"
+   }
+  },
+  {
+   "name": "利休白茶",
+   "readings": {
+    "en": "Rikyūshiracha"
+   },
+   "hex_by_source": {
+    "en": "#B0927A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Faded Sen no Rikyū's tea"
+   }
+  },
+  {
+   "name": "利休茶",
+   "readings": {
+    "en": "Rikyūcha",
+    "ja": "りきゅうちゃ"
+   },
+   "hex_by_source": {
+    "en": "#826B58",
+    "ja": "#897845"
+   },
+   "delta_e": 12.2503,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Sen no Rikyū's tea",
+    "ja": "千利休が好んだ色。緑がかった薄茶色。"
+   }
+  },
+  {
+   "name": "利休鼠",
+   "readings": {
+    "en": "Rikyūnezumi",
+    "ja": "りきゅうねず"
+   },
+   "hex_by_source": {
+    "en": "#656255",
+    "ja": "#888E7E"
+   },
+   "delta_e": 17.3441,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Greyish dark green",
+    "ja": "江戸時代の流行色の1つ。千利休を連想した色。緑がかった灰色。"
+   }
+  },
+  {
+   "name": "勝色",
+   "readings": {
+    "ja": "かちいろ/かついろ"
+   },
+   "hex_by_source": {
+    "ja": "#4D5269"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "紺色の一種。鎌倉時代に武士の間で流行した。"
+   }
+  },
+  {
+   "name": "勿忘草色",
+   "readings": {
+    "ja": "わすれなぐさいろ"
+   },
+   "hex_by_source": {
+    "ja": "#9CC5E6"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "勿忘草の花の色。明るい青色。"
+   }
+  },
+  {
+   "name": "千歳緑",
+   "readings": {
+    "en": "Chitosemidori"
+   },
+   "hex_by_source": {
+    "en": "#374231"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Thousand year old green"
+   }
+  },
+  {
+   "name": "千歳茶",
+   "readings": {
+    "en": "Sensaicha"
+   },
+   "hex_by_source": {
+    "en": "#3B3429"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Thousand year old brown"
+   }
+  },
+  {
+   "name": "千草色",
+   "readings": {
+    "en": "Chigusa-iro",
+    "ja": "ちぐさいろ"
+   },
+   "hex_by_source": {
+    "en": "#317589",
+    "ja": "#92B5A9"
+   },
+   "delta_e": 26.5184,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Thousand herb color",
+    "ja": "褪せた薄い藍色の上にさらに薄い藍をかけた色のこと。 緑がかった淡い青。"
+   }
+  },
+  {
+   "name": "半色",
+   "readings": {
+    "en": "Hashita-iro"
+   },
+   "hex_by_source": {
+    "en": "#8D608C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Half color"
+   }
+  },
+  {
+   "name": "卯の花色",
+   "readings": {
+    "ja": "うのはないろ"
+   },
+   "hex_by_source": {
+    "ja": "#FBFBF6"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "卯の花の色。わずかに黄みがかった白。"
+   }
+  },
+  {
+   "name": "古代紫",
+   "readings": {
+    "ja": "こだいむらさき"
+   },
+   "hex_by_source": {
+    "ja": "#8C6589"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "すこし赤みを帯びた紫色。"
+   }
+  },
+  {
+   "name": "呂色",
+   "readings": {
+    "ja": "ろいろ"
+   },
+   "hex_by_source": {
+    "ja": "#0C0C0C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "漆黒の艶のないもの。艶消し加工をした黒漆の色。"
+   }
+  },
+  {
+   "name": "唐棣色",
+   "readings": {
+    "ja": "はねずいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F0908D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "「唐棣（はねず）」は庭梅（にわうめ）の古名。庭梅の花のような薄赤色。"
+   }
+  },
+  {
+   "name": "唐紅/韓紅",
+   "readings": {
+    "en": "Karakurenai",
+    "ja": "からくれない"
+   },
+   "hex_by_source": {
+    "en": "#C91F37",
+    "ja": "#D93448"
+   },
+   "delta_e": 5.3516,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Foreign crimson{{efn|\"Since magenta, an imported artificial color, also resembled {{translit|ja|Kara-kurenai}} (here also {{translit|ja|Kara}} means Korea; {{translit|ja|kurenai}} means red), people started to call the deep red formerly known as {{translit|ja|kara-ai}} by the new designation {{translit|ja|Kara-kurenai}} (here, however, {{translit|ja|\"Kara\"}} means China).\"<ref name=\"summer kimono\">{{cite book |last=Yumioka |first=Katsumi |date=2006 |title=着と日本の色・夏篇・夏着物で綴る日本の文様と伝統色 |trans-title=Summer Kimonos and the Colors of Japan・Kimono Collection of Katsumi Yumioka |language=ja,en |location=Tokyo |publisher=PIE Books |isbn=978-4894445314}}</ref>{{rp|37}}}}",
+    "ja": "鮮やかな濃い紅色。名前は「韓紅花」とも書き韓から伝来した紅の意味、唐は後の当て字。"
+   }
+  },
+  {
+   "name": "唐茶",
+   "readings": {
+    "en": "Karacha",
+    "ja": "からちゃ"
+   },
+   "hex_by_source": {
+    "en": "#B35C44",
+    "ja": "#A06705"
+   },
+   "delta_e": 19.0403,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Spicy red-brown (Chinese tea brown)",
+    "ja": "黄みがかった茶色。"
+   }
+  },
+  {
+   "name": "団十郎茶",
+   "readings": {
+    "ja": "だんじゅうろうちゃ"
+   },
+   "hex_by_source": {
+    "ja": "#9F563A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "弁柄と柿渋で染めた灰色がかった黄赤。"
+   }
+  },
+  {
+   "name": "国防色",
+   "readings": {
+    "ja": "こくぼうしょく"
+   },
+   "hex_by_source": {
+    "ja": "#7B6C3E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "帯青茶褐色。昭和期の日本陸軍の軍装色。"
+   }
+  },
+  {
+   "name": "土器色",
+   "readings": {
+    "ja": "かわらけいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C37854"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "土器のようにくすんだ黄褐色。"
+   }
+  },
+  {
+   "name": "墨色",
+   "readings": {
+    "en": "Sumi-iro",
+    "ja": "すみいろ"
+   },
+   "hex_by_source": {
+    "en": "#27221F",
+    "ja": "#343434"
+   },
+   "delta_e": 6.4819,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Ink color",
+    "ja": "墨のような灰色がかった黒色。"
+   }
+  },
+  {
+   "name": "女郎花",
+   "readings": {
+    "en": "Ominaeshi"
+   },
+   "hex_by_source": {
+    "en": "#D9B611"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Patrinia flowers (''Patrinia scabiosaefolia'')"
+   }
+  },
+  {
+   "name": "媚茶",
+   "readings": {
+    "en": "Kobicha",
+    "ja": "こびちゃ"
+   },
+   "hex_by_source": {
+    "en": "#6B4423",
+    "ja": "#716246"
+   },
+   "delta_e": 13.1232,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Kobi tea",
+    "ja": "昆布茶とも呼ぶ。海藻のコンブの色。やや黒ずんだ黄褐色。"
+   }
+  },
+  {
+   "name": "宍色",
+   "readings": {
+    "en": "Shishi-iro"
+   },
+   "hex_by_source": {
+    "en": "#F9906F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Meat-color"
+   }
+  },
+  {
+   "name": "宗傳唐茶",
+   "readings": {
+    "en": "Sōdenkaracha"
+   },
+   "hex_by_source": {
+    "en": "#9B533F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Faded spicy red-brown"
+   }
+  },
+  {
+   "name": "小豆色",
+   "readings": {
+    "en": "Azuki-iro",
+    "ja": "あずきいろ"
+   },
+   "hex_by_source": {
+    "en": "#672422",
+    "ja": "#98514B"
+   },
+   "delta_e": 14.8557,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Azuki bean color",
+    "ja": "小豆の色から。紫味を帯びた赤褐色。"
+   }
+  },
+  {
+   "name": "小麦色",
+   "readings": {
+    "ja": "こむぎいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E4A343"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "小麦の殻粒の色。やわらかい赤みのある黄色。"
+   }
+  },
+  {
+   "name": "山吹色",
+   "readings": {
+    "en": "Yamabuki-iro",
+    "ja": "やまぶきいろ"
+   },
+   "hex_by_source": {
+    "en": "#FFA400",
+    "ja": "#F8B400"
+   },
+   "delta_e": 6.9835,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Golden yellow (Kerria japonica)",
+    "ja": "山吹の花の色。オレンジ色と黄色の中間色。"
+   }
+  },
+  {
+   "name": "山吹茶",
+   "readings": {
+    "en": "Yamabukicha"
+   },
+   "hex_by_source": {
+    "en": "#CB7E1F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Gold-brown"
+   }
+  },
+  {
+   "name": "山葵色",
+   "readings": {
+    "ja": "わさびいろ"
+   },
+   "hex_by_source": {
+    "ja": "#8EC298"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "山葵のような薄い黄緑色。"
+   }
+  },
+  {
+   "name": "山鳩色",
+   "readings": {
+    "ja": "やまばといろ"
+   },
+   "hex_by_source": {
+    "ja": "#BFBD9E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "ヤマバトの羽の色。灰色がかった緑。麹塵とも呼ばれる。"
+   }
+  },
+  {
+   "name": "岩井茶",
+   "readings": {
+    "en": "Iwaicha"
+   },
+   "hex_by_source": {
+    "en": "#5E5545"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Iwai brown{{sfn|Hibi|Fukuda|2000|p=44|ps= .After the kabuki actor Iwai Hanshiro IV.}}"
+   }
+  },
+  {
+   "name": "左伊多津万色",
+   "readings": {
+    "ja": "さいたづまいろ"
+   },
+   "hex_by_source": {
+    "ja": "#328131"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "虎杖の葉の色。"
+   }
+  },
+  {
+   "name": "常磐色",
+   "readings": {
+    "ja": "ときわいろ"
+   },
+   "hex_by_source": {
+    "ja": "#007B43"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "常緑樹の葉の色。濃い緑色。"
+   }
+  },
+  {
+   "name": "弁柄色",
+   "readings": {
+    "ja": "べんがらいろ"
+   },
+   "hex_by_source": {
+    "ja": "#8F2E14"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "顔料の「ベンガラ」の色。暗い赤みを帯びた茶色。"
+   }
+  },
+  {
+   "name": "御召御納戸",
+   "readings": {
+    "en": "Omeshionando"
+   },
+   "hex_by_source": {
+    "en": "#3D4C51"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Kimono storage"
+   }
+  },
+  {
+   "name": "御召茶",
+   "readings": {
+    "en": "Omeshicha"
+   },
+   "hex_by_source": {
+    "en": "#354E4B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Silk crepe brown"
+   }
+  },
+  {
+   "name": "御納戸色",
+   "readings": {
+    "en": "Onando-iro"
+   },
+   "hex_by_source": {
+    "en": "#364141"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Onando color"
+   }
+  },
+  {
+   "name": "御納戸茶",
+   "readings": {
+    "en": "Onandocha"
+   },
+   "hex_by_source": {
+    "en": "#3D4035"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Storeroom brown"
+   }
+  },
+  {
+   "name": "憲法染",
+   "readings": {
+    "en": "Kenpōzome"
+   },
+   "hex_by_source": {
+    "en": "#2E211B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "named after the swordsman Yoshioka Kenpo (lit. Legal dye)"
+   }
+  },
+  {
+   "name": "憲法色",
+   "readings": {
+    "ja": "けんぽういろ"
+   },
+   "hex_by_source": {
+    "ja": "#543F32"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "剣術家の吉岡憲法が広めたとされる。黒褐色。"
+   }
+  },
+  {
+   "name": "撫子色",
+   "readings": {
+    "ja": "なでしこいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F6ADC6"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "ナデシコの花の色。淡い紅色。"
+   }
+  },
+  {
+   "name": "新橋色",
+   "readings": {
+    "en": "Shinbashi-iro",
+    "ja": "しんばしいろ"
+   },
+   "hex_by_source": {
+    "en": "#006C7F",
+    "ja": "#59B9C6"
+   },
+   "delta_e": 26.9194,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "\"New Bridge\" color",
+    "ja": "日本の伝統色の一つ。わずかに緑がかった明るい青。"
+   }
+  },
+  {
+   "name": "曙色",
+   "readings": {
+    "en": "Akebono-iro"
+   },
+   "hex_by_source": {
+    "en": "#FA7B62"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Dawn-color"
+   }
+  },
+  {
+   "name": "月白",
+   "readings": {
+    "ja": "げっぱく"
+   },
+   "hex_by_source": {
+    "ja": "#F6F7F8"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "月の光のような薄い青みを含んだ白色。"
+   }
+  },
+  {
+   "name": "木蘭色",
+   "readings": {
+    "ja": "もくらんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C7B370"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "樹皮で染めた色。鈍い黄褐色。"
+   }
+  },
+  {
+   "name": "木賊色",
+   "readings": {
+    "en": "Tokusa-iro",
+    "ja": "とくさいろ"
+   },
+   "hex_by_source": {
+    "en": "#3D5D42",
+    "ja": "#22825D"
+   },
+   "delta_e": 14.0416,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Horsetail color",
+    "ja": "木賊のような青みがかった緑。"
+   }
+  },
+  {
+   "name": "朱色",
+   "readings": {
+    "en": "Shu-iro",
+    "ja": "しゅいろ"
+   },
+   "hex_by_source": {
+    "en": "#FF3500",
+    "ja": "#EF454A"
+   },
+   "delta_e": 11.9746,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Cinnabar-color",
+    "ja": "やや黄を帯びた赤色。朱肉に用いられる色。"
+   }
+  },
+  {
+   "name": "朽葉色",
+   "readings": {
+    "en": "Kuchiba-iro",
+    "ja": "くちばいろ"
+   },
+   "hex_by_source": {
+    "en": "#D57835",
+    "ja": "#896A45"
+   },
+   "delta_e": 18.3944,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Decaying leaves color",
+    "ja": "銀杏などの黄葉の色。"
+   }
+  },
+  {
+   "name": "杏色",
+   "readings": {
+    "ja": "あんずいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F4A466"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "熟した杏の果実の色。やわらかい橙色。"
+   }
+  },
+  {
+   "name": "杜若",
+   "readings": {
+    "en": "Kakitsubata"
+   },
+   "hex_by_source": {
+    "en": "#491E3C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Rabbit-ear iris"
+   }
+  },
+  {
+   "name": "杜若色",
+   "readings": {
+    "ja": "かきつばたいろ"
+   },
+   "hex_by_source": {
+    "ja": "#5E3862"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "杜若の花の色。菖蒲色よりも赤みの強い紫色。"
+   }
+  },
+  {
+   "name": "東雲色",
+   "readings": {
+    "ja": "しののめいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F19072"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "曙色とも呼ばれる。夜明けの東の空を思わせる明るい黄赤色。"
+   }
+  },
+  {
+   "name": "松葉色",
+   "readings": {
+    "en": "Matsuba-iro",
+    "ja": "まつばいろ"
+   },
+   "hex_by_source": {
+    "en": "#454D32",
+    "ja": "#3F7735"
+   },
+   "delta_e": 17.2852,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Pine needle color",
+    "ja": "松の葉の色。くすんだ緑。"
+   }
+  },
+  {
+   "name": "枇杷茶",
+   "readings": {
+    "en": "Biwacha"
+   },
+   "hex_by_source": {
+    "en": "#AB6134"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Loquat tree-brown"
+   }
+  },
+  {
+   "name": "枡花色",
+   "readings": {
+    "ja": "ますはないろ"
+   },
+   "hex_by_source": {
+    "ja": "#5B7E91"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "五代目市川団十郎が好んだ淡い青。灰色がかった薄い青。"
+   }
+  },
+  {
+   "name": "柑子色",
+   "readings": {
+    "ja": "こうじいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FF5234"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "コウジミカンの色。明るい黄赤色。"
+   }
+  },
+  {
+   "name": "柳染",
+   "readings": {
+    "en": "Yanagizome"
+   },
+   "hex_by_source": {
+    "en": "#8C9E5E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Willow-dyed"
+   }
+  },
+  {
+   "name": "柳煤竹",
+   "readings": {
+    "en": "Yanagisusutake"
+   },
+   "hex_by_source": {
+    "en": "#4D4B3A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Sooty willow bamboo"
+   }
+  },
+  {
+   "name": "柳色",
+   "readings": {
+    "ja": "やなぎいろ"
+   },
+   "hex_by_source": {
+    "ja": "#A8C97F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "やや白味がかった黄緑色。"
+   }
+  },
+  {
+   "name": "柳茶",
+   "readings": {
+    "en": "Yanagicha"
+   },
+   "hex_by_source": {
+    "en": "#9C8A4D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Willow tea"
+   }
+  },
+  {
+   "name": "柳鼠",
+   "readings": {
+    "en": "Yanaginezumi"
+   },
+   "hex_by_source": {
+    "en": "#817B69"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Willow grey"
+   }
+  },
+  {
+   "name": "柴染",
+   "readings": {
+    "en": "Fushizome"
+   },
+   "hex_by_source": {
+    "en": "#8C5939"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Brushwood-dyed"
+   }
+  },
+  {
+   "name": "柿渋色",
+   "readings": {
+    "en": "Kakishibu-iro",
+    "ja": "かきしぶいろ"
+   },
+   "hex_by_source": {
+    "en": "#934337",
+    "ja": "#BD7862"
+   },
+   "delta_e": 18.7874,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Persimmon-juice color",
+    "ja": "色づく前のカキの実をしぼって作られる灰がかった黄赤色。"
+   }
+  },
+  {
+   "name": "柿色",
+   "readings": {
+    "ja": "かきいろ"
+   },
+   "hex_by_source": {
+    "ja": "#ED6D3D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "柿の実の色。鮮やかな朱赤。"
+   }
+  },
+  {
+   "name": "栗梅",
+   "readings": {
+    "en": "Kiriume",
+    "ja": "くりうめ"
+   },
+   "hex_by_source": {
+    "en": "#8B352D",
+    "ja": "#6C1912"
+   },
+   "delta_e": 8.5445,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Red-brown (lit. chestnut-plum)",
+    "ja": "栗色を帯びた濃い赤茶色。"
+   }
+  },
+  {
+   "name": "栗皮茶",
+   "readings": {
+    "en": "Kurikawacha"
+   },
+   "hex_by_source": {
+    "en": "#60281E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Chestnut-leather brown"
+   }
+  },
+  {
+   "name": "栗色",
+   "readings": {
+    "ja": "くりいろ"
+   },
+   "hex_by_source": {
+    "ja": "#800000"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "栗の皮のような赤みの焦茶色。"
+   }
+  },
+  {
+   "name": "根岸色",
+   "readings": {
+    "ja": "ねぎしいろ"
+   },
+   "hex_by_source": {
+    "ja": "#908E65"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "根岸で採れた土で塗った壁の色。緑がかった渋い薄茶色。"
+   }
+  },
+  {
+   "name": "桃色",
+   "readings": {
+    "en": "Momo-iro",
+    "ja": "ももいろ"
+   },
+   "hex_by_source": {
+    "en": "#F47983",
+    "ja": "#F58F98"
+   },
+   "delta_e": 5.169,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Peach-colored",
+    "ja": "桃の花の色。明るく淡い赤。"
+   }
+  },
+  {
+   "name": "桑染",
+   "readings": {
+    "en": "Kuwazome",
+    "ja": "くわぞめ"
+   },
+   "hex_by_source": {
+    "en": "#C57F2E",
+    "ja": "#DABC91"
+   },
+   "delta_e": 18.9453,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Mulberry-dyed",
+    "ja": "褐色を帯びたくすんだ黄色。"
+   }
+  },
+  {
+   "name": "桔梗色",
+   "readings": {
+    "en": "Kikyō-iro",
+    "ja": "ききょういろ"
+   },
+   "hex_by_source": {
+    "en": "#5D3F6A",
+    "ja": "#6A4C9C"
+   },
+   "delta_e": 10.6909,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Bellflower color",
+    "ja": "桔梗の花の色、青みを帯びた紫色。"
+   }
+  },
+  {
+   "name": "桜色",
+   "readings": {
+    "en": "Sakura-iro",
+    "ja": "さくらいろ"
+   },
+   "hex_by_source": {
+    "en": "#FCC9B9",
+    "ja": "#FEEEED"
+   },
+   "delta_e": 12.9599,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Cherry blossom color",
+    "ja": "桜の花の色。淡い紅色。"
+   }
+  },
+  {
+   "name": "桜鼠",
+   "readings": {
+    "en": "Sakuranezumi"
+   },
+   "hex_by_source": {
+    "en": "#AC8181"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Cherry blossom mouse grey"
+   }
+  },
+  {
+   "name": "桧皮色",
+   "readings": {
+    "ja": "ひわだいろ"
+   },
+   "hex_by_source": {
+    "ja": "#7B4334"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "桧皮（檜〈ひのき〉の表皮を取り去った後の皮）の色に由来する、赤茶色。"
+   }
+  },
+  {
+   "name": "梅幸茶",
+   "readings": {
+    "en": "Baikōcha"
+   },
+   "hex_by_source": {
+    "en": "#857C55"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Baiko brown"
+   }
+  },
+  {
+   "name": "梅染",
+   "readings": {
+    "en": "Umezome"
+   },
+   "hex_by_source": {
+    "en": "#FA9258"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Plum-dyed"
+   }
+  },
+  {
+   "name": "梅紫",
+   "readings": {
+    "en": "Umemurasaki"
+   },
+   "hex_by_source": {
+    "en": "#8F4155"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Plum purple"
+   }
+  },
+  {
+   "name": "梅鼠",
+   "readings": {
+    "en": "Umenezumi",
+    "ja": "うめねずみ"
+   },
+   "hex_by_source": {
+    "en": "#97645A",
+    "ja": "#AD7984"
+   },
+   "delta_e": 12.3593,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Plum-blossom mouse grey",
+    "ja": "紅梅の花の赤みのある薄い鼠色。"
+   }
+  },
+  {
+   "name": "梔子",
+   "readings": {
+    "en": "Kuchinashi"
+   },
+   "hex_by_source": {
+    "en": "#FFB95A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Cape jasmine or gardenia"
+   }
+  },
+  {
+   "name": "梔子色/支子色",
+   "readings": {
+    "ja": "くちなしいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFD768"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "クチナシの実で染めた、少し赤みのある黄色。"
+   }
+  },
+  {
+   "name": "楝色",
+   "readings": {
+    "ja": "おうちいろ"
+   },
+   "hex_by_source": {
+    "ja": "#A596C7"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "初夏に咲く楝の花のような薄い青紫色。"
+   }
+  },
+  {
+   "name": "榛色",
+   "readings": {
+    "ja": "はしばみいろ"
+   },
+   "hex_by_source": {
+    "ja": "#BFA46F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "榛の種子の色。黄色がかった薄茶色。"
+   }
+  },
+  {
+   "name": "樺色/蒲色",
+   "readings": {
+    "ja": "かばいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C5591A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "樺の樹皮または水草の蒲の穂の色。赤みのある橙色。"
+   }
+  },
+  {
+   "name": "樺茶",
+   "readings": {
+    "en": "Kabacha",
+    "ja": "かばちゃ"
+   },
+   "hex_by_source": {
+    "en": "#B14A30",
+    "ja": "#726250"
+   },
+   "delta_e": 20.4167,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Birch brown",
+    "ja": "樺色を帯びた茶色。"
+   }
+  },
+  {
+   "name": "橙色",
+   "readings": {
+    "ja": "だいだいいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFB74C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "果物のダイダイの実から転じる。赤と黄色の中間色。"
+   }
+  },
+  {
+   "name": "檜皮色",
+   "readings": {
+    "en": "Hihada-iro"
+   },
+   "hex_by_source": {
+    "en": "#752E23"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Cypress bark color"
+   }
+  },
+  {
+   "name": "檳榔子染",
+   "readings": {
+    "en": "Binrōjizome"
+   },
+   "hex_by_source": {
+    "en": "#352925"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Betel nut-dyed"
+   }
+  },
+  {
+   "name": "檸檬色",
+   "readings": {
+    "ja": "れもんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFF450"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "レモンの色。やや緑みを帯びた薄い黄色。"
+   }
+  },
+  {
+   "name": "櫨染",
+   "readings": {
+    "en": "Hajizome"
+   },
+   "hex_by_source": {
+    "en": "#E08A1E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Sumac-dyed"
+   }
+  },
+  {
+   "name": "水がき",
+   "readings": {
+    "en": "Mizugaki"
+   },
+   "hex_by_source": {
+    "en": "#B56C60"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Water persimmon"
+   }
+  },
+  {
+   "name": "水浅葱",
+   "readings": {
+    "en": "Mizu'asagi",
+    "ja": "みずあさぎ"
+   },
+   "hex_by_source": {
+    "en": "#749F8D",
+    "ja": "#8CD2BC"
+   },
+   "delta_e": 13.9757,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Pale green onion",
+    "ja": "水色がかった浅葱色。緑みの淡い青色。"
+   }
+  },
+  {
+   "name": "水色",
+   "readings": {
+    "en": "Mizu-iro",
+    "ja": "みずいろ"
+   },
+   "hex_by_source": {
+    "en": "#86ABA5",
+    "ja": "#AFDFE4"
+   },
+   "delta_e": 14.197,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Aqua Blue color",
+    "ja": "澄んだ水の色。淡い緑みの青。"
+   }
+  },
+  {
+   "name": "江戸紫",
+   "readings": {
+    "ja": "えどむらさき"
+   },
+   "hex_by_source": {
+    "ja": "#745399"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "江戸時代前期の流行色。青みがかった紫色。"
+   }
+  },
+  {
+   "name": "江戸茶",
+   "readings": {
+    "en": "Edocha",
+    "ja": "えどちゃ"
+   },
+   "hex_by_source": {
+    "en": "#A13D2D",
+    "ja": "#CD8C5C"
+   },
+   "delta_e": 27.2254,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Red-brown (Edo brown)",
+    "ja": "江戸時代前期の流行色。黄みの深い赤褐色。"
+   }
+  },
+  {
+   "name": "沈香茶",
+   "readings": {
+    "en": "Tonocha"
+   },
+   "hex_by_source": {
+    "en": "#5A6457"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Aloeswood brown"
+   }
+  },
+  {
+   "name": "洒落柿",
+   "readings": {
+    "en": "Sharegaki"
+   },
+   "hex_by_source": {
+    "en": "#FFA26B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Stylish persimmon"
+   }
+  },
+  {
+   "name": "洗朱",
+   "readings": {
+    "en": "Araishu",
+    "ja": "あらいしゅ"
+   },
+   "hex_by_source": {
+    "en": "#FF7952",
+    "ja": "#D0826C"
+   },
+   "delta_e": 9.4736,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Rinsed-out red",
+    "ja": "薄い朱色。黄色みを帯びた朱色。"
+   }
+  },
+  {
+   "name": "洗柿",
+   "readings": {
+    "en": "Araigaki",
+    "ja": "あらいがき"
+   },
+   "hex_by_source": {
+    "en": "#EC8254",
+    "ja": "#F0B694"
+   },
+   "delta_e": 13.8678,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Washed-out persimmon",
+    "ja": "柿色が淡くなった橙色。"
+   }
+  },
+  {
+   "name": "浅緋",
+   "readings": {
+    "ja": "あさあけ"
+   },
+   "hex_by_source": {
+    "ja": "#DF7163"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "茜で薄く染めた緋色。"
+   }
+  },
+  {
+   "name": "浅緑",
+   "readings": {
+    "ja": "あさみどり"
+   },
+   "hex_by_source": {
+    "ja": "#9BCF97"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "若葉のような薄い緑色。黄みがかった明るい緑色。"
+   }
+  },
+  {
+   "name": "浅葱色",
+   "readings": {
+    "en": "Asagi-iro",
+    "ja": "あさぎいろ"
+   },
+   "hex_by_source": {
+    "en": "#48929B",
+    "ja": "#00A4AC"
+   },
+   "delta_e": 7.0426,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Light blue color",
+    "ja": "葱の葉の色を薄くしたような青緑。"
+   }
+  },
+  {
+   "name": "浅黄",
+   "readings": {
+    "en": "Asagi"
+   },
+   "hex_by_source": {
+    "en": "#F7BB7D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Light yellow"
+   }
+  },
+  {
+   "name": "浅黄色",
+   "readings": {
+    "ja": "あさぎいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFCC33"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "薄い黄色。"
+   }
+  },
+  {
+   "name": "海松色",
+   "readings": {
+    "en": "Miru-iro",
+    "ja": "みるいろ"
+   },
+   "hex_by_source": {
+    "en": "#524B2A",
+    "ja": "#6E6B41"
+   },
+   "delta_e": 11.3895,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "''Codium fragile'' seaweed color",
+    "ja": "ミル目の緑藻である海松（みる）のような灰色がかった黄緑色。"
+   }
+  },
+  {
+   "name": "海松茶",
+   "readings": {
+    "en": "Mirucha"
+   },
+   "hex_by_source": {
+    "en": "#4C3D30"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Simmered seaweed"
+   }
+  },
+  {
+   "name": "海老茶",
+   "readings": {
+    "en": "Ebicha"
+   },
+   "hex_by_source": {
+    "en": "#5E2824"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Maroon (shrimp brown)"
+   }
+  },
+  {
+   "name": "涅色",
+   "readings": {
+    "ja": "くりいろ"
+   },
+   "hex_by_source": {
+    "ja": "#433634"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "川底の泥のような茶みがかった黒。"
+   }
+  },
+  {
+   "name": "消炭色",
+   "readings": {
+    "ja": "けしずみいろ"
+   },
+   "hex_by_source": {
+    "ja": "#595045"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "消し炭のような橙みの暗い灰色。"
+   }
+  },
+  {
+   "name": "淡萌黄",
+   "readings": {
+    "en": "Usumo'egi"
+   },
+   "hex_by_source": {
+    "en": "#8DB255"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Pale young green onion"
+   }
+  },
+  {
+   "name": "淡香",
+   "readings": {
+    "en": "Usukō",
+    "ja": "うすこう"
+   },
+   "hex_by_source": {
+    "en": "#FFA565",
+    "ja": "#F3BF88"
+   },
+   "delta_e": 9.3488,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Pale incense",
+    "ja": "黄みの淡い黄褐色。"
+   }
+  },
+  {
+   "name": "深川鼠",
+   "readings": {
+    "ja": "ふかがわねずみ"
+   },
+   "hex_by_source": {
+    "ja": "#85A1A0"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "薄い青緑みの灰色。"
+   }
+  },
+  {
+   "name": "深支子",
+   "readings": {
+    "en": "Kokikuchinashi"
+   },
+   "hex_by_source": {
+    "en": "#F57F4F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Rich gardenia"
+   }
+  },
+  {
+   "name": "深紫",
+   "readings": {
+    "en": "Kokimurasaki"
+   },
+   "hex_by_source": {
+    "en": "#3A243B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Deep purple"
+   }
+  },
+  {
+   "name": "深緋",
+   "readings": {
+    "en": "Kokiake"
+   },
+   "hex_by_source": {
+    "en": "#7B3B3A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Deep scarlet"
+   }
+  },
+  {
+   "name": "深緑",
+   "readings": {
+    "ja": "ふかみどり"
+   },
+   "hex_by_source": {
+    "ja": "#004025"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "青みと黒みの強い濃い緑色。"
+   }
+  },
+  {
+   "name": "湊鼠",
+   "readings": {
+    "en": "Minatonezumi"
+   },
+   "hex_by_source": {
+    "en": "#757D75"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Harbor rat"
+   }
+  },
+  {
+   "name": "滅紫",
+   "readings": {
+    "en": "Messhi",
+    "ja": "けしむらさき"
+   },
+   "hex_by_source": {
+    "en": "#3F313A",
+    "ja": "#594255"
+   },
+   "delta_e": 8.3909,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Poppy purple",
+    "ja": "「めっし」とも読む。くすんだ紫。"
+   }
+  },
+  {
+   "name": "漆黒",
+   "readings": {
+    "ja": "しっこく"
+   },
+   "hex_by_source": {
+    "ja": "#080000"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "黒漆を塗った漆器のような深く艶のある黒。純粋な黒。『純白』の対義語。"
+   }
+  },
+  {
+   "name": "濃藍",
+   "readings": {
+    "ja": "こいあい/こあい"
+   },
+   "hex_by_source": {
+    "ja": "#002E4E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "藍染の中でも最も濃い色の一つで、極めて暗い藍色。"
+   }
+  },
+  {
+   "name": "濡烏",
+   "readings": {
+    "ja": "ぬれがらす"
+   },
+   "hex_by_source": {
+    "ja": "#000B00"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "烏の羽毛のような艶のある黒。濡羽色とも言う。"
+   }
+  },
+  {
+   "name": "灰桜",
+   "readings": {
+    "ja": "はいざくら"
+   },
+   "hex_by_source": {
+    "ja": "#E8D3D1"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "灰色がかった明るい紅色。"
+   }
+  },
+  {
+   "name": "灰汁色",
+   "readings": {
+    "en": "Aku-iro",
+    "ja": "あくいろ"
+   },
+   "hex_by_source": {
+    "en": "#7F6B5D",
+    "ja": "#BCB09C"
+   },
+   "delta_e": 23.4621,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Lye-colored",
+    "ja": "灰汁のような黄みがかった灰色。"
+   }
+  },
+  {
+   "name": "灰色",
+   "readings": {
+    "ja": "はいいろ"
+   },
+   "hex_by_source": {
+    "ja": "#808080"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "物を燃やした後に残る灰の色。無彩色。白と黒の中間色。"
+   }
+  },
+  {
+   "name": "焦茶",
+   "readings": {
+    "en": "Kogecha",
+    "ja": "こげちゃ"
+   },
+   "hex_by_source": {
+    "en": "#351F19",
+    "ja": "#6A4D32"
+   },
+   "delta_e": 17.5583,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Scorched brown",
+    "ja": "物が焼け焦げたような黒みがかった茶色。"
+   }
+  },
+  {
+   "name": "煉瓦色",
+   "readings": {
+    "ja": "れんがいろ"
+   },
+   "hex_by_source": {
+    "ja": "#AA5C3F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "煉瓦のような赤みのくすんだ茶色。"
+   }
+  },
+  {
+   "name": "煎茶色",
+   "readings": {
+    "en": "Sencha-iro"
+   },
+   "hex_by_source": {
+    "en": "#824B35"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Green tea-colored"
+   }
+  },
+  {
+   "name": "煤竹色",
+   "readings": {
+    "en": "Susutake-iro",
+    "ja": "すすたけいろ"
+   },
+   "hex_by_source": {
+    "en": "#593A27",
+    "ja": "#6F514C"
+   },
+   "delta_e": 10.5384,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Weathered bamboo (lit. \"sooty\")",
+    "ja": "煙で煤けた竹の色。暗い赤褐色。"
+   }
+  },
+  {
+   "name": "照柿",
+   "readings": {
+    "en": "Terigaki"
+   },
+   "hex_by_source": {
+    "en": "#D34E36"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Glazed persimmon"
+   }
+  },
+  {
+   "name": "熨斗目花色",
+   "readings": {
+    "en": "Noshimehana-iro"
+   },
+   "hex_by_source": {
+    "en": "#344D56"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Iron head flower color"
+   }
+  },
+  {
+   "name": "牡丹",
+   "readings": {
+    "en": "Bōtan"
+   },
+   "hex_by_source": {
+    "en": "#A4345D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Tree peony"
+   }
+  },
+  {
+   "name": "牡丹色",
+   "readings": {
+    "ja": "ぼたんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E761A4"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "牡丹の花の色。濃い紫紅色。"
+   }
+  },
+  {
+   "name": "狐色",
+   "readings": {
+    "en": "Kitsune-iro",
+    "ja": "きつねいろ"
+   },
+   "hex_by_source": {
+    "en": "#985629",
+    "ja": "#C48847"
+   },
+   "delta_e": 18.8413,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Fox-color",
+    "ja": "狐の毛の色。薄い茶褐色。食品の加熱処理の際の焦げすぎない程度の色を表す比喩。"
+   }
+  },
+  {
+   "name": "猩々緋",
+   "readings": {
+    "en": "Shōjōhi",
+    "ja": "しょうじょうひ"
+   },
+   "hex_by_source": {
+    "en": "#DC3023",
+    "ja": "#CE313D"
+   },
+   "delta_e": 7.7513,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Red-orange (lit. orangutan-colored)",
+    "ja": "中国由来の空想上の動物である猩々の血の赤色（緋色）。"
+   }
+  },
+  {
+   "name": "玉子色",
+   "readings": {
+    "en": "Tamago-iro"
+   },
+   "hex_by_source": {
+    "en": "#FFA631"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Egg-colored"
+   }
+  },
+  {
+   "name": "玉蜀黍色",
+   "readings": {
+    "en": "Tōmorokoshi-iro"
+   },
+   "hex_by_source": {
+    "en": "#FAA945"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Corn-colored"
+   }
+  },
+  {
+   "name": "珊瑚色",
+   "readings": {
+    "en": "Sango-iro",
+    "ja": "さんごいろ"
+   },
+   "hex_by_source": {
+    "en": "#F8674F",
+    "ja": "#FF7F50"
+   },
+   "delta_e": 7.5783,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Coral color",
+    "ja": "赤い珊瑚を粉末にした顔料の色。黄みがかった明るい赤。"
+   }
+  },
+  {
+   "name": "琥珀色",
+   "readings": {
+    "en": "Kohaku-iro",
+    "ja": "こはくいろ"
+   },
+   "hex_by_source": {
+    "en": "#CA6924",
+    "ja": "#EA930A"
+   },
+   "delta_e": 15.7671,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Amber color",
+    "ja": "琥珀の石のような色。透明感のある黄褐色。"
+   }
+  },
+  {
+   "name": "瑠璃紺",
+   "readings": {
+    "en": "Rurikon",
+    "ja": "るりこん"
+   },
+   "hex_by_source": {
+    "en": "#1B294B",
+    "ja": "#224B8F"
+   },
+   "delta_e": 13.8472,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Dark blue lapis lazuli",
+    "ja": "瑠璃色がかった紺色。深い紫みの青色。"
+   }
+  },
+  {
+   "name": "瑠璃色",
+   "readings": {
+    "en": "Ruri-iro",
+    "ja": "るりいろ"
+   },
+   "hex_by_source": {
+    "en": "#1F4788",
+    "ja": "#2A5CAA"
+   },
+   "delta_e": 7.7374,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Lapis lazuli color",
+    "ja": "宝玉「瑠璃（るり、ラピスラズリ）」の色に由来する、深い青。"
+   }
+  },
+  {
+   "name": "璃寛茶",
+   "readings": {
+    "en": "Rikancha",
+    "ja": "りかんちゃ"
+   },
+   "hex_by_source": {
+    "en": "#534A32",
+    "ja": "#6E6636"
+   },
+   "delta_e": 11.7279,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Rikan brown",
+    "ja": "江戸時代の流行色の1つ。暗い緑がかった茶色。"
+   }
+  },
+  {
+   "name": "瓶覗",
+   "readings": {
+    "en": "Kamenozoki",
+    "ja": "かめのぞき"
+   },
+   "hex_by_source": {
+    "en": "#C6C2B6",
+    "ja": "#C5E4ED"
+   },
+   "delta_e": 16.0889,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Inside of a bottle",
+    "ja": "藍染めで、藍瓶に浸す回数が少ない、瓶を覗いただけのような薄い藍色。"
+   }
+  },
+  {
+   "name": "甚三紅",
+   "readings": {
+    "en": "Jinzamomi"
+   },
+   "hex_by_source": {
+    "en": "#F7665A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Thrice-dyed crimson"
+   }
+  },
+  {
+   "name": "生壁色",
+   "readings": {
+    "en": "Namakabe-iro",
+    "ja": "なまかべいろ"
+   },
+   "hex_by_source": {
+    "en": "#785E49",
+    "ja": "#AA8C63"
+   },
+   "delta_e": 19.1369,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "The color of undried plaster",
+    "ja": "塗りたての乾いていない土壁の色。灰色みの黄褐色。"
+   }
+  },
+  {
+   "name": "生成色",
+   "readings": {
+    "ja": "きなりいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C2B280"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "染色や脱色をしていない生地の色。"
+   }
+  },
+  {
+   "name": "留紺",
+   "readings": {
+    "ja": "とめこん"
+   },
+   "hex_by_source": {
+    "ja": "#1C305C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "それ以上染めることのできない紺色。"
+   }
+  },
+  {
+   "name": "白",
+   "readings": {
+    "ja": "しろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFFFFF"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "無彩色。最も明るい色。純白。"
+   }
+  },
+  {
+   "name": "白橡",
+   "readings": {
+    "en": "Shirotsurubami"
+   },
+   "hex_by_source": {
+    "en": "#CE9F6F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "White oak"
+   }
+  },
+  {
+   "name": "白緑",
+   "readings": {
+    "en": "Byakuroku",
+    "ja": "びゃくろく"
+   },
+   "hex_by_source": {
+    "en": "#A5BA93",
+    "ja": "#DAEAD0"
+   },
+   "delta_e": 12.9389,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Whitish green",
+    "ja": "白みを帯びた淡い緑色。"
+   }
+  },
+  {
+   "name": "白練",
+   "readings": {
+    "en": "Shironeri"
+   },
+   "hex_by_source": {
+    "en": "#FFDDCA"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Unbleached silk"
+   }
+  },
+  {
+   "name": "白群",
+   "readings": {
+    "ja": "びゃくぐん"
+   },
+   "hex_by_source": {
+    "ja": "#83CCD2"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "白みを帯びた青。"
+   }
+  },
+  {
+   "name": "白茶",
+   "readings": {
+    "en": "Shiracha",
+    "ja": "しらちゃ"
+   },
+   "hex_by_source": {
+    "en": "#C48E69",
+    "ja": "#DAC4A5"
+   },
+   "delta_e": 16.4633,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "White tea-colored",
+    "ja": "薄くて明るい感じの茶色。"
+   }
+  },
+  {
+   "name": "白鼠",
+   "readings": {
+    "en": "Shironezumi"
+   },
+   "hex_by_source": {
+    "en": "#B9A193"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "White mouse"
+   }
+  },
+  {
+   "name": "百塩茶",
+   "readings": {
+    "en": "Momoshiocha",
+    "ja": "ももしおちゃ"
+   },
+   "hex_by_source": {
+    "en": "#542D24",
+    "ja": "#542D24"
+   },
+   "delta_e": 0.0,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Boiled red bean brown",
+    "ja": "何度も染め重ねたような非常に濃い赤褐色。"
+   }
+  },
+  {
+   "name": "真朱",
+   "readings": {
+    "en": "Shinshu"
+   },
+   "hex_by_source": {
+    "en": "#8F1D21"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "True red"
+   }
+  },
+  {
+   "name": "真紅",
+   "readings": {
+    "ja": "しんく"
+   },
+   "hex_by_source": {
+    "ja": "#B1063A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "深紅とも書く。濃い紅色。または、真っ赤な色。"
+   }
+  },
+  {
+   "name": "石竹色",
+   "readings": {
+    "ja": "せきちくいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F9C1CF"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "石竹の花の色。淡い紅色。"
+   }
+  },
+  {
+   "name": "砥粉色",
+   "readings": {
+    "ja": "とのこいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F4DDA5"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "砥石で刃物を研いだ時に出る砥石の粉「砥粉」の色。赤みの鈍い黄色。"
+   }
+  },
+  {
+   "name": "礪茶",
+   "readings": {
+    "en": "Tonocha"
+   },
+   "hex_by_source": {
+    "en": "#985538"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Polished brown"
+   }
+  },
+  {
+   "name": "空五倍子色",
+   "readings": {
+    "ja": "うつぶしいろ"
+   },
+   "hex_by_source": {
+    "ja": "#9D896C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "虫こぶで染めたやや褐色がかった淡い灰色。"
+   }
+  },
+  {
+   "name": "空色",
+   "readings": {
+    "en": "Sora-iro",
+    "ja": "そらいろ"
+   },
+   "hex_by_source": {
+    "en": "#4D8FAC",
+    "ja": "#90D7EC"
+   },
+   "delta_e": 20.6185,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Sky Blue color",
+    "ja": "晴天時の空の色を示す明るく淡い青色。青と白の中間色。"
+   }
+  },
+  {
+   "name": "竜胆色",
+   "readings": {
+    "ja": "りんどういろ"
+   },
+   "hex_by_source": {
+    "ja": "#6967AB"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "竜胆の花の色。薄い青紫色。"
+   }
+  },
+  {
+   "name": "紅掛花色",
+   "readings": {
+    "en": "Benikakehana-iro"
+   },
+   "hex_by_source": {
+    "en": "#5A4F74"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Safflower color"
+   }
+  },
+  {
+   "name": "紅柄色",
+   "readings": {
+    "en": "Bengara-iro"
+   },
+   "hex_by_source": {
+    "en": "#913225"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Dyestalk red (lit. the color from dying with the stalk of the {{translit|ja|beni}} (safflower) plant)"
+   }
+  },
+  {
+   "name": "紅梅色",
+   "readings": {
+    "en": "Kōbai-iro",
+    "ja": "こうばいいろ"
+   },
+   "hex_by_source": {
+    "en": "#DB5A6B",
+    "ja": "#E86B79"
+   },
+   "delta_e": 4.8433,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Red plum colored",
+    "ja": "紅梅の花の色。やや紫みのある淡い紅色。"
+   }
+  },
+  {
+   "name": "紅樺",
+   "readings": {
+    "en": "Benikaba"
+   },
+   "hex_by_source": {
+    "en": "#9D2B22"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Red birch"
+   }
+  },
+  {
+   "name": "紅樺色",
+   "readings": {
+    "ja": "べにかばいろ"
+   },
+   "hex_by_source": {
+    "ja": "#B63D1B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "紅色がかった樺色。"
+   }
+  },
+  {
+   "name": "紅檜皮",
+   "readings": {
+    "en": "Benihibata"
+   },
+   "hex_by_source": {
+    "en": "#6F3028"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Cypress bark red"
+   }
+  },
+  {
+   "name": "紅消鼠",
+   "readings": {
+    "en": "Benikeshinezumi"
+   },
+   "hex_by_source": {
+    "en": "#44312E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Vanishing red mouse"
+   }
+  },
+  {
+   "name": "紅碧",
+   "readings": {
+    "en": "Benimidori"
+   },
+   "hex_by_source": {
+    "en": "#78779B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Stained red"
+   }
+  },
+  {
+   "name": "紅緋",
+   "readings": {
+    "en": "Benihi",
+    "ja": "べにひ"
+   },
+   "hex_by_source": {
+    "en": "#F35336",
+    "ja": "#F83929"
+   },
+   "delta_e": 3.5429,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Blood red",
+    "ja": "紅花染めと鬱金などの黄みの色を染め重ねられた色。冴えた黄みの赤色。"
+   }
+  },
+  {
+   "name": "紅色",
+   "readings": {
+    "ja": "くれないいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C22047"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "「べにいろ」とも読む。紅花で染色した鮮やかな赤。"
+   }
+  },
+  {
+   "name": "紅蓮色",
+   "readings": {
+    "ja": "ぐれんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#AD002D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "決まった色はないが濃い紅で、よく炎の色に喩えられる。"
+   }
+  },
+  {
+   "name": "紅藤",
+   "readings": {
+    "en": "Benifuji"
+   },
+   "hex_by_source": {
+    "en": "#BB7796"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Red wisteria"
+   }
+  },
+  {
+   "name": "紅赤",
+   "readings": {
+    "ja": "べにあか"
+   },
+   "hex_by_source": {
+    "ja": "#E5004F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "わずかに紫みを含んだ鮮やかな赤。"
+   }
+  },
+  {
+   "name": "紅鬱金",
+   "readings": {
+    "en": "Beni'ukon"
+   },
+   "hex_by_source": {
+    "en": "#FB8136"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Red-bronze (lit. red dye and turmeric)"
+   }
+  },
+  {
+   "name": "紅鳶",
+   "readings": {
+    "en": "Benitobi"
+   },
+   "hex_by_source": {
+    "en": "#913228"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Red kite (bird species)"
+   }
+  },
+  {
+   "name": "納戸色",
+   "readings": {
+    "ja": "なんどいろ"
+   },
+   "hex_by_source": {
+    "ja": "#008899"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "納戸の奥行きの闇を思わせる緑がかった深い青色。"
+   }
+  },
+  {
+   "name": "紛紅",
+   "readings": {
+    "ja": "まがいべに"
+   },
+   "hex_by_source": {
+    "ja": "#FB3C02"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "蘇芳で紅に似せて染めた色。"
+   }
+  },
+  {
+   "name": "素鼠",
+   "readings": {
+    "en": "Sunezumi"
+   },
+   "hex_by_source": {
+    "en": "#6E5F57"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Plain mouse"
+   }
+  },
+  {
+   "name": "紫",
+   "readings": {
+    "en": "Murasaki",
+    "ja": "むらさき"
+   },
+   "hex_by_source": {
+    "en": "#4F284B",
+    "ja": "#A757A8"
+   },
+   "delta_e": 24.0954,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Purple",
+    "ja": "青と赤の中間色。"
+   }
+  },
+  {
+   "name": "紫紺",
+   "readings": {
+    "en": "Shikon",
+    "ja": "しこん"
+   },
+   "hex_by_source": {
+    "en": "#2B2028",
+    "ja": "#400B36"
+   },
+   "delta_e": 14.754,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Blue-violet",
+    "ja": "紺色がかった暗めの紫色。"
+   }
+  },
+  {
+   "name": "紫苑色",
+   "readings": {
+    "en": "Shion-iro",
+    "ja": "しおんいろ"
+   },
+   "hex_by_source": {
+    "en": "#976E9A",
+    "ja": "#968ABD"
+   },
+   "delta_e": 11.6004,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Tatarian aster color",
+    "ja": "紫苑の花の色。淡い紫色。"
+   }
+  },
+  {
+   "name": "紫鈍",
+   "readings": {
+    "ja": "むらさきにび"
+   },
+   "hex_by_source": {
+    "ja": "#966F9C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "紫みの灰色。"
+   }
+  },
+  {
+   "name": "紫鳶",
+   "readings": {
+    "en": "Murasakitobi"
+   },
+   "hex_by_source": {
+    "en": "#512C31"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Purple kite"
+   }
+  },
+  {
+   "name": "紺",
+   "readings": {
+    "en": "Kon"
+   },
+   "hex_by_source": {
+    "en": "#192236"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Dark blue"
+   }
+  },
+  {
+   "name": "紺桔梗",
+   "readings": {
+    "en": "Konkikyō",
+    "ja": "こんききょう"
+   },
+   "hex_by_source": {
+    "en": "#191F45",
+    "ja": "#211E55"
+   },
+   "delta_e": 4.6046,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Navy blue bellflower",
+    "ja": "紺色を帯びた濃い桔梗色。"
+   }
+  },
+  {
+   "name": "紺色",
+   "readings": {
+    "ja": "こんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#233B6C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "紫がかっている暗い青。"
+   }
+  },
+  {
+   "name": "紺青色",
+   "readings": {
+    "en": "Konjō-iro",
+    "ja": "こんじょういろ"
+   },
+   "hex_by_source": {
+    "en": "#003171",
+    "ja": "#1A4472"
+   },
+   "delta_e": 6.3529,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Prussian blue color",
+    "ja": "紫色を帯びた暗い上品な青。"
+   }
+  },
+  {
+   "name": "緋",
+   "readings": {
+    "en": "Ake"
+   },
+   "hex_by_source": {
+    "en": "#CF3A24"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Scarlet (blood)"
+   }
+  },
+  {
+   "name": "緋色",
+   "readings": {
+    "ja": "ひいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E54848"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "最も明るい茜色。"
+   }
+  },
+  {
+   "name": "緑",
+   "readings": {
+    "en": "Midori",
+    "ja": "みどり"
+   },
+   "hex_by_source": {
+    "en": "#2A603B",
+    "ja": "#008000"
+   },
+   "delta_e": 16.0093,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Green",
+    "ja": "黄色と青緑の中間色。"
+   }
+  },
+  {
+   "name": "緑青",
+   "readings": {
+    "en": "Rokushō",
+    "ja": "ろくしょう"
+   },
+   "hex_by_source": {
+    "en": "#407A52",
+    "ja": "#5BAD92"
+   },
+   "delta_e": 18.5802,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Patina",
+    "ja": "銅の錆の色。明るく鈍い青緑色。"
+   }
+  },
+  {
+   "name": "練色",
+   "readings": {
+    "ja": "ねりいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFF9E2"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "絹糸を漂白する前の練糸のようにわずかに黄味がかった白。"
+   }
+  },
+  {
+   "name": "縹",
+   "readings": {
+    "en": "Hanada"
+   },
+   "hex_by_source": {
+    "en": "#044F67"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Light blue silk"
+   }
+  },
+  {
+   "name": "縹色",
+   "readings": {
+    "ja": "はなだいろ"
+   },
+   "hex_by_source": {
+    "ja": "#267CA7"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "染料「縹（つゆくさ）」から。薄い藍色。"
+   }
+  },
+  {
+   "name": "織部色",
+   "readings": {
+    "ja": "おりべいろ"
+   },
+   "hex_by_source": {
+    "ja": "#125115"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "織部焼のような緑色。"
+   }
+  },
+  {
+   "name": "羊羹色",
+   "readings": {
+    "ja": "ようかんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#6D3C14"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "和菓子の羊羹の色から。黒に近い暗い赤褐色。"
+   }
+  },
+  {
+   "name": "群青色",
+   "readings": {
+    "en": "Gunjō-iro",
+    "ja": "ぐんじょういろ"
+   },
+   "hex_by_source": {
+    "en": "#5D8CAE",
+    "ja": "#465DAA"
+   },
+   "delta_e": 17.5722,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Ultramarine color",
+    "ja": "やや紫みを帯びた深い青色。"
+   }
+  },
+  {
+   "name": "老竹色",
+   "readings": {
+    "en": "Oitake-iro",
+    "ja": "おいたけいろ"
+   },
+   "hex_by_source": {
+    "en": "#5E644F",
+    "ja": "#769164"
+   },
+   "delta_e": 18.1964,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Old bamboo color",
+    "ja": "年を経た意味の灰みをおびた老竹の色。ややくすんで灰色がかった緑色。"
+   }
+  },
+  {
+   "name": "肌色",
+   "readings": {
+    "ja": "はだいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F1BB93"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "日本人の膚（はだ）の色に似せた薄いオレンジ。現在は特定の色を肌色と規定することはおかしいとして、「薄橙」「ペールオレンジ」などと呼ぶように変更されつつある。"
+   }
+  },
+  {
+   "name": "肥後煤竹",
+   "readings": {
+    "en": "Higosusutake"
+   },
+   "hex_by_source": {
+    "en": "#7F5D3B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Japanese iris and sooty bamboo"
+   }
+  },
+  {
+   "name": "胡桃染",
+   "readings": {
+    "en": "Kurumizome"
+   },
+   "hex_by_source": {
+    "en": "#9F7462"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Walnut-dyed"
+   }
+  },
+  {
+   "name": "胡桃色",
+   "readings": {
+    "ja": "くるみいろ"
+   },
+   "hex_by_source": {
+    "ja": "#A86F4C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "胡桃の木の皮や実の外皮などを使って染めた黄褐色。"
+   }
+  },
+  {
+   "name": "臙脂色",
+   "readings": {
+    "en": "Enji-iro",
+    "ja": "えんじいろ"
+   },
+   "hex_by_source": {
+    "en": "#9D2933",
+    "ja": "#B3424A"
+   },
+   "delta_e": 7.3781,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Cochineal red/rouge",
+    "ja": "黒味がかった濃い赤色。紅花かカイガラムシ科の昆虫（主にエンジムシ）で染めることが一般的。"
+   }
+  },
+  {
+   "name": "舛花色",
+   "readings": {
+    "en": "Masuhana-iro"
+   },
+   "hex_by_source": {
+    "en": "#4D646C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Ichikawa family crest blue<ref>{{cite web | url=https://irocore.com/masuhana-iro/ | title=舛花色(ますはないろ)とは？：伝統色のいろは }}</ref>"
+   }
+  },
+  {
+   "name": "芝翫茶",
+   "readings": {
+    "en": "Shikancha",
+    "ja": "しかんちゃ"
+   },
+   "hex_by_source": {
+    "en": "#AB4C3D",
+    "ja": "#AD7E4E"
+   },
+   "delta_e": 20.8499,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Wilted brown (lit. wilted lawn-clippings)",
+    "ja": "江戸時代の流行色の1つ。ややくすんだ赤褐色。"
+   }
+  },
+  {
+   "name": "芥子色",
+   "readings": {
+    "ja": "からしいろ"
+   },
+   "hex_by_source": {
+    "ja": "#D0AF4C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "からしの色。やや鈍い黄色。"
+   }
+  },
+  {
+   "name": "花浅葱",
+   "readings": {
+    "en": "Hanaasagi"
+   },
+   "hex_by_source": {
+    "en": "#1D697C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Light blue flower"
+   }
+  },
+  {
+   "name": "花葉色",
+   "readings": {
+    "en": "Hanaba-iro"
+   },
+   "hex_by_source": {
+    "en": "#FFB94E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Floral leaf-colored"
+   }
+  },
+  {
+   "name": "苅安色/刈安色",
+   "readings": {
+    "ja": "かりやすいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFD768"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "日本の伝統色の一つ。カリヤスという草で染める、青色がかった黄色。"
+   }
+  },
+  {
+   "name": "苅萱",
+   "readings": {
+    "en": "Kariyasu"
+   },
+   "hex_by_source": {
+    "en": "#E2B13C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Japanese triandra grass (''Themeda japonica'')"
+   }
+  },
+  {
+   "name": "苔色",
+   "readings": {
+    "en": "Koke-iro",
+    "ja": "こけいろ"
+   },
+   "hex_by_source": {
+    "en": "#8B7D3A",
+    "ja": "#78882D"
+   },
+   "delta_e": 9.5635,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Moss color",
+    "ja": "苔のような深く渋い黄緑色。"
+   }
+  },
+  {
+   "name": "苗色",
+   "readings": {
+    "ja": "なえいろ"
+   },
+   "hex_by_source": {
+    "ja": "#B0CA71"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "稲の苗のような淡い感じの緑色。明るい萌葱色。"
+   }
+  },
+  {
+   "name": "若竹色",
+   "readings": {
+    "en": "Wakatake-iro",
+    "ja": "わかたけいろ"
+   },
+   "hex_by_source": {
+    "en": "#6B9362",
+    "ja": "#7CC28E"
+   },
+   "delta_e": 13.9459,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Young bamboo color",
+    "ja": "字義は若い竹の色だが、実際は若い竹ほど青味が強い。緑寄りの明るい黄緑色。"
+   }
+  },
+  {
+   "name": "若緑",
+   "readings": {
+    "ja": "わかみどり"
+   },
+   "hex_by_source": {
+    "ja": "#A5CD89"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "松の若葉のような明るく浅い黄緑色。"
+   }
+  },
+  {
+   "name": "若芽色",
+   "readings": {
+    "ja": "わかめいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E0EBAF"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "植物の新芽のように淡く明るい緑色。"
+   }
+  },
+  {
+   "name": "若苗色",
+   "readings": {
+    "ja": "わかなえいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C7DC68"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "稲の苗のような黄緑色。"
+   }
+  },
+  {
+   "name": "若草色",
+   "readings": {
+    "ja": "わかくさいろ"
+   },
+   "hex_by_source": {
+    "ja": "#ABC900"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "若草のようなあざやかな黄緑。"
+   }
+  },
+  {
+   "name": "若菜色",
+   "readings": {
+    "ja": "わかないろ"
+   },
+   "hex_by_source": {
+    "ja": "#CCDE68"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "立春に芽を出す食用植物の淡い緑色。"
+   }
+  },
+  {
+   "name": "若葉色",
+   "readings": {
+    "ja": "わかばいろ"
+   },
+   "hex_by_source": {
+    "ja": "#A4CA68"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "草木の若葉のようなやわらかい黄緑色。"
+   }
+  },
+  {
+   "name": "苺色",
+   "readings": {
+    "ja": "いちごいろ"
+   },
+   "hex_by_source": {
+    "ja": "#BB5561"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "鮮やかに色づいた苺の実の色。少し紫がかった赤。"
+   }
+  },
+  {
+   "name": "茄子紺",
+   "readings": {
+    "ja": "なすこん"
+   },
+   "hex_by_source": {
+    "ja": "#824880"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "茄子の実の色。紫みの濃い紺色。"
+   }
+  },
+  {
+   "name": "茜色",
+   "readings": {
+    "ja": "あかねいろ"
+   },
+   "hex_by_source": {
+    "ja": "#B13546"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "染料の茜で染めた色。赤褐色。"
+   }
+  },
+  {
+   "name": "茶色",
+   "readings": {
+    "ja": "ちゃいろ"
+   },
+   "hex_by_source": {
+    "ja": "#994C00"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "茶を染料として使ったときに出る色に由来する。オレンジ色と黒の中間色。"
+   }
+  },
+  {
+   "name": "草色",
+   "readings": {
+    "ja": "くさいろ"
+   },
+   "hex_by_source": {
+    "ja": "#7B8D42"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "若草が色濃くなったようなくすみのある濃い黄緑色。"
+   }
+  },
+  {
+   "name": "菖蒲色",
+   "readings": {
+    "en": "Ayame-iro",
+    "ja": "あやめいろ"
+   },
+   "hex_by_source": {
+    "en": "#763568",
+    "ja": "#B168A8"
+   },
+   "delta_e": 19.9476,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Iris color",
+    "ja": "菖蒲の紫の花の色。赤みがかった紫色。"
+   }
+  },
+  {
+   "name": "菜の花色",
+   "readings": {
+    "en": "Nanohanacha",
+    "ja": "なのはないろ"
+   },
+   "hex_by_source": {
+    "en": "#E3B130",
+    "ja": "#FCD900"
+   },
+   "delta_e": 11.4842,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Rape-blossom brown",
+    "ja": "菜の花の花色。明るく鮮やかな黄色。"
+   }
+  },
+  {
+   "name": "菜種油色",
+   "readings": {
+    "en": "Nataneyu-iro"
+   },
+   "hex_by_source": {
+    "en": "#A17917"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Rapeseed oil-colored"
+   }
+  },
+  {
+   "name": "菫色",
+   "readings": {
+    "en": "Sumire-iro",
+    "ja": "すみれいろ"
+   },
+   "hex_by_source": {
+    "en": "#5B3256",
+    "ja": "#705DA8"
+   },
+   "delta_e": 19.3291,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Violet color",
+    "ja": "菫の花弁の色。やや青みの濃い紫色。"
+   }
+  },
+  {
+   "name": "萌葱色",
+   "readings": {
+    "ja": "もえぎいろ"
+   },
+   "hex_by_source": {
+    "ja": "#006C4F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "葱の芽の色。鮮やかな緑。"
+   }
+  },
+  {
+   "name": "萌黄",
+   "readings": {
+    "en": "Mo'egi"
+   },
+   "hex_by_source": {
+    "en": "#5B8930"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Fresh onion"
+   }
+  },
+  {
+   "name": "萌黄色",
+   "readings": {
+    "ja": "もえぎいろ"
+   },
+   "hex_by_source": {
+    "ja": "#A9D159"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "芽吹いたばかりの若葉の色。さえた黄緑色。"
+   }
+  },
+  {
+   "name": "萱草色",
+   "readings": {
+    "en": "Kanzō-iro",
+    "ja": "かんぞういろ"
+   },
+   "hex_by_source": {
+    "en": "#FF8936",
+    "ja": "#F8B862"
+   },
+   "delta_e": 14.9438,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Daylily-colored",
+    "ja": "萱草の花の色。明るい黄みがかった橙色。"
+   }
+  },
+  {
+   "name": "葡萄染",
+   "readings": {
+    "ja": "えびぞめ"
+   },
+   "hex_by_source": {
+    "ja": "#7A4171"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "葡萄葛の熟した実の色。赤みがかった少し薄い紫色。"
+   }
+  },
+  {
+   "name": "葡萄色/海老色",
+   "readings": {
+    "ja": "えびいろ"
+   },
+   "hex_by_source": {
+    "ja": "#640125"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "植物の「ブドウ」はもともと「葡萄」と書いて「えび」と読んでいた。のちに甲殻類の「エビ」と混同され、海老色とも書かれる。"
+   }
+  },
+  {
+   "name": "葡萄茶/海老茶",
+   "readings": {
+    "ja": "えびちゃ"
+   },
+   "hex_by_source": {
+    "ja": "#6C2C2F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "伊勢海老のような色。赤みの茶色もしくは紫みの暗い赤。"
+   }
+  },
+  {
+   "name": "葡萄鼠",
+   "readings": {
+    "en": "Budōnezumi"
+   },
+   "hex_by_source": {
+    "en": "#63424B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Grape mouse"
+   }
+  },
+  {
+   "name": "蒲色",
+   "readings": {
+    "en": "Kaba-iro"
+   },
+   "hex_by_source": {
+    "en": "#B64925"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Cattail color"
+   }
+  },
+  {
+   "name": "蒲萄",
+   "readings": {
+    "en": "Ebizome"
+   },
+   "hex_by_source": {
+    "en": "#6D2B50"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Vine grape"
+   }
+  },
+  {
+   "name": "蒸栗色",
+   "readings": {
+    "en": "Mushikuri-iro"
+   },
+   "hex_by_source": {
+    "en": "#D3B17D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Steamed chestnut color"
+   }
+  },
+  {
+   "name": "蓬色",
+   "readings": {
+    "ja": "よもぎいろ"
+   },
+   "hex_by_source": {
+    "ja": "#616B07"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "ヨモギの葉の色。やや青味の緑。"
+   }
+  },
+  {
+   "name": "薄墨色",
+   "readings": {
+    "ja": "うすずみいろ"
+   },
+   "hex_by_source": {
+    "ja": "#A3A3A2"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "墨を薄めたようなやや薄い灰色。"
+   }
+  },
+  {
+   "name": "薄柿",
+   "readings": {
+    "en": "Usugaki"
+   },
+   "hex_by_source": {
+    "en": "#FCA474"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Pale persimmon"
+   }
+  },
+  {
+   "name": "薄水色",
+   "readings": {
+    "ja": "うすみずいろ"
+   },
+   "hex_by_source": {
+    "ja": "#BCE1DF"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "薄い水色。淡い青緑色。"
+   }
+  },
+  {
+   "name": "薄紅",
+   "readings": {
+    "en": "Usubeni",
+    "ja": "うすくれない"
+   },
+   "hex_by_source": {
+    "en": "#F2666C",
+    "ja": "#B15C65"
+   },
+   "delta_e": 13.6313,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Pale crimson (dye)",
+    "ja": "ややくすんだ紅色。"
+   }
+  },
+  {
+   "name": "薄色",
+   "readings": {
+    "en": "Usu-iro",
+    "ja": "うすいろ"
+   },
+   "hex_by_source": {
+    "en": "#A87CA0",
+    "ja": "#CEB4B9"
+   },
+   "delta_e": 18.7261,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Thin color",
+    "ja": "紫根に椿灰汁または明礬で染めた薄い紫色。"
+   }
+  },
+  {
+   "name": "薄青",
+   "readings": {
+    "en": "Usu'ao"
+   },
+   "hex_by_source": {
+    "en": "#8C9C76"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Pale blue"
+   }
+  },
+  {
+   "name": "薔薇色",
+   "readings": {
+    "ja": "ばらいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E73275"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "薔薇の花の色。鮮やかな紅色。比喩として使われる。"
+   }
+  },
+  {
+   "name": "藍墨茶",
+   "readings": {
+    "en": "Aisumicha"
+   },
+   "hex_by_source": {
+    "en": "#393432"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Indigo ink brown"
+   }
+  },
+  {
+   "name": "藍媚茶",
+   "readings": {
+    "en": "Aikobicha"
+   },
+   "hex_by_source": {
+    "en": "#473F2D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Indigo tea"
+   }
+  },
+  {
+   "name": "藍海松茶",
+   "readings": {
+    "en": "Aimirucha"
+   },
+   "hex_by_source": {
+    "en": "#2E372E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Indigo ''Codium fragile'' seaweed brown"
+   }
+  },
+  {
+   "name": "藍白",
+   "readings": {
+    "en": "Aijiro"
+   },
+   "hex_by_source": {
+    "en": "#EBF6F7"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Indigo white"
+   }
+  },
+  {
+   "name": "藍色",
+   "readings": {
+    "en": "Ai-iro",
+    "ja": "あいいろ"
+   },
+   "hex_by_source": {
+    "en": "#264348",
+    "ja": "#165E83"
+   },
+   "delta_e": 14.862,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Indigo color",
+    "ja": "染料の「アイ(藍)」の色。緑みがかった青。"
+   }
+  },
+  {
+   "name": "藍鼠",
+   "readings": {
+    "en": "Ainezumi",
+    "ja": "あいねず"
+   },
+   "hex_by_source": {
+    "en": "#5C544E",
+    "ja": "#5E7C85"
+   },
+   "delta_e": 20.677,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Mousy indigo",
+    "ja": "藍みをおびた暗い鼠色。"
+   }
+  },
+  {
+   "name": "藤煤竹",
+   "readings": {
+    "en": "Fujisusutake"
+   },
+   "hex_by_source": {
+    "en": "#4D3B3C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Wisteria and burnt-bamboo"
+   }
+  },
+  {
+   "name": "藤納戸",
+   "readings": {
+    "ja": "ふじなんど"
+   },
+   "hex_by_source": {
+    "ja": "#606DA1"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "灰みを帯びた淡い青紫色。"
+   }
+  },
+  {
+   "name": "藤紫",
+   "readings": {
+    "en": "Fujimurasaki",
+    "ja": "ふじむらさき"
+   },
+   "hex_by_source": {
+    "en": "#875F9A",
+    "ja": "#9B95C9"
+   },
+   "delta_e": 18.5848,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Wisteria purple",
+    "ja": "明るい青紫色。"
+   }
+  },
+  {
+   "name": "藤色",
+   "readings": {
+    "en": "Fuji-iro",
+    "ja": "ふじいろ"
+   },
+   "hex_by_source": {
+    "en": "#89729E",
+    "ja": "#AFB4DB"
+   },
+   "delta_e": 21.072,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Wisteria color",
+    "ja": "藤の花の色から。淡い青味のある紫色。"
+   }
+  },
+  {
+   "name": "藤黄",
+   "readings": {
+    "en": "Tō'ō"
+   },
+   "hex_by_source": {
+    "en": "#FFB61E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Gamboge"
+   }
+  },
+  {
+   "name": "藤鼠",
+   "readings": {
+    "en": "Fujinezumi"
+   },
+   "hex_by_source": {
+    "en": "#766980"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Mousy wisteria"
+   }
+  },
+  {
+   "name": "蘇比",
+   "readings": {
+    "en": "Sohi"
+   },
+   "hex_by_source": {
+    "en": "#E35C38"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Overdyed/refreshed red-brown"
+   }
+  },
+  {
+   "name": "蘇芳",
+   "readings": {
+    "en": "Su'ō"
+   },
+   "hex_by_source": {
+    "en": "#7E2639"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Sappanwood"
+   }
+  },
+  {
+   "name": "蘇芳色",
+   "readings": {
+    "ja": "すおういろ"
+   },
+   "hex_by_source": {
+    "ja": "#973C3F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "蘇芳で染めた色。黒味を帯びた赤色。"
+   }
+  },
+  {
+   "name": "蘇芳香",
+   "readings": {
+    "en": "Su'ōkō"
+   },
+   "hex_by_source": {
+    "en": "#A24F46"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Sappanwood incense"
+   }
+  },
+  {
+   "name": "虫襖",
+   "readings": {
+    "en": "Mushi'ao"
+   },
+   "hex_by_source": {
+    "en": "#2D4436"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Insect screen"
+   }
+  },
+  {
+   "name": "蜜柑色",
+   "readings": {
+    "ja": "みかんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F08300"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "蜜柑の果実の色。赤みが少なく黄色みが強い橙色。"
+   }
+  },
+  {
+   "name": "裏柳",
+   "readings": {
+    "en": "Urahayanagi"
+   },
+   "hex_by_source": {
+    "en": "#BCB58C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Underside of willow leaves"
+   }
+  },
+  {
+   "name": "裏葉柳",
+   "readings": {
+    "ja": "うらはやなぎ"
+   },
+   "hex_by_source": {
+    "ja": "#C1D8AC"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "淡い黄みを含んだ薄い緑色。"
+   }
+  },
+  {
+   "name": "褐色",
+   "readings": {
+    "en": "Kachi-iro"
+   },
+   "hex_by_source": {
+    "en": "#181B26"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Coarse wool color"
+   }
+  },
+  {
+   "name": "貝紫色",
+   "readings": {
+    "ja": "かいむらさきいろ"
+   },
+   "hex_by_source": {
+    "ja": "#7F1184"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "特殊な巻貝の色素で染める紫。"
+   }
+  },
+  {
+   "name": "赤",
+   "readings": {
+    "ja": "あか"
+   },
+   "hex_by_source": {
+    "ja": "#ED1A3D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "色の三原色の一つ。古代には、「明」（あかるい、あける）の意か。"
+   }
+  },
+  {
+   "name": "赤朽葉",
+   "readings": {
+    "en": "Akakuchiba",
+    "ja": "あかくちば"
+   },
+   "hex_by_source": {
+    "en": "#DB8449",
+    "ja": "#DB8449"
+   },
+   "delta_e": 0.0,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Red fallen leaves",
+    "ja": "晩秋の赤く色づいた朽葉の色。赤みがかった赤茶色。"
+   }
+  },
+  {
+   "name": "赤橙",
+   "readings": {
+    "ja": "あかだいだい"
+   },
+   "hex_by_source": {
+    "ja": "#F15A22"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "赤と橙色の中間色。"
+   }
+  },
+  {
+   "name": "赤白橡",
+   "readings": {
+    "en": "Akashirotsurubami"
+   },
+   "hex_by_source": {
+    "en": "#EC956C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Sawtooth oak"
+   }
+  },
+  {
+   "name": "赤紅",
+   "readings": {
+    "en": "Akabeni"
+   },
+   "hex_by_source": {
+    "en": "#C3272B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Pure crimson (dye)"
+   }
+  },
+  {
+   "name": "赤紫",
+   "readings": {
+    "ja": "あかむらさき"
+   },
+   "hex_by_source": {
+    "ja": "#EB6EA5"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "躑躅や牡丹の花ような赤みが強い鮮やかな紫色。暗く渋い紅色。"
+   }
+  },
+  {
+   "name": "赤銅色",
+   "readings": {
+    "ja": "しゃくどういろ"
+   },
+   "hex_by_source": {
+    "ja": "#7E0F09"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "金属の赤銅の色。艶のある暗い赤。"
+   }
+  },
+  {
+   "name": "赤香色",
+   "readings": {
+    "en": "Akakō-iro",
+    "ja": "あかこういろ"
+   },
+   "hex_by_source": {
+    "en": "#F07F5E",
+    "ja": "#F6B894"
+   },
+   "delta_e": 14.9665,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Red incense-colored",
+    "ja": "僧衣に用いられた。赤みがかった淡い橙色。"
+   }
+  },
+  {
+   "name": "赭",
+   "readings": {
+    "ja": "そほ"
+   },
+   "hex_by_source": {
+    "ja": "#AB6953"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "赤土（赭土）のことを指す。茶色に近い暗い赤。"
+   }
+  },
+  {
+   "name": "路考茶",
+   "readings": {
+    "en": "Rokōcha",
+    "ja": "ろこうちゃ"
+   },
+   "hex_by_source": {
+    "en": "#665343",
+    "ja": "#8C7042"
+   },
+   "delta_e": 14.6436,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Contemplation in a tea garden",
+    "ja": "赤みがかった暗い黄褐色。"
+   }
+  },
+  {
+   "name": "躑躅色",
+   "readings": {
+    "ja": "つつじいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E761A4"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "躑躅の花の色から。紫味の鮮やかな紅色。"
+   }
+  },
+  {
+   "name": "退紅",
+   "readings": {
+    "en": "Arazome"
+   },
+   "hex_by_source": {
+    "en": "#FFB3A7"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Washed-out crimson (dye)"
+   }
+  },
+  {
+   "name": "遠州茶",
+   "readings": {
+    "en": "Enshūcha"
+   },
+   "hex_by_source": {
+    "en": "#CB6649"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Muddy brown (lit. the brown of a distant river)"
+   }
+  },
+  {
+   "name": "金色",
+   "readings": {
+    "ja": "きんいろ/こんじき"
+   },
+   "hex_by_source": {
+    "ja": "#FFD700"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "黄金色（こがねいろ）とも呼ぶ。黄橙色、山吹色で金属光沢を持つ色。"
+   }
+  },
+  {
+   "name": "金茶",
+   "readings": {
+    "en": "Kincha",
+    "ja": "きんちゃ"
+   },
+   "hex_by_source": {
+    "en": "#C66B27",
+    "ja": "#E0861A"
+   },
+   "delta_e": 10.6779,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Golden brown",
+    "ja": "山吹茶とも呼ぶ。明るく黄色がかった茶色。金色に近い色合い。"
+   }
+  },
+  {
+   "name": "鈍色",
+   "readings": {
+    "ja": "にびいろ"
+   },
+   "hex_by_source": {
+    "ja": "#727171"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "濃い灰色。"
+   }
+  },
+  {
+   "name": "鉄御納戸",
+   "readings": {
+    "en": "Tetsuonando"
+   },
+   "hex_by_source": {
+    "en": "#2B3736"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Iron storage"
+   }
+  },
+  {
+   "name": "鉄紺",
+   "readings": {
+    "ja": "てつこん"
+   },
+   "hex_by_source": {
+    "ja": "#003149"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "鉄色がかった紺色。わずかに緑みを帯びた暗い青色。"
+   }
+  },
+  {
+   "name": "鉄色",
+   "readings": {
+    "en": "Tetsu-iro"
+   },
+   "hex_by_source": {
+    "en": "#2B3733"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Iron color"
+   }
+  },
+  {
+   "name": "鉛丹色",
+   "readings": {
+    "ja": "えんたんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#EC6D51"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "酸化鉛のやや赤みを強くした鮮やかな橙色。"
+   }
+  },
+  {
+   "name": "鉛色",
+   "readings": {
+    "ja": "なまりいろ"
+   },
+   "hex_by_source": {
+    "ja": "#7B7C7D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "鉛のような少し青みを帯びた灰色。"
+   }
+  },
+  {
+   "name": "銀朱",
+   "readings": {
+    "en": "Ginshu",
+    "ja": "ぎんしゅ"
+   },
+   "hex_by_source": {
+    "en": "#BC2D29",
+    "ja": "#F12B00"
+   },
+   "delta_e": 13.1824,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Greyed red (lit. silvered red)",
+    "ja": "硫化水銀の色。黄みがかった朱色。"
+   }
+  },
+  {
+   "name": "銀煤竹",
+   "readings": {
+    "en": "Kinsusutake"
+   },
+   "hex_by_source": {
+    "en": "#7D4E2D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Golden-grey bamboo (dried and weathered)"
+   }
+  },
+  {
+   "name": "銀色",
+   "readings": {
+    "ja": "ぎんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C0C0C0"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "白銀色（しろがねいろ）とも呼ぶ。白ないし明るい灰色で金属光沢を持つ色。"
+   }
+  },
+  {
+   "name": "銀鼠",
+   "readings": {
+    "en": "Ginnezumi",
+    "ja": "ぎんねずみ"
+   },
+   "hex_by_source": {
+    "en": "#97867C",
+    "ja": "#BBBCBF"
+   },
+   "delta_e": 18.0934,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Silver-grey",
+    "ja": "銀色のようなほんのり青みを含んだ明るい灰色。"
+   }
+  },
+  {
+   "name": "錆御納戸",
+   "readings": {
+    "en": "Sabionando"
+   },
+   "hex_by_source": {
+    "en": "#455859"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Rusty storage"
+   }
+  },
+  {
+   "name": "錆浅葱",
+   "readings": {
+    "en": "Sabiasagi",
+    "ja": "さびあさぎ"
+   },
+   "hex_by_source": {
+    "en": "#6A7F7A",
+    "ja": "#5C9291"
+   },
+   "delta_e": 9.5864,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Rusted light-blue",
+    "ja": "ややくすんだ浅い緑青色。"
+   }
+  },
+  {
+   "name": "錆色",
+   "readings": {
+    "ja": "さびいろ"
+   },
+   "hex_by_source": {
+    "ja": "#6C3424"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "金属の錆の色。暗い灰みの黄赤。"
+   }
+  },
+  {
+   "name": "錆鉄御納戸",
+   "readings": {
+    "en": "Sabitetsuonando"
+   },
+   "hex_by_source": {
+    "en": "#3A403B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Rusty storeroom"
+   }
+  },
+  {
+   "name": "錆青磁",
+   "readings": {
+    "en": "Sabiseiji"
+   },
+   "hex_by_source": {
+    "en": "#898A74"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Rusty celadon"
+   }
+  },
+  {
+   "name": "長春色",
+   "readings": {
+    "en": "Chōshun-iro"
+   },
+   "hex_by_source": {
+    "en": "#B95754"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Long spring (season) color"
+   }
+  },
+  {
+   "name": "雀色",
+   "readings": {
+    "ja": "すずめいろ"
+   },
+   "hex_by_source": {
+    "ja": "#864337"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "雀の頭のような灰色がかった茶色。夕暮れ時のことを「雀色時（すずめいろどき）」と言う。"
+   }
+  },
+  {
+   "name": "雀茶",
+   "readings": {
+    "en": "Suzumecha"
+   },
+   "hex_by_source": {
+    "en": "#8C4736"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Sparrow-brown"
+   }
+  },
+  {
+   "name": "雄黄色",
+   "readings": {
+    "ja": "ゆうおういろ"
+   },
+   "hex_by_source": {
+    "ja": "#EE9D19"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "硫化ヒ素の結晶の色。明るい鮮やかな黄色。"
+   }
+  },
+  {
+   "name": "露草色",
+   "readings": {
+    "ja": "つゆくさいろ"
+   },
+   "hex_by_source": {
+    "ja": "#21A0DB"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "露草の色。淡く鮮やかな青色。"
+   }
+  },
+  {
+   "name": "青",
+   "readings": {
+    "ja": "あお"
+   },
+   "hex_by_source": {
+    "ja": "#0067C0"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "色の三原色の一つ。緑系も青と分類されることもある。"
+   }
+  },
+  {
+   "name": "青丹",
+   "readings": {
+    "en": "Aoni",
+    "ja": "あおに"
+   },
+   "hex_by_source": {
+    "en": "#52593B",
+    "ja": "#858954"
+   },
+   "delta_e": 19.2966,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Blue-black clay<ref>{{Cite book|last=Marra|first=Michael|url=https://books.google.com/books?id=vOF5DwAAQBAJ&dq=%22aoni%22+clay+japanese+color&pg=PA458|title=Essays on Japan: Between Aesthetics and Literature|date=2010-10-15|publisher=BRILL|isbn=978-90-04-19594-3|language=en}}</ref>",
+    "ja": "顔料や化粧料の眉墨に使われた青粘土のような暗い黄緑色。"
+   }
+  },
+  {
+   "name": "青朽葉",
+   "readings": {
+    "en": "Aokuchiba"
+   },
+   "hex_by_source": {
+    "en": "#AA8736"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Pale fallen leaves"
+   }
+  },
+  {
+   "name": "青白橡",
+   "readings": {
+    "en": "Aoshirotsurubami"
+   },
+   "hex_by_source": {
+    "en": "#9BA88D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Pale oak"
+   }
+  },
+  {
+   "name": "青碧",
+   "readings": {
+    "en": "Seiheki"
+   },
+   "hex_by_source": {
+    "en": "#3A6960"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Blue-green"
+   }
+  },
+  {
+   "name": "青磁色",
+   "readings": {
+    "en": "Seiji-iro",
+    "ja": "せいじいろ"
+   },
+   "hex_by_source": {
+    "en": "#819C8B",
+    "ja": "#60B49F"
+   },
+   "delta_e": 11.4753,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Celadon color",
+    "ja": "秘色（ひそく・ひしょく）とも呼ばれる。青磁に似た薄い緑色。"
+   }
+  },
+  {
+   "name": "青竹色",
+   "readings": {
+    "en": "Aotake-iro",
+    "ja": "あおたけいろ"
+   },
+   "hex_by_source": {
+    "en": "#006442",
+    "ja": "#72BAA7"
+   },
+   "delta_e": 33.0265,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Green bamboo color",
+    "ja": "竹の幹の色。明るい緑。"
+   }
+  },
+  {
+   "name": "青紫",
+   "readings": {
+    "ja": "あおむらさき"
+   },
+   "hex_by_source": {
+    "ja": "#6F51A1"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "青と紫の中間色。"
+   }
+  },
+  {
+   "name": "青緑",
+   "readings": {
+    "ja": "あおみどり"
+   },
+   "hex_by_source": {
+    "ja": "#0090A8"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "緑と青の中間色。"
+   }
+  },
+  {
+   "name": "青鈍",
+   "readings": {
+    "en": "Aonibi"
+   },
+   "hex_by_source": {
+    "en": "#4F4944"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Dull blue"
+   }
+  },
+  {
+   "name": "青鈍色",
+   "readings": {
+    "ja": "あおにびいろ"
+   },
+   "hex_by_source": {
+    "ja": "#324356"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "青色に橡などの墨系染料を掛け合わせ、鉄で媒染した色。"
+   }
+  },
+  {
+   "name": "飴色",
+   "readings": {
+    "ja": "あめいろ"
+   },
+   "hex_by_source": {
+    "ja": "#CD6118"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "水飴に由来する、深みのある強い橙色。"
+   }
+  },
+  {
+   "name": "香色",
+   "readings": {
+    "ja": "こういろ"
+   },
+   "hex_by_source": {
+    "ja": "#EFCD9A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "丁子の蕾の煮汁で染めた色。鈍い黄赤。丁子色とも言う。"
+   }
+  },
+  {
+   "name": "駱駝色",
+   "readings": {
+    "ja": "らくだいろ"
+   },
+   "hex_by_source": {
+    "ja": "#BF794E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "駱駝の毛の色。黄みの薄い茶色。"
+   }
+  },
+  {
+   "name": "高麗納戸",
+   "readings": {
+    "en": "Kōrainando"
+   },
+   "hex_by_source": {
+    "en": "#203838"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Goryeo storeroom"
+   }
+  },
+  {
+   "name": "鬱金色",
+   "readings": {
+    "en": "Ukon-iro",
+    "ja": "うこんいろ"
+   },
+   "hex_by_source": {
+    "en": "#E69B3A",
+    "ja": "#FABF14"
+   },
+   "delta_e": 13.0115,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Turmeric-colored",
+    "ja": "ウコンの根で染めた色。"
+   }
+  },
+  {
+   "name": "鳥の子色",
+   "readings": {
+    "en": "Torinoko-iro",
+    "ja": "とりのこいろ"
+   },
+   "hex_by_source": {
+    "en": "#E2BE9F",
+    "ja": "#FFF1CF"
+   },
+   "delta_e": 14.0058,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Eggshell paper-colored",
+    "ja": "鶏の卵の殻の色。黄色がかった白。"
+   }
+  },
+  {
+   "name": "鳩羽色",
+   "readings": {
+    "ja": "はとばいろ"
+   },
+   "hex_by_source": {
+    "ja": "#95859C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "鳩の羽の色。灰みがかった薄い青紫色。"
+   }
+  },
+  {
+   "name": "鳩羽鼠",
+   "readings": {
+    "en": "Hatobanezumi"
+   },
+   "hex_by_source": {
+    "en": "#755D5B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Dove feather grey"
+   }
+  },
+  {
+   "name": "鳶色",
+   "readings": {
+    "en": "Tobi-iro",
+    "ja": "とびいろ"
+   },
+   "hex_by_source": {
+    "en": "#4C221B",
+    "ja": "#85403A"
+   },
+   "delta_e": 13.5942,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Ibis-color",
+    "ja": "鳶の羽毛の色から。赤みのある茶色。"
+   }
+  },
+  {
+   "name": "鴇羽色",
+   "readings": {
+    "en": "Tokiha-iro"
+   },
+   "hex_by_source": {
+    "en": "#F58F84"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Ibis wing color"
+   }
+  },
+  {
+   "name": "鴇色",
+   "readings": {
+    "ja": "ときいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F3A696"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "朱鷺色とも書く。鴇の風切羽のような紫に近い紅色。"
+   }
+  },
+  {
+   "name": "鶯色",
+   "readings": {
+    "en": "Uguisu-iro",
+    "ja": "うぐいすいろ"
+   },
+   "hex_by_source": {
+    "en": "#645530",
+    "ja": "#918D40"
+   },
+   "delta_e": 22.4128,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Japanese bush warbler-colored",
+    "ja": "小鳥の鶯、その羽毛の色から。灰色がかった緑褐色。"
+   }
+  },
+  {
+   "name": "鶯茶",
+   "readings": {
+    "en": "Uguisucha",
+    "ja": "うぐいすちゃ"
+   },
+   "hex_by_source": {
+    "en": "#5C4827",
+    "ja": "#715C1F"
+   },
+   "delta_e": 9.4771,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Japanese bush warbler-brown (greenish brown)",
+    "ja": "鶯の羽のような褐色がかった渋みのある黄緑色。"
+   }
+  },
+  {
+   "name": "鶸色",
+   "readings": {
+    "en": "Hiwa-iro"
+   },
+   "hex_by_source": {
+    "en": "#BDA928"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Greenfinch color"
+   }
+  },
+  {
+   "name": "鶸茶",
+   "readings": {
+    "en": "Hiwacha"
+   },
+   "hex_by_source": {
+    "en": "#957B38"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Finch-brown (Cardueline finch)"
+   }
+  },
+  {
+   "name": "鶸萌黄",
+   "readings": {
+    "en": "Hiwamo'egi",
+    "ja": "ひわもえぎ"
+   },
+   "hex_by_source": {
+    "en": "#7A942E",
+    "ja": "#82AE46"
+   },
+   "delta_e": 8.2148,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Siskin sprout yellow",
+    "ja": "黄みの強い黄緑色。"
+   }
+  },
+  {
+   "name": "麹塵",
+   "readings": {
+    "ja": "きくじん"
+   },
+   "hex_by_source": {
+    "ja": "#BFBD9E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "醸造に用いる麹（こうじ）の色に由来する灰色がかった緑。天皇が平常時に着る麹塵袍（きくじんのほう）の色。"
+   }
+  },
+  {
+   "name": "黄丹",
+   "readings": {
+    "en": "Ōtan",
+    "ja": "おうに/おうたん"
+   },
+   "hex_by_source": {
+    "en": "#FF4E20",
+    "ja": "#F47A55"
+   },
+   "delta_e": 8.3689,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Ochre (earthen yellow-red-brown)",
+    "ja": "紅花と梔子（くちなし）で染めたオレンジ色。顔料の鉛丹に似た色であることから。皇太子の袍（ほう）に用いられる禁色。"
+   }
+  },
+  {
+   "name": "黄唐茶",
+   "readings": {
+    "en": "Kigaracha"
+   },
+   "hex_by_source": {
+    "en": "#B7702D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Chinese yellow tea-colored"
+   }
+  },
+  {
+   "name": "黄土色",
+   "readings": {
+    "en": "Ōdo-iro",
+    "ja": "おうどいろ"
+   },
+   "hex_by_source": {
+    "en": "#BE7F51",
+    "ja": "#C39143"
+   },
+   "delta_e": 10.5528,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Ochre (lit. earthen yellow)",
+    "ja": "顔料の『黄土』の色。赤みがかった黄色。"
+   }
+  },
+  {
+   "name": "黄朽葉",
+   "readings": {
+    "en": "Kikuchiba"
+   },
+   "hex_by_source": {
+    "en": "#E29C45"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Golden fallen leaves"
+   }
+  },
+  {
+   "name": "黄橡",
+   "readings": {
+    "en": "Kitsurubami"
+   },
+   "hex_by_source": {
+    "en": "#BB8141"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Golden oak"
+   }
+  },
+  {
+   "name": "黄櫨染",
+   "readings": {
+    "en": "Kōrozen",
+    "ja": "こうろぜん"
+   },
+   "hex_by_source": {
+    "en": "#592B1F",
+    "ja": "#D99502"
+   },
+   "delta_e": 47.2663,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Sumac-dyed",
+    "ja": "第一の禁色。天皇が使用した。黄がかった茶色。"
+   }
+  },
+  {
+   "name": "黄海松茶",
+   "readings": {
+    "en": "Kimirucha"
+   },
+   "hex_by_source": {
+    "en": "#896C39"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Yellow Sea pine-brown"
+   }
+  },
+  {
+   "name": "黄緑色",
+   "readings": {
+    "ja": "きみどりいろ"
+   },
+   "hex_by_source": {
+    "ja": "#B9C42F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "黄みがかった緑色。"
+   }
+  },
+  {
+   "name": "黄色",
+   "readings": {
+    "ja": "きいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFD400"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "色の三原色の一つ。"
+   }
+  },
+  {
+   "name": "黄蘗",
+   "readings": {
+    "en": "Kihada"
+   },
+   "hex_by_source": {
+    "en": "#F3C13A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Amur cork tree (''Phellodendron amurense'')"
+   }
+  },
+  {
+   "name": "黄蘗色",
+   "readings": {
+    "ja": "きはだいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FCF16E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "キハダの樹皮で染めた、わずかに緑みの明るい黄色。"
+   }
+  },
+  {
+   "name": "黒",
+   "readings": {
+    "ja": "くろ"
+   },
+   "hex_by_source": {
+    "ja": "#000000"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "無彩色。最も暗い色。"
+   }
+  },
+  {
+   "name": "黒橡",
+   "readings": {
+    "en": "Kurotsurubami"
+   },
+   "hex_by_source": {
+    "en": "#252321"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Black chestnut oak"
+   }
+  },
+  {
+   "name": "黒檀",
+   "readings": {
+    "ja": "こくたん"
+   },
+   "hex_by_source": {
+    "ja": "#250D00"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "黒檀の木材の色。赤みがかった黒色。"
+   }
+  },
+  {
+   "name": "黒紅",
+   "readings": {
+    "en": "Kurobeni"
+   },
+   "hex_by_source": {
+    "en": "#23191E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Dark red"
+   }
+  },
+  {
+   "name": "黒色",
+   "readings": {
+    "en": "Kokushoku"
+   },
+   "hex_by_source": {
+    "en": "#171412"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Black"
+   }
+  },
+  {
+   "name": "黒鳶",
+   "readings": {
+    "en": "Kurotobi"
+   },
+   "hex_by_source": {
+    "en": "#351E1C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "en": "Black kite (bird species)"
+   }
+  },
+  {
+   "name": "鼠色",
+   "readings": {
+    "ja": "ねずみいろ"
+   },
+   "hex_by_source": {
+    "ja": "#949495"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "notes": {
+    "ja": "鼠の体毛の色に由来。灰色全般を指す。"
+   }
+  }
+ ]
+}

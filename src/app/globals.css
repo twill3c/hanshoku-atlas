@@ -750,3 +750,68 @@ td.ng {
   border-radius: 1px;
   min-width: 1px;
 }
+
+/* ---- ④ 絵師くらべ(F-13) */
+.eshiList {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.panel.eshi {
+  margin: 0;
+  padding: 10px 12px;
+}
+
+.eshiHead {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 4px;
+  width: 100%;
+  padding: 4px 2px;
+  border: 0;
+  background: transparent;
+  text-align: left;
+  border-radius: 0;
+}
+
+.eshiName {
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--ink);
+}
+
+.eshiNums {
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 0.76rem;
+  color: var(--ink-3);
+}
+
+.eshiBar {
+  display: flex;
+  height: 18px;
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.eshiBar > span {
+  display: block;
+  min-width: 0;
+}
+
+table.suri td .cand {
+  white-space: normal;
+}
+
+table.suri td .spread {
+  color: var(--beni);
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 0.7rem;
+  margin-left: 3px;
+}
+
+table.suri td:last-child {
+  white-space: normal;
+  max-width: 520px;
+}

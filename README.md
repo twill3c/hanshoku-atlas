@@ -35,6 +35,10 @@
 **③ 年代の帯**(`/nendai/`)—— 収蔵目録 CSV から作った枠 3,833 件から 830 件を層別抽出し、
 1760 年代から 1900 年までの青の面積比を追う。**目玉の判定(G-目玉2)はここで落ちた。**
 
+**④ 絵師くらべ / ⑥ 伝統色との照合**(`/eshi/`)—— 絵師の版色を**もう一度 k-means にかけて**色域を出し、
+日本の伝統色 369 色と照合する。**「これは藍鼠」とは言えない** —— 物差しの目盛り(ΔE2000 = 13.96)の中に
+入る色名が中央値 31 個あるからである。
+
 ## 測って分かったこと(2026-08-31)
 
 | | |
@@ -46,6 +50,7 @@
 | TS ↔ Rust/WASM | 結論も**経路も**ビット一致(経路をずらした対照は 12/12 で落ちる) |
 | 抽出の速さ(実画像・k=8) | Chromium 610–1,510 ms(WASM)/ Firefox 968–1,432 ms(TS)。**機械の負荷で倍近く振れる** |
 | **同じ版から出た色の散らばり(3 図柄 11 摺り)** | **ΔE2000 の中央値 4.4–6.1**・面積比の幅の中央値 4.3–5.9 ポイント |
+| **色名の物差しの目盛りに入る色名の数** | **中央値 31 個**(最小 16 / 最大 60) |
 | 神奈川沖浪裏 JP10 の相異なる色 | **55,100** |
 | 同、k=8 のとき紙の帯が占める割合 | **75.9 %**(4 クラスタに割れる) |
 
@@ -79,6 +84,8 @@ G-目玉2 の落ち方には理由がある。**厳密標本(年代幅 ≤ 10 �
 - **Rust/WASM が速いとは限らない。** Chromium では TS の 1.5 倍速いが、**Firefox では 4 倍遅い**。
   だから実行時に測って選ぶ —— 二実装がビット一致するので、選択は結果を変えない
 - **小さすぎるベンチと暖機なしは、実測と反対の結論を出す**(SPEC §2.10)
+- **色名の物差しのほうが、摺りの散らばりより粗い。** 目盛り 13.96 > 摺りの散らばり 6.1。
+  色名で語ろうとすると、摺りの違いより先に物差しの目盛りが効く(SPEC §2.13)
 - **同じ版から出た色は、半分が「誰にでも別の色に見える」域まで散る。**
   だから ① の面積比から小数点以下を落とした —— 「12.3 %」は主張しすぎ(SPEC §2.11)
 
@@ -86,14 +93,14 @@ G-目玉2 の落ち方には理由がある。**厳密標本(年代幅 ≤ 10 �
 
 ```bash
 npm install
-npm test                  # vitest(81 件)
+npm test                  # vitest(94 件)
 npm run build             # 静的書き出し(out/)
 npm run verify:browser    # 実ブラウザ検品 + G-07 の実測(ローカル out/・rewrite は模倣)
 node scripts/verify-browser.mjs --url https://hanshoku-atlas.vercel.app/   # 本番経路
 python scripts/make_color_oracle.py   # 色変換オラクルの再生成(colour-science)
 
 # ③ の標本(収蔵目録 CSV → 層別抽出 → 取得 → 版色抽出 → 集計)
-npm run frame && npm run fetch && npm run analyze && npm run aggregate
+npm run frame && npm run fetch && npm run analyze && npm run aggregate && npm run artists
 
 # Rust/WASM(第二実装)
 cargo test  --manifest-path rust/Cargo.toml --release
@@ -107,3 +114,6 @@ cp rust/target/wasm32-unknown-unknown/release/hanshoku.wasm public/hanshoku.wasm
 - ループの記録は `logs/loops/`
 
 MIT License © 2026 坂田哲朗
+
+`data/palette.json`(伝統色 369 色)は [iro-koyomi](https://iro-koyomi.vercel.app) 由来の派生物で、
+出典は英語版・日本語版 Wikipedia の伝統色一覧。**この 1 ファイルだけ CC BY-SA 4.0** で、コードと他のデータは MIT。

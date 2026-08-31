@@ -60,6 +60,7 @@ export default function NendaiPage() {
         <a href="/">① 一枚解剖</a>
         <a href="/suri/">⑤ 摺りの散らばり</a>
         <a href="/nendai/" aria-current="page">③ 年代の帯</a>
+        <a href="/eshi/">④ 絵師くらべ</a>
       </nav>
 
       <p className="subject">

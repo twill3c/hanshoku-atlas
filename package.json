@@ -16,7 +16,8 @@
     "frame": "python pipeline/build_frame.py",
     "fetch": "python pipeline/fetch_images.py",
     "analyze": "npm run core:bundle && node pipeline/analyze.mjs",
-    "aggregate": "npm run core:bundle && node pipeline/aggregate.mjs"
+    "aggregate": "npm run core:bundle && node pipeline/aggregate.mjs",
+    "artists": "npm run core:bundle && node pipeline/artists.mjs"
   },
   "dependencies": {
     "next": "^15.5.24",

@@ -1,0 +1,5957 @@
+{
+ "generated": "2026-08-31",
+ "k": 8,
+ "seed": 20260831,
+ "minWorks": 12,
+ "ruler": 13.96,
+ "totalArtists": 130,
+ "droppedArtists": 112,
+ "droppedWorks": 322,
+ "nameCount": {
+  "median": 31,
+  "min": 16,
+  "max": 60
+ },
+ "artists": [
+  {
+   "name": "Utagawa Hiroshige",
+   "works": 67,
+   "from": 1724,
+   "to": 1868,
+   "blue": 0.04886,
+   "medianChroma": 0.0336,
+   "plates": [
+    {
+     "hex": "#E6CFAE",
+     "share": 0.18639,
+     "L": 0.8653,
+     "C": 0.0514,
+     "h": 77.32,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 2.75,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 4.2,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 5.05,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 5.49,
+       "spread": 18.95
+      },
+      {
+       "name": "鳥の子色",
+       "de": 6.32,
+       "spread": 14.01
+      },
+      {
+       "name": "砥粉色",
+       "de": 6.87,
+       "spread": null
+      }
+     ],
+     "nameCount": 28
+    },
+    {
+     "hex": "#F9E9CF",
+     "share": 0.18524,
+     "L": 0.9392,
+     "C": 0.0381,
+     "h": 80.23,
+     "names": [
+      {
+       "name": "鳥の子色",
+       "de": 3.46,
+       "spread": 14.01
+      },
+      {
+       "name": "練色",
+       "de": 5.24,
+       "spread": null
+      },
+      {
+       "name": "亜麻色",
+       "de": 8.05,
+       "spread": null
+      },
+      {
+       "name": "砥粉色",
+       "de": 8.47,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 8.7,
+       "spread": 16.46
+      },
+      {
+       "name": "白練",
+       "de": 9.13,
+       "spread": null
+      }
+     ],
+     "nameCount": 20
+    },
+    {
+     "hex": "#A5A492",
+     "share": 0.14487,
+     "L": 0.7137,
+     "C": 0.0249,
+     "h": 103.6,
+     "names": [
+      {
+       "name": "灰汁色",
+       "de": 6.76,
+       "spread": 23.46
+      },
+      {
+       "name": "青白橡",
+       "de": 6.88,
+       "spread": null
+      },
+      {
+       "name": "薄墨色",
+       "de": 7.87,
+       "spread": null
+      },
+      {
+       "name": "麹塵",
+       "de": 8.09,
+       "spread": null
+      },
+      {
+       "name": "山鳩色",
+       "de": 8.09,
+       "spread": null
+      },
+      {
+       "name": "利休鼠",
+       "de": 8.22,
+       "spread": 17.34
+      }
+     ],
+     "nameCount": 28
+    },
+    {
+     "hex": "#84887F",
+     "share": 0.13656,
+     "L": 0.6206,
+     "C": 0.0137,
+     "h": 127.55,
+     "names": [
+      {
+       "name": "利休鼠",
+       "de": 3.77,
+       "spread": 17.34
+      },
+      {
+       "name": "湊鼠",
+       "de": 4.83,
+       "spread": null
+      },
+      {
+       "name": "錆青磁",
+       "de": 5.47,
+       "spread": null
+      },
+      {
+       "name": "灰色",
+       "de": 6.16,
+       "spread": null
+      },
+      {
+       "name": "鉛色",
+       "de": 7.23,
+       "spread": null
+      },
+      {
+       "name": "柳鼠",
+       "de": 7.35,
+       "spread": null
+      }
+     ],
+     "nameCount": 19
+    },
+    {
+     "hex": "#C6B89B",
+     "share": 0.12458,
+     "L": 0.7863,
+     "C": 0.0424,
+     "h": 83.7,
+     "names": [
+      {
+       "name": "カーキ色",
+       "de": 2.86,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 3.74,
+       "spread": 23.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 4.71,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 4.77,
+       "spread": 16.46
+      },
+      {
+       "name": "裏柳",
+       "de": 5.49,
+       "spread": null
+      },
+      {
+       "name": "麹塵",
+       "de": 5.7,
+       "spread": null
+      }
+     ],
+     "nameCount": 29
+    },
+    {
+     "hex": "#666A69",
+     "share": 0.10841,
+     "L": 0.5207,
+     "C": 0.0055,
+     "h": 174.4,
+     "names": [
+      {
+       "name": "鈍色",
+       "de": 4.41,
+       "spread": null
+      },
+      {
+       "name": "利休鼠",
+       "de": 7.24,
+       "spread": 17.34
+      },
+      {
+       "name": "鉛色",
+       "de": 7.79,
+       "spread": null
+      },
+      {
+       "name": "沈香茶",
+       "de": 7.88,
+       "spread": null
+      },
+      {
+       "name": "湊鼠",
+       "de": 8.31,
+       "spread": null
+      },
+      {
+       "name": "舛花色",
+       "de": 8.54,
+       "spread": null
+      }
+     ],
+     "nameCount": 23
+    },
+    {
+     "hex": "#57534F",
+     "share": 0.05784,
+     "L": 0.4435,
+     "C": 0.0076,
+     "h": 60.45,
+     "names": [
+      {
+       "name": "藍鼠",
+       "de": 2.31,
+       "spread": 20.68
+      },
+      {
+       "name": "青鈍",
+       "de": 3.53,
+       "spread": null
+      },
+      {
+       "name": "消炭色",
+       "de": 4.13,
+       "spread": null
+      },
+      {
+       "name": "岩井茶",
+       "de": 6.05,
+       "spread": null
+      },
+      {
+       "name": "仙斎茶",
+       "de": 7.06,
+       "spread": null
+      },
+      {
+       "name": "利休鼠",
+       "de": 7.11,
+       "spread": 17.34
+      }
+     ],
+     "nameCount": 49
+    },
+    {
+     "hex": "#3F4144",
+     "share": 0.05612,
+     "L": 0.3755,
+     "C": 0.0063,
+     "h": 252.55,
+     "names": [
+      {
+       "name": "墨色",
+       "de": 4.64,
+       "spread": 6.48
+      },
+      {
+       "name": "御納戸色",
+       "de": 5.71,
+       "spread": null
+      },
+      {
+       "name": "藍墨茶",
+       "de": 6.16,
+       "spread": null
+      },
+      {
+       "name": "錆鉄御納戸",
+       "de": 6.22,
+       "spread": null
+      },
+      {
+       "name": "御召御納戸",
+       "de": 6.69,
+       "spread": null
+      },
+      {
+       "name": "青鈍",
+       "de": 6.75,
+       "spread": null
+      }
+     ],
+     "nameCount": 40
+    }
+   ]
+  },
+  {
+   "name": "Katsukawa Shunshō",
+   "works": 61,
+   "from": 1700,
+   "to": 1799,
+   "blue": 0,
+   "medianChroma": 0.0484,
+   "plates": [
+    {
+     "hex": "#D9BD99",
+     "share": 0.24565,
+     "L": 0.8137,
+     "C": 0.0582,
+     "h": 74.97,
+     "names": [
+      {
+       "name": "桑染",
+       "de": 1.96,
+       "spread": 18.95
+      },
+      {
+       "name": "白茶",
+       "de": 2.71,
+       "spread": 16.46
+      },
+      {
+       "name": "鳥の子色",
+       "de": 4.06,
+       "spread": 14.01
+      },
+      {
+       "name": "カーキ色",
+       "de": 5.03,
+       "spread": null
+      },
+      {
+       "name": "蒸栗色",
+       "de": 5.2,
+       "spread": null
+      },
+      {
+       "name": "亜麻色",
+       "de": 5.41,
+       "spread": null
+      }
+     ],
+     "nameCount": 32
+    },
+    {
+     "hex": "#C6A780",
+     "share": 0.22071,
+     "L": 0.7462,
+     "C": 0.0636,
+     "h": 73.19,
+     "names": [
+      {
+       "name": "蒸栗色",
+       "de": 4.3,
+       "spread": null
+      },
+      {
+       "name": "榛色",
+       "de": 4.71,
+       "spread": null
+      },
+      {
+       "name": "カーキ色",
+       "de": 4.78,
+       "spread": null
+      },
+      {
+       "name": "白橡",
+       "de": 4.85,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 5.72,
+       "spread": 18.95
+      },
+      {
+       "name": "伽羅色",
+       "de": 6.08,
+       "spread": 38.75
+      }
+     ],
+     "nameCount": 43
+    },
+    {
+     "hex": "#EBD3B4",
+     "share": 0.18667,
+     "L": 0.8792,
+     "C": 0.0496,
+     "h": 74.29,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 3.79,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 4.72,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 5.6,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 6.38,
+       "spread": 14.01
+      },
+      {
+       "name": "桑染",
+       "de": 6.54,
+       "spread": 18.95
+      },
+      {
+       "name": "砥粉色",
+       "de": 7.32,
+       "spread": null
+      }
+     ],
+     "nameCount": 26
+    },
+    {
+     "hex": "#FAECD6",
+     "share": 0.09213,
+     "L": 0.9482,
+     "C": 0.0329,
+     "h": 78.41,
+     "names": [
+      {
+       "name": "鳥の子色",
+       "de": 4.23,
+       "spread": 14.01
+      },
+      {
+       "name": "練色",
+       "de": 4.54,
+       "spread": null
+      },
+      {
+       "name": "卯の花色",
+       "de": 8.46,
+       "spread": null
+      },
+      {
+       "name": "亜麻色",
+       "de": 8.65,
+       "spread": null
+      },
+      {
+       "name": "乳白色",
+       "de": 9.03,
+       "spread": null
+      },
+      {
+       "name": "白練",
+       "de": 9.11,
+       "spread": null
+      }
+     ],
+     "nameCount": 19
+    },
+    {
+     "hex": "#AC8C70",
+     "share": 0.09081,
+     "L": 0.6634,
+     "C": 0.055,
+     "h": 62.91,
+     "names": [
+      {
+       "name": "利休白茶",
+       "de": 2.36,
+       "spread": null
+      },
+      {
+       "name": "生壁色",
+       "de": 4.77,
+       "spread": 19.14
+      },
+      {
+       "name": "丁子茶",
+       "de": 4.91,
+       "spread": 17
+      },
+      {
+       "name": "空五倍子色",
+       "de": 5.53,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 6.47,
+       "spread": 16.46
+      },
+      {
+       "name": "芝翫茶",
+       "de": 7.31,
+       "spread": 20.85
+      }
+     ],
+     "nameCount": 35
+    },
+    {
+     "hex": "#8E6D59",
+     "share": 0.07079,
+     "L": 0.5627,
+     "C": 0.0508,
+     "h": 53.16,
+     "names": [
+      {
+       "name": "利休茶",
+       "de": 4.27,
+       "spread": 12.25
+      },
+      {
+       "name": "灰汁色",
+       "de": 5.24,
+       "spread": 23.46
+      },
+      {
+       "name": "胡桃染",
+       "de": 5.29,
+       "spread": null
+      },
+      {
+       "name": "朽葉色",
+       "de": 6.98,
+       "spread": 18.39
+      },
+      {
+       "name": "生壁色",
+       "de": 7.03,
+       "spread": 19.14
+      },
+      {
+       "name": "胡桃色",
+       "de": 7.72,
+       "spread": null
+      }
+     ],
+     "nameCount": 43
+    },
+    {
+     "hex": "#43372C",
+     "share": 0.04893,
+     "L": 0.3457,
+     "C": 0.0249,
+     "h": 64.37,
+     "names": [
+      {
+       "name": "海松茶",
+       "de": 2.62,
+       "spread": null
+      },
+      {
+       "name": "千歳茶",
+       "de": 3.39,
+       "spread": null
+      },
+      {
+       "name": "憲法色",
+       "de": 5.44,
+       "spread": null
+      },
+      {
+       "name": "藍媚茶",
+       "de": 5.49,
+       "spread": null
+      },
+      {
+       "name": "涅色",
+       "de": 5.64,
+       "spread": null
+      },
+      {
+       "name": "藍墨茶",
+       "de": 5.83,
+       "spread": null
+      }
+     ],
+     "nameCount": 39
+    },
+    {
+     "hex": "#685241",
+     "share": 0.04431,
+     "L": 0.4565,
+     "C": 0.0391,
+     "h": 58.45,
+     "names": [
+      {
+       "name": "路考茶",
+       "de": 1.35,
+       "spread": 14.64
+      },
+      {
+       "name": "焦茶",
+       "de": 4.38,
+       "spread": 17.56
+      },
+      {
+       "name": "生壁色",
+       "de": 4.9,
+       "spread": 19.14
+      },
+      {
+       "name": "樺茶",
+       "de": 6.27,
+       "spread": 20.42
+      },
+      {
+       "name": "素鼠",
+       "de": 6.33,
+       "spread": null
+      },
+      {
+       "name": "消炭色",
+       "de": 6.47,
+       "spread": null
+      }
+     ],
+     "nameCount": 42
+    }
+   ]
+  },
+  {
+   "name": "Yōshū (Hashimoto) Chikanobu",
+   "works": 46,
+   "from": 1870,
+   "to": 1899,
+   "blue": 0.0024,
+   "medianChroma": 0.0371,
+   "plates": [
+    {
+     "hex": "#F7ECD4",
+     "share": 0.29393,
+     "L": 0.9457,
+     "C": 0.0344,
+     "h": 86.39,
+     "names": [
+      {
+       "name": "鳥の子色",
+       "de": 3.25,
+       "spread": 14.01
+      },
+      {
+       "name": "練色",
+       "de": 3.35,
+       "spread": null
+      },
+      {
+       "name": "卯の花色",
+       "de": 8.49,
+       "spread": null
+      },
+      {
+       "name": "亜麻色",
+       "de": 8.82,
+       "spread": null
+      },
+      {
+       "name": "乳白色",
+       "de": 9.14,
+       "spread": null
+      },
+      {
+       "name": "砥粉色",
+       "de": 9.34,
+       "spread": null
+      }
+     ],
+     "nameCount": 20
+    },
+    {
+     "hex": "#E8D4B2",
+     "share": 0.27192,
+     "L": 0.8773,
+     "C": 0.0497,
+     "h": 80.37,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 4.02,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 4.83,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 5.52,
+       "spread": null
+      },
+      {
+       "name": "砥粉色",
+       "de": 5.9,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 6.61,
+       "spread": 14.01
+      },
+      {
+       "name": "桑染",
+       "de": 6.65,
+       "spread": 18.95
+      }
+     ],
+     "nameCount": 24
+    },
+    {
+     "hex": "#C2AD92",
+     "share": 0.11232,
+     "L": 0.758,
+     "C": 0.0443,
+     "h": 74,
+     "names": [
+      {
+       "name": "カーキ色",
+       "de": 2.11,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 3.93,
+       "spread": 23.46
+      },
+      {
+       "name": "白茶",
+       "de": 6.17,
+       "spread": 16.46
+      },
+      {
+       "name": "桑染",
+       "de": 6.4,
+       "spread": 18.95
+      },
+      {
+       "name": "亜麻色",
+       "de": 6.74,
+       "spread": null
+      },
+      {
+       "name": "白鼠",
+       "de": 7.01,
+       "spread": null
+      }
+     ],
+     "nameCount": 30
+    },
+    {
+     "hex": "#75685F",
+     "share": 0.10264,
+     "L": 0.5258,
+     "C": 0.0214,
+     "h": 56.72,
+     "names": [
+      {
+       "name": "素鼠",
+       "de": 3.46,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 3.69,
+       "spread": 23.46
+      },
+      {
+       "name": "樺茶",
+       "de": 4.72,
+       "spread": 20.42
+      },
+      {
+       "name": "利休茶",
+       "de": 5.51,
+       "spread": 12.25
+      },
+      {
+       "name": "生壁色",
+       "de": 7.16,
+       "spread": 19.14
+      },
+      {
+       "name": "鈍色",
+       "de": 7.38,
+       "spread": null
+      }
+     ],
+     "nameCount": 30
+    },
+    {
+     "hex": "#968C79",
+     "share": 0.09805,
+     "L": 0.6439,
+     "C": 0.0297,
+     "h": 82.89,
+     "names": [
+      {
+       "name": "空五倍子色",
+       "de": 4.92,
+       "spread": null
+      },
+      {
+       "name": "錆青磁",
+       "de": 6.3,
+       "spread": null
+      },
+      {
+       "name": "銀鼠",
+       "de": 6.79,
+       "spread": 18.09
+      },
+      {
+       "name": "柳鼠",
+       "de": 6.85,
+       "spread": null
+      },
+      {
+       "name": "利休鼠",
+       "de": 7.98,
+       "spread": 17.34
+      },
+      {
+       "name": "根岸色",
+       "de": 8.86,
+       "spread": null
+      }
+     ],
+     "nameCount": 26
+    },
+    {
+     "hex": "#4D403F",
+     "share": 0.06742,
+     "L": 0.3846,
+     "C": 0.0191,
+     "h": 22.59,
+     "names": [
+      {
+       "name": "丼鼠",
+       "de": 1.88,
+       "spread": null
+      },
+      {
+       "name": "藤煤竹",
+       "de": 3.05,
+       "spread": null
+      },
+      {
+       "name": "涅色",
+       "de": 3.36,
+       "spread": null
+      },
+      {
+       "name": "紅消鼠",
+       "de": 5.48,
+       "spread": null
+      },
+      {
+       "name": "青鈍",
+       "de": 5.68,
+       "spread": null
+      },
+      {
+       "name": "藍墨茶",
+       "de": 6.36,
+       "spread": null
+      }
+     ],
+     "nameCount": 39
+    },
+    {
+     "hex": "#B33E47",
+     "share": 0.03406,
+     "L": 0.5316,
+     "C": 0.1514,
+     "h": 19.77,
+     "names": [
+      {
+       "name": "臙脂色",
+       "de": 0.86,
+       "spread": 7.38
+      },
+      {
+       "name": "茜色",
+       "de": 2.32,
+       "spread": null
+      },
+      {
+       "name": "紅色",
+       "de": 4.83,
+       "spread": null
+      },
+      {
+       "name": "唐紅/韓紅",
+       "de": 5.34,
+       "spread": 5.35
+      },
+      {
+       "name": "中紅",
+       "de": 5.72,
+       "spread": null
+      },
+      {
+       "name": "猩々緋",
+       "de": 5.75,
+       "spread": 7.75
+      }
+     ],
+     "nameCount": 50
+    },
+    {
+     "hex": "#D8705A",
+     "share": 0.01966,
+     "L": 0.6615,
+     "C": 0.1349,
+     "h": 33.32,
+     "names": [
+      {
+       "name": "浅緋",
+       "de": 2.95,
+       "spread": null
+      },
+      {
+       "name": "鉛丹色",
+       "de": 3.95,
+       "spread": null
+      },
+      {
+       "name": "遠州茶",
+       "de": 4.54,
+       "spread": null
+      },
+      {
+       "name": "洗朱",
+       "de": 5.3,
+       "spread": 9.47
+      },
+      {
+       "name": "珊瑚色",
+       "de": 5.76,
+       "spread": 7.58
+      },
+      {
+       "name": "ときがら茶",
+       "de": 5.91,
+       "spread": null
+      }
+     ],
+     "nameCount": 60
+    }
+   ]
+  },
+  {
+   "name": "Katsushika Hokusai",
+   "works": 43,
+   "from": 1760,
+   "to": 1883,
+   "blue": 0.07118,
+   "medianChroma": 0.037,
+   "plates": [
+    {
+     "hex": "#EEDBBC",
+     "share": 0.2149,
+     "L": 0.8984,
+     "C": 0.0461,
+     "h": 78.62,
+     "names": [
+      {
+       "name": "鳥の子色",
+       "de": 5.23,
+       "spread": 14.01
+      },
+      {
+       "name": "白茶",
+       "de": 5.47,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 5.58,
+       "spread": null
+      },
+      {
+       "name": "砥粉色",
+       "de": 6.5,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 6.78,
+       "spread": null
+      },
+      {
+       "name": "練色",
+       "de": 8.14,
+       "spread": null
+      }
+     ],
+     "nameCount": 25
+    },
+    {
+     "hex": "#DCC7A1",
+     "share": 0.21358,
+     "L": 0.837,
+     "C": 0.0562,
+     "h": 81.3,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 2.54,
+       "spread": 16.46
+      },
+      {
+       "name": "桑染",
+       "de": 3.9,
+       "spread": 18.95
+      },
+      {
+       "name": "亜麻色",
+       "de": 4.67,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 4.9,
+       "spread": null
+      },
+      {
+       "name": "カーキ色",
+       "de": 6.29,
+       "spread": null
+      },
+      {
+       "name": "砥粉色",
+       "de": 6.66,
+       "spread": null
+      }
+     ],
+     "nameCount": 31
+    },
+    {
+     "hex": "#B8B095",
+     "share": 0.13988,
+     "L": 0.7568,
+     "C": 0.0381,
+     "h": 94.32,
+     "names": [
+      {
+       "name": "灰汁色",
+       "de": 3.83,
+       "spread": 23.46
+      },
+      {
+       "name": "裏柳",
+       "de": 4.46,
+       "spread": null
+      },
+      {
+       "name": "麹塵",
+       "de": 4.49,
+       "spread": null
+      },
+      {
+       "name": "山鳩色",
+       "de": 4.49,
+       "spread": null
+      },
+      {
+       "name": "カーキ色",
+       "de": 4.82,
+       "spread": null
+      },
+      {
+       "name": "生成色",
+       "de": 6.61,
+       "spread": null
+      }
+     ],
+     "nameCount": 29
+    },
+    {
+     "hex": "#FBEFDB",
+     "share": 0.13182,
+     "L": 0.9566,
+     "C": 0.0295,
+     "h": 81.51,
+     "names": [
+      {
+       "name": "練色",
+       "de": 3.81,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 4.61,
+       "spread": 14.01
+      },
+      {
+       "name": "卯の花色",
+       "de": 7.43,
+       "spread": null
+      },
+      {
+       "name": "乳白色",
+       "de": 8,
+       "spread": null
+      },
+      {
+       "name": "亜麻色",
+       "de": 9.36,
+       "spread": null
+      },
+      {
+       "name": "白",
+       "de": 9.42,
+       "spread": null
+      }
+     ],
+     "nameCount": 16
+    },
+    {
+     "hex": "#9D927C",
+     "share": 0.10694,
+     "L": 0.6638,
+     "C": 0.0343,
+     "h": 84.61,
+     "names": [
+      {
+       "name": "空五倍子色",
+       "de": 4.87,
+       "spread": null
+      },
+      {
+       "name": "錆青磁",
+       "de": 7.11,
+       "spread": null
+      },
+      {
+       "name": "銀鼠",
+       "de": 8.14,
+       "spread": 18.09
+      },
+      {
+       "name": "生壁色",
+       "de": 8.3,
+       "spread": 19.14
+      },
+      {
+       "name": "根岸色",
+       "de": 8.43,
+       "spread": null
+      },
+      {
+       "name": "利休白茶",
+       "de": 8.49,
+       "spread": null
+      }
+     ],
+     "nameCount": 30
+    },
+    {
+     "hex": "#72786E",
+     "share": 0.08376,
+     "L": 0.5642,
+     "C": 0.0159,
+     "h": 132.73,
+     "names": [
+      {
+       "name": "湊鼠",
+       "de": 2.26,
+       "spread": null
+      },
+      {
+       "name": "錆浅葱",
+       "de": 6.51,
+       "spread": 9.59
+      },
+      {
+       "name": "柳鼠",
+       "de": 6.85,
+       "spread": null
+      },
+      {
+       "name": "鉛色",
+       "de": 7.39,
+       "spread": null
+      },
+      {
+       "name": "鈍色",
+       "de": 7.5,
+       "spread": null
+      },
+      {
+       "name": "灰色",
+       "de": 7.79,
+       "spread": null
+      }
+     ],
+     "nameCount": 17
+    },
+    {
+     "hex": "#565D5C",
+     "share": 0.07334,
+     "L": 0.4701,
+     "C": 0.0089,
+     "h": 187.23,
+     "names": [
+      {
+       "name": "錆御納戸",
+       "de": 5.55,
+       "spread": null
+      },
+      {
+       "name": "沈香茶",
+       "de": 6.87,
+       "spread": null
+      },
+      {
+       "name": "舛花色",
+       "de": 6.91,
+       "spread": null
+      },
+      {
+       "name": "御召御納戸",
+       "de": 7.61,
+       "spread": null
+      },
+      {
+       "name": "仙斎茶",
+       "de": 7.76,
+       "spread": null
+      },
+      {
+       "name": "利休鼠",
+       "de": 7.77,
+       "spread": 17.34
+      }
+     ],
+     "nameCount": 33
+    },
+    {
+     "hex": "#313D46",
+     "share": 0.03577,
+     "L": 0.3536,
+     "C": 0.0223,
+     "h": 240.86,
+     "names": [
+      {
+       "name": "青鈍色",
+       "de": 5.13,
+       "spread": null
+      },
+      {
+       "name": "御納戸色",
+       "de": 5.63,
+       "spread": null
+      },
+      {
+       "name": "御召御納戸",
+       "de": 5.72,
+       "spread": null
+      },
+      {
+       "name": "熨斗目花色",
+       "de": 6.73,
+       "spread": null
+      },
+      {
+       "name": "鉄御納戸",
+       "de": 6.75,
+       "spread": null
+      },
+      {
+       "name": "墨色",
+       "de": 7.2,
+       "spread": 6.48
+      }
+     ],
+     "nameCount": 29
+    }
+   ]
+  },
+  {
+   "name": "Okumura Masanobu",
+   "works": 42,
+   "from": 1700,
+   "to": 1912,
+   "blue": 0,
+   "medianChroma": 0.0348,
+   "plates": [
+    {
+     "hex": "#EDD7BB",
+     "share": 0.1932,
+     "L": 0.8893,
+     "C": 0.0445,
+     "h": 73.89,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 4.71,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 4.87,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 6.78,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 7,
+       "spread": 14.01
+      },
+      {
+       "name": "白練",
+       "de": 7.41,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 7.83,
+       "spread": 18.95
+      }
+     ],
+     "nameCount": 25
+    },
+    {
+     "hex": "#FDF2DF",
+     "share": 0.16659,
+     "L": 0.9638,
+     "C": 0.0279,
+     "h": 81.35,
+     "names": [
+      {
+       "name": "練色",
+       "de": 3.41,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 4.91,
+       "spread": 14.01
+      },
+      {
+       "name": "卯の花色",
+       "de": 6.82,
+       "spread": null
+      },
+      {
+       "name": "乳白色",
+       "de": 7.36,
+       "spread": null
+      },
+      {
+       "name": "白",
+       "de": 8.84,
+       "spread": null
+      },
+      {
+       "name": "月白",
+       "de": 9.21,
+       "spread": null
+      }
+     ],
+     "nameCount": 16
+    },
+    {
+     "hex": "#F5E3CD",
+     "share": 0.16074,
+     "L": 0.9256,
+     "C": 0.0358,
+     "h": 73.95,
+     "names": [
+      {
+       "name": "鳥の子色",
+       "de": 5.85,
+       "spread": 14.01
+      },
+      {
+       "name": "亜麻色",
+       "de": 6.94,
+       "spread": null
+      },
+      {
+       "name": "白練",
+       "de": 7.03,
+       "spread": null
+      },
+      {
+       "name": "練色",
+       "de": 7.05,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 7.8,
+       "spread": 16.46
+      },
+      {
+       "name": "砥粉色",
+       "de": 9.69,
+       "spread": null
+      }
+     ],
+     "nameCount": 22
+    },
+    {
+     "hex": "#E0C7A6",
+     "share": 0.12675,
+     "L": 0.8427,
+     "C": 0.0523,
+     "h": 75.05,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 1.38,
+       "spread": 16.46
+      },
+      {
+       "name": "桑染",
+       "de": 3.93,
+       "spread": 18.95
+      },
+      {
+       "name": "亜麻色",
+       "de": 3.94,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 4.76,
+       "spread": 14.01
+      },
+      {
+       "name": "香色",
+       "de": 5.09,
+       "spread": null
+      },
+      {
+       "name": "カーキ色",
+       "de": 6.63,
+       "spread": null
+      }
+     ],
+     "nameCount": 29
+    },
+    {
+     "hex": "#CAB091",
+     "share": 0.11199,
+     "L": 0.7713,
+     "C": 0.0512,
+     "h": 71.52,
+     "names": [
+      {
+       "name": "カーキ色",
+       "de": 2.98,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 4.67,
+       "spread": 18.95
+      },
+      {
+       "name": "白茶",
+       "de": 5.29,
+       "spread": 16.46
+      },
+      {
+       "name": "鳥の子色",
+       "de": 5.59,
+       "spread": 14.01
+      },
+      {
+       "name": "蒸栗色",
+       "de": 5.66,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 5.82,
+       "spread": 23.46
+      }
+     ],
+     "nameCount": 34
+    },
+    {
+     "hex": "#A78972",
+     "share": 0.09953,
+     "L": 0.6532,
+     "C": 0.0493,
+     "h": 59.17,
+     "names": [
+      {
+       "name": "利休白茶",
+       "de": 2.98,
+       "spread": null
+      },
+      {
+       "name": "丁子茶",
+       "de": 4.91,
+       "spread": 17
+      },
+      {
+       "name": "空五倍子色",
+       "de": 5.84,
+       "spread": null
+      },
+      {
+       "name": "銀鼠",
+       "de": 6.34,
+       "spread": 18.09
+      },
+      {
+       "name": "生壁色",
+       "de": 6.4,
+       "spread": 19.14
+      },
+      {
+       "name": "白茶",
+       "de": 7.67,
+       "spread": 16.46
+      }
+     ],
+     "nameCount": 31
+    },
+    {
+     "hex": "#6B5D52",
+     "share": 0.08937,
+     "L": 0.4884,
+     "C": 0.0249,
+     "h": 61.28,
+     "names": [
+      {
+       "name": "素鼠",
+       "de": 2.09,
+       "spread": null
+      },
+      {
+       "name": "樺茶",
+       "de": 3.65,
+       "spread": 20.42
+      },
+      {
+       "name": "路考茶",
+       "de": 4.36,
+       "spread": 14.64
+      },
+      {
+       "name": "藍鼠",
+       "de": 4.88,
+       "spread": 20.68
+      },
+      {
+       "name": "岩井茶",
+       "de": 5.6,
+       "spread": null
+      },
+      {
+       "name": "消炭色",
+       "de": 5.69,
+       "spread": null
+      }
+     ],
+     "nameCount": 37
+    },
+    {
+     "hex": "#3E352E",
+     "share": 0.05183,
+     "L": 0.3361,
+     "C": 0.0178,
+     "h": 64.27,
+     "names": [
+      {
+       "name": "千歳茶",
+       "de": 3.08,
+       "spread": null
+      },
+      {
+       "name": "藍墨茶",
+       "de": 3.4,
+       "spread": null
+      },
+      {
+       "name": "涅色",
+       "de": 4.39,
+       "spread": null
+      },
+      {
+       "name": "檳榔子染",
+       "de": 4.69,
+       "spread": null
+      },
+      {
+       "name": "海松茶",
+       "de": 4.72,
+       "spread": null
+      },
+      {
+       "name": "丼鼠",
+       "de": 5.37,
+       "spread": null
+      }
+     ],
+     "nameCount": 40
+    }
+   ]
+  },
+  {
+   "name": "Kitagawa Utamaro",
+   "works": 35,
+   "from": 1750,
+   "to": 1850,
+   "blue": 0,
+   "medianChroma": 0.0454,
+   "plates": [
+    {
+     "hex": "#DFC39D",
+     "share": 0.24533,
+     "L": 0.8309,
+     "C": 0.0597,
+     "h": 75.73,
+     "names": [
+      {
+       "name": "桑染",
+       "de": 2.23,
+       "spread": 18.95
+      },
+      {
+       "name": "白茶",
+       "de": 2.45,
+       "spread": 16.46
+      },
+      {
+       "name": "香色",
+       "de": 4.18,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 4.54,
+       "spread": 14.01
+      },
+      {
+       "name": "亜麻色",
+       "de": 5.38,
+       "spread": null
+      },
+      {
+       "name": "蒸栗色",
+       "de": 5.85,
+       "spread": null
+      }
+     ],
+     "nameCount": 31
+    },
+    {
+     "hex": "#EFD7B7",
+     "share": 0.19518,
+     "L": 0.8902,
+     "C": 0.0503,
+     "h": 74.45,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 4.65,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 5.48,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 5.63,
+       "spread": null
+      },
+      {
+       "name": "砥粉色",
+       "de": 6.81,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 6.87,
+       "spread": 14.01
+      },
+      {
+       "name": "桑染",
+       "de": 7.2,
+       "spread": 18.95
+      }
+     ],
+     "nameCount": 24
+    },
+    {
+     "hex": "#CCAC87",
+     "share": 0.1345,
+     "L": 0.7628,
+     "C": 0.0623,
+     "h": 71.01,
+     "names": [
+      {
+       "name": "蒸栗色",
+       "de": 4.2,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 4.62,
+       "spread": 18.95
+      },
+      {
+       "name": "カーキ色",
+       "de": 4.66,
+       "spread": null
+      },
+      {
+       "name": "白橡",
+       "de": 5.34,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 5.87,
+       "spread": 14.01
+      },
+      {
+       "name": "伽羅色",
+       "de": 5.94,
+       "spread": 38.75
+      }
+     ],
+     "nameCount": 42
+    },
+    {
+     "hex": "#B69374",
+     "share": 0.12129,
+     "L": 0.6871,
+     "C": 0.0604,
+     "h": 62.51,
+     "names": [
+      {
+       "name": "利休白茶",
+       "de": 2.5,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 5.19,
+       "spread": 16.46
+      },
+      {
+       "name": "生壁色",
+       "de": 5.19,
+       "spread": 19.14
+      },
+      {
+       "name": "丁子茶",
+       "de": 5.53,
+       "spread": 17
+      },
+      {
+       "name": "白橡",
+       "de": 6.46,
+       "spread": null
+      },
+      {
+       "name": "空五倍子色",
+       "de": 7.18,
+       "spread": null
+      }
+     ],
+     "nameCount": 39
+    },
+    {
+     "hex": "#FCF0DA",
+     "share": 0.09197,
+     "L": 0.9591,
+     "C": 0.0316,
+     "h": 82.93,
+     "names": [
+      {
+       "name": "練色",
+       "de": 3.35,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 3.85,
+       "spread": 14.01
+      },
+      {
+       "name": "卯の花色",
+       "de": 7.85,
+       "spread": null
+      },
+      {
+       "name": "乳白色",
+       "de": 8.41,
+       "spread": null
+      },
+      {
+       "name": "亜麻色",
+       "de": 9.52,
+       "spread": null
+      },
+      {
+       "name": "白",
+       "de": 9.92,
+       "spread": null
+      }
+     ],
+     "nameCount": 18
+    },
+    {
+     "hex": "#927B67",
+     "share": 0.07887,
+     "L": 0.5992,
+     "C": 0.0409,
+     "h": 63.01,
+     "names": [
+      {
+       "name": "銀鼠",
+       "de": 5.81,
+       "spread": 18.09
+      },
+      {
+       "name": "利休茶",
+       "de": 6.32,
+       "spread": 12.25
+      },
+      {
+       "name": "空五倍子色",
+       "de": 6.44,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 6.91,
+       "spread": 23.46
+      },
+      {
+       "name": "胡桃染",
+       "de": 7.84,
+       "spread": null
+      },
+      {
+       "name": "柳鼠",
+       "de": 8.57,
+       "spread": null
+      }
+     ],
+     "nameCount": 37
+    },
+    {
+     "hex": "#715F50",
+     "share": 0.06817,
+     "L": 0.4988,
+     "C": 0.0329,
+     "h": 64.18,
+     "names": [
+      {
+       "name": "樺茶",
+       "de": 2.29,
+       "spread": 20.42
+      },
+      {
+       "name": "素鼠",
+       "de": 3.37,
+       "spread": null
+      },
+      {
+       "name": "生壁色",
+       "de": 3.56,
+       "spread": 19.14
+      },
+      {
+       "name": "路考茶",
+       "de": 4.31,
+       "spread": 14.64
+      },
+      {
+       "name": "灰汁色",
+       "de": 4.89,
+       "spread": 23.46
+      },
+      {
+       "name": "利休茶",
+       "de": 5.35,
+       "spread": 12.25
+      }
+     ],
+     "nameCount": 37
+    },
+    {
+     "hex": "#423C34",
+     "share": 0.06469,
+     "L": 0.3591,
+     "C": 0.0164,
+     "h": 72.75,
+     "names": [
+      {
+       "name": "千歳茶",
+       "de": 3.08,
+       "spread": null
+      },
+      {
+       "name": "藍墨茶",
+       "de": 4.41,
+       "spread": null
+      },
+      {
+       "name": "青鈍",
+       "de": 4.77,
+       "spread": null
+      },
+      {
+       "name": "藍媚茶",
+       "de": 4.86,
+       "spread": null
+      },
+      {
+       "name": "海松茶",
+       "de": 5.12,
+       "spread": null
+      },
+      {
+       "name": "墨色",
+       "de": 6.06,
+       "spread": 6.48
+      }
+     ],
+     "nameCount": 40
+    }
+   ]
+  },
+  {
+   "name": "Suzuki Harunobu",
+   "works": 33,
+   "from": 1725,
+   "to": 1798,
+   "blue": 0,
+   "medianChroma": 0.038,
+   "plates": [
+    {
+     "hex": "#D7C2A1",
+     "share": 0.21525,
+     "L": 0.8223,
+     "C": 0.05,
+     "h": 79.18,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 1.11,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 3.43,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 3.73,
+       "spread": 18.95
+      },
+      {
+       "name": "カーキ色",
+       "de": 4.87,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 6.09,
+       "spread": 14.01
+      },
+      {
+       "name": "香色",
+       "de": 6.13,
+       "spread": null
+      }
+     ],
+     "nameCount": 28
+    },
+    {
+     "hex": "#C0AA89",
+     "share": 0.1932,
+     "L": 0.7487,
+     "C": 0.0515,
+     "h": 76.79,
+     "names": [
+      {
+       "name": "カーキ色",
+       "de": 1.95,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 5.23,
+       "spread": 23.46
+      },
+      {
+       "name": "榛色",
+       "de": 5.57,
+       "spread": null
+      },
+      {
+       "name": "蒸栗色",
+       "de": 5.9,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 6.05,
+       "spread": 18.95
+      },
+      {
+       "name": "生成色",
+       "de": 6.16,
+       "spread": null
+      }
+     ],
+     "nameCount": 34
+    },
+    {
+     "hex": "#AA9477",
+     "share": 0.17228,
+     "L": 0.6786,
+     "C": 0.0483,
+     "h": 74.97,
+     "names": [
+      {
+       "name": "空五倍子色",
+       "de": 3.91,
+       "spread": null
+      },
+      {
+       "name": "生壁色",
+       "de": 4.54,
+       "spread": 19.14
+      },
+      {
+       "name": "利休白茶",
+       "de": 4.61,
+       "spread": null
+      },
+      {
+       "name": "榛色",
+       "de": 8.09,
+       "spread": null
+      },
+      {
+       "name": "白鼠",
+       "de": 8.18,
+       "spread": null
+      },
+      {
+       "name": "カーキ色",
+       "de": 8.3,
+       "spread": null
+      }
+     ],
+     "nameCount": 35
+    },
+    {
+     "hex": "#8C7B65",
+     "share": 0.154,
+     "L": 0.592,
+     "C": 0.0379,
+     "h": 72,
+     "names": [
+      {
+       "name": "柳鼠",
+       "de": 5.51,
+       "spread": null
+      },
+      {
+       "name": "空五倍子色",
+       "de": 5.72,
+       "spread": null
+      },
+      {
+       "name": "利休茶",
+       "de": 6.85,
+       "spread": 12.25
+      },
+      {
+       "name": "銀鼠",
+       "de": 7.17,
+       "spread": 18.09
+      },
+      {
+       "name": "灰汁色",
+       "de": 7.44,
+       "spread": 23.46
+      },
+      {
+       "name": "梅幸茶",
+       "de": 7.98,
+       "spread": null
+      }
+     ],
+     "nameCount": 32
+    },
+    {
+     "hex": "#EFE5D3",
+     "share": 0.11783,
+     "L": 0.9245,
+     "C": 0.0268,
+     "h": 80.67,
+     "names": [
+      {
+       "name": "練色",
+       "de": 5,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 5.74,
+       "spread": 14.01
+      },
+      {
+       "name": "亜麻色",
+       "de": 7.53,
+       "spread": null
+      },
+      {
+       "name": "卯の花色",
+       "de": 7.61,
+       "spread": null
+      },
+      {
+       "name": "乳白色",
+       "de": 8.36,
+       "spread": null
+      },
+      {
+       "name": "瓶覗",
+       "de": 8.96,
+       "spread": 16.09
+      }
+     ],
+     "nameCount": 22
+    },
+    {
+     "hex": "#736252",
+     "share": 0.07868,
+     "L": 0.5081,
+     "C": 0.0327,
+     "h": 67.13,
+     "names": [
+      {
+       "name": "樺茶",
+       "de": 1.27,
+       "spread": 20.42
+      },
+      {
+       "name": "生壁色",
+       "de": 3.97,
+       "spread": 19.14
+      },
+      {
+       "name": "素鼠",
+       "de": 4.01,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 4.27,
+       "spread": 23.46
+      },
+      {
+       "name": "利休茶",
+       "de": 4.62,
+       "spread": 12.25
+      },
+      {
+       "name": "路考茶",
+       "de": 5.39,
+       "spread": 14.64
+      }
+     ],
+     "nameCount": 38
+    },
+    {
+     "hex": "#524639",
+     "share": 0.0478,
+     "L": 0.4024,
+     "C": 0.0263,
+     "h": 68.68,
+     "names": [
+      {
+       "name": "海松茶",
+       "de": 3.33,
+       "spread": null
+      },
+      {
+       "name": "消炭色",
+       "de": 3.69,
+       "spread": null
+      },
+      {
+       "name": "青鈍",
+       "de": 4.66,
+       "spread": null
+      },
+      {
+       "name": "藍媚茶",
+       "de": 4.85,
+       "spread": null
+      },
+      {
+       "name": "憲法色",
+       "de": 5.19,
+       "spread": null
+      },
+      {
+       "name": "岩井茶",
+       "de": 5.61,
+       "spread": null
+      }
+     ],
+     "nameCount": 39
+    },
+    {
+     "hex": "#362D23",
+     "share": 0.02096,
+     "L": 0.3039,
+     "C": 0.021,
+     "h": 72.12,
+     "names": [
+      {
+       "name": "千歳茶",
+       "de": 2.67,
+       "spread": null
+      },
+      {
+       "name": "檳榔子染",
+       "de": 4.76,
+       "spread": null
+      },
+      {
+       "name": "藍墨茶",
+       "de": 5.35,
+       "spread": null
+      },
+      {
+       "name": "憲法染",
+       "de": 5.38,
+       "spread": null
+      },
+      {
+       "name": "墨色",
+       "de": 5.54,
+       "spread": 6.48
+      },
+      {
+       "name": "海松茶",
+       "de": 6.3,
+       "spread": null
+      }
+     ],
+     "nameCount": 39
+    }
+   ]
+  },
+  {
+   "name": "Kubo Shunman",
+   "works": 29,
+   "from": 1757,
+   "to": 1899,
+   "blue": 0,
+   "medianChroma": 0.0308,
+   "plates": [
+    {
+     "hex": "#E7D6C4",
+     "share": 0.21944,
+     "L": 0.8854,
+     "C": 0.031,
+     "h": 71.25,
+     "names": [
+      {
+       "name": "亜麻色",
+       "de": 4.6,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 6.22,
+       "spread": 16.46
+      },
+      {
+       "name": "白練",
+       "de": 6.9,
+       "spread": null
+      },
+      {
+       "name": "瓶覗",
+       "de": 7.9,
+       "spread": 16.09
+      },
+      {
+       "name": "灰桜",
+       "de": 8.46,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 8.47,
+       "spread": 14.01
+      }
+     ],
+     "nameCount": 27
+    },
+    {
+     "hex": "#DACAB5",
+     "share": 0.19338,
+     "L": 0.8473,
+     "C": 0.0335,
+     "h": 74.17,
+     "names": [
+      {
+       "name": "亜麻色",
+       "de": 1.3,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 3.74,
+       "spread": 16.46
+      },
+      {
+       "name": "瓶覗",
+       "de": 6.13,
+       "spread": 16.09
+      },
+      {
+       "name": "灰汁色",
+       "de": 7.15,
+       "spread": 23.46
+      },
+      {
+       "name": "鳥の子色",
+       "de": 7.39,
+       "spread": 14.01
+      },
+      {
+       "name": "カーキ色",
+       "de": 7.59,
+       "spread": null
+      }
+     ],
+     "nameCount": 29
+    },
+    {
+     "hex": "#F2E2D0",
+     "share": 0.16517,
+     "L": 0.9213,
+     "C": 0.0301,
+     "h": 71.58,
+     "names": [
+      {
+       "name": "鳥の子色",
+       "de": 6.87,
+       "spread": 14.01
+      },
+      {
+       "name": "亜麻色",
+       "de": 6.93,
+       "spread": null
+      },
+      {
+       "name": "白練",
+       "de": 6.96,
+       "spread": null
+      },
+      {
+       "name": "練色",
+       "de": 7.21,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 8.28,
+       "spread": 16.46
+      },
+      {
+       "name": "桜色",
+       "de": 8.66,
+       "spread": 12.96
+      }
+     ],
+     "nameCount": 22
+    },
+    {
+     "hex": "#FAF1DF",
+     "share": 0.14368,
+     "L": 0.9596,
+     "C": 0.025,
+     "h": 82.96,
+     "names": [
+      {
+       "name": "練色",
+       "de": 3.05,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 5.2,
+       "spread": 14.01
+      },
+      {
+       "name": "卯の花色",
+       "de": 6.27,
+       "spread": null
+      },
+      {
+       "name": "乳白色",
+       "de": 6.88,
+       "spread": null
+      },
+      {
+       "name": "白",
+       "de": 8.45,
+       "spread": null
+      },
+      {
+       "name": "月白",
+       "de": 8.73,
+       "spread": null
+      }
+     ],
+     "nameCount": 16
+    },
+    {
+     "hex": "#C9B8A3",
+     "share": 0.09989,
+     "L": 0.7922,
+     "C": 0.0345,
+     "h": 74.3,
+     "names": [
+      {
+       "name": "灰汁色",
+       "de": 3.31,
+       "spread": 23.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 3.67,
+       "spread": null
+      },
+      {
+       "name": "カーキ色",
+       "de": 4.15,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 4.61,
+       "spread": 16.46
+      },
+      {
+       "name": "瓶覗",
+       "de": 6.42,
+       "spread": 16.09
+      },
+      {
+       "name": "鳥の子色",
+       "de": 7.07,
+       "spread": 14.01
+      }
+     ],
+     "nameCount": 30
+    },
+    {
+     "hex": "#B19985",
+     "share": 0.07979,
+     "L": 0.6995,
+     "C": 0.0403,
+     "h": 61.1,
+     "names": [
+      {
+       "name": "利休白茶",
+       "de": 2.93,
+       "spread": null
+      },
+      {
+       "name": "白鼠",
+       "de": 3.75,
+       "spread": null
+      },
+      {
+       "name": "空五倍子色",
+       "de": 7.42,
+       "spread": null
+      },
+      {
+       "name": "銀鼠",
+       "de": 7.86,
+       "spread": 18.09
+      },
+      {
+       "name": "生壁色",
+       "de": 8.06,
+       "spread": 19.14
+      },
+      {
+       "name": "灰汁色",
+       "de": 8.28,
+       "spread": 23.46
+      }
+     ],
+     "nameCount": 26
+    },
+    {
+     "hex": "#8C7869",
+     "share": 0.06856,
+     "L": 0.5875,
+     "C": 0.0332,
+     "h": 61.3,
+     "names": [
+      {
+       "name": "灰汁色",
+       "de": 5.15,
+       "spread": 23.46
+      },
+      {
+       "name": "利休茶",
+       "de": 5.31,
+       "spread": 12.25
+      },
+      {
+       "name": "銀鼠",
+       "de": 5.6,
+       "spread": 18.09
+      },
+      {
+       "name": "柳鼠",
+       "de": 8.06,
+       "spread": null
+      },
+      {
+       "name": "胡桃染",
+       "de": 8.17,
+       "spread": null
+      },
+      {
+       "name": "空五倍子色",
+       "de": 8.4,
+       "spread": null
+      }
+     ],
+     "nameCount": 30
+    },
+    {
+     "hex": "#584E44",
+     "share": 0.03009,
+     "L": 0.43,
+     "C": 0.0214,
+     "h": 64.52,
+     "names": [
+      {
+       "name": "消炭色",
+       "de": 1.12,
+       "spread": null
+      },
+      {
+       "name": "藍鼠",
+       "de": 2.98,
+       "spread": 20.68
+      },
+      {
+       "name": "青鈍",
+       "de": 3.5,
+       "spread": null
+      },
+      {
+       "name": "岩井茶",
+       "de": 3.98,
+       "spread": null
+      },
+      {
+       "name": "路考茶",
+       "de": 5.05,
+       "spread": 14.64
+      },
+      {
+       "name": "海松茶",
+       "de": 6.14,
+       "spread": null
+      }
+     ],
+     "nameCount": 42
+    }
+   ]
+  },
+  {
+   "name": "Unidentified artist",
+   "works": 20,
+   "from": 1700,
+   "to": 1910,
+   "blue": 0.00921,
+   "medianChroma": 0.0364,
+   "plates": [
+    {
+     "hex": "#D4BB98",
+     "share": 0.25737,
+     "L": 0.8044,
+     "C": 0.0553,
+     "h": 75.69,
+     "names": [
+      {
+       "name": "桑染",
+       "de": 2.38,
+       "spread": 18.95
+      },
+      {
+       "name": "白茶",
+       "de": 2.6,
+       "spread": 16.46
+      },
+      {
+       "name": "カーキ色",
+       "de": 3.89,
+       "spread": null
+      },
+      {
+       "name": "亜麻色",
+       "de": 5.02,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 5.06,
+       "spread": 14.01
+      },
+      {
+       "name": "蒸栗色",
+       "de": 5.22,
+       "spread": null
+      }
+     ],
+     "nameCount": 31
+    },
+    {
+     "hex": "#FAEDD9",
+     "share": 0.22731,
+     "L": 0.9512,
+     "C": 0.0304,
+     "h": 80.42,
+     "names": [
+      {
+       "name": "練色",
+       "de": 4.4,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 4.79,
+       "spread": 14.01
+      },
+      {
+       "name": "卯の花色",
+       "de": 7.76,
+       "spread": null
+      },
+      {
+       "name": "乳白色",
+       "de": 8.33,
+       "spread": null
+      },
+      {
+       "name": "亜麻色",
+       "de": 8.92,
+       "spread": null
+      },
+      {
+       "name": "白練",
+       "de": 9.15,
+       "spread": null
+      }
+     ],
+     "nameCount": 17
+    },
+    {
+     "hex": "#E9D5BA",
+     "share": 0.19547,
+     "L": 0.8813,
+     "C": 0.042,
+     "h": 75.25,
+     "names": [
+      {
+       "name": "亜麻色",
+       "de": 4.08,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 4.27,
+       "spread": 16.46
+      },
+      {
+       "name": "香色",
+       "de": 7.08,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 7.11,
+       "spread": 14.01
+      },
+      {
+       "name": "桑染",
+       "de": 7.7,
+       "spread": 18.95
+      },
+      {
+       "name": "白練",
+       "de": 8.02,
+       "spread": null
+      }
+     ],
+     "nameCount": 27
+    },
+    {
+     "hex": "#B59B84",
+     "share": 0.10892,
+     "L": 0.7073,
+     "C": 0.045,
+     "h": 64.99,
+     "names": [
+      {
+       "name": "利休白茶",
+       "de": 2.98,
+       "spread": null
+      },
+      {
+       "name": "白鼠",
+       "de": 4.16,
+       "spread": null
+      },
+      {
+       "name": "生壁色",
+       "de": 7.6,
+       "spread": 19.14
+      },
+      {
+       "name": "カーキ色",
+       "de": 7.62,
+       "spread": null
+      },
+      {
+       "name": "空五倍子色",
+       "de": 7.68,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 8.07,
+       "spread": 23.46
+      }
+     ],
+     "nameCount": 31
+    },
+    {
+     "hex": "#81685E",
+     "share": 0.07421,
+     "L": 0.54,
+     "C": 0.0357,
+     "h": 44.74,
+     "names": [
+      {
+       "name": "灰汁色",
+       "de": 3.57,
+       "spread": 23.46
+      },
+      {
+       "name": "利休茶",
+       "de": 4.88,
+       "spread": 12.25
+      },
+      {
+       "name": "鳩羽鼠",
+       "de": 5.72,
+       "spread": null
+      },
+      {
+       "name": "素鼠",
+       "de": 5.89,
+       "spread": null
+      },
+      {
+       "name": "生壁色",
+       "de": 6.48,
+       "spread": 19.14
+      },
+      {
+       "name": "樺茶",
+       "de": 7.59,
+       "spread": 20.42
+      }
+     ],
+     "nameCount": 35
+    },
+    {
+     "hex": "#8A8575",
+     "share": 0.07077,
+     "L": 0.6155,
+     "C": 0.0244,
+     "h": 92.73,
+     "names": [
+      {
+       "name": "柳鼠",
+       "de": 3.87,
+       "spread": null
+      },
+      {
+       "name": "錆青磁",
+       "de": 4.41,
+       "spread": null
+      },
+      {
+       "name": "利休鼠",
+       "de": 6,
+       "spread": 17.34
+      },
+      {
+       "name": "空五倍子色",
+       "de": 7.74,
+       "spread": null
+      },
+      {
+       "name": "湊鼠",
+       "de": 7.9,
+       "spread": null
+      },
+      {
+       "name": "灰色",
+       "de": 8,
+       "spread": null
+      }
+     ],
+     "nameCount": 24
+    },
+    {
+     "hex": "#60554C",
+     "share": 0.04391,
+     "L": 0.4562,
+     "C": 0.0197,
+     "h": 60.07,
+     "names": [
+      {
+       "name": "藍鼠",
+       "de": 1.96,
+       "spread": 20.68
+      },
+      {
+       "name": "消炭色",
+       "de": 2.7,
+       "spread": null
+      },
+      {
+       "name": "岩井茶",
+       "de": 4.21,
+       "spread": null
+      },
+      {
+       "name": "路考茶",
+       "de": 4.32,
+       "spread": 14.64
+      },
+      {
+       "name": "素鼠",
+       "de": 4.57,
+       "spread": null
+      },
+      {
+       "name": "青鈍",
+       "de": 5.28,
+       "spread": null
+      }
+     ],
+     "nameCount": 39
+    },
+    {
+     "hex": "#453B33",
+     "share": 0.02205,
+     "L": 0.3595,
+     "C": 0.0192,
+     "h": 56.52,
+     "names": [
+      {
+       "name": "海松茶",
+       "de": 3.25,
+       "spread": null
+      },
+      {
+       "name": "千歳茶",
+       "de": 3.9,
+       "spread": null
+      },
+      {
+       "name": "藍墨茶",
+       "de": 4.67,
+       "spread": null
+      },
+      {
+       "name": "涅色",
+       "de": 4.68,
+       "spread": null
+      },
+      {
+       "name": "丼鼠",
+       "de": 4.7,
+       "spread": null
+      },
+      {
+       "name": "青鈍",
+       "de": 5.13,
+       "spread": null
+      }
+     ],
+     "nameCount": 40
+    }
+   ]
+  },
+  {
+   "name": "Ishikawa Toyonobu",
+   "works": 19,
+   "from": 1711,
+   "to": 1785,
+   "blue": 0,
+   "medianChroma": 0.0378,
+   "plates": [
+    {
+     "hex": "#ECD5B6",
+     "share": 0.28348,
+     "L": 0.8844,
+     "C": 0.0483,
+     "h": 75.83,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 4.14,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 4.87,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 5.79,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 6.95,
+       "spread": 18.95
+      },
+      {
+       "name": "鳥の子色",
+       "de": 6.96,
+       "spread": 14.01
+      },
+      {
+       "name": "砥粉色",
+       "de": 7.07,
+       "spread": null
+      }
+     ],
+     "nameCount": 25
+    },
+    {
+     "hex": "#DBC2A0",
+     "share": 0.2096,
+     "L": 0.8262,
+     "C": 0.0532,
+     "h": 74.95,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 1.25,
+       "spread": 16.46
+      },
+      {
+       "name": "桑染",
+       "de": 2.97,
+       "spread": 18.95
+      },
+      {
+       "name": "亜麻色",
+       "de": 4.17,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 4.68,
+       "spread": 14.01
+      },
+      {
+       "name": "香色",
+       "de": 5.38,
+       "spread": null
+      },
+      {
+       "name": "カーキ色",
+       "de": 5.45,
+       "spread": null
+      }
+     ],
+     "nameCount": 27
+    },
+    {
+     "hex": "#887D6A",
+     "share": 0.10723,
+     "L": 0.5944,
+     "C": 0.0312,
+     "h": 82.49,
+     "names": [
+      {
+       "name": "柳鼠",
+       "de": 2.86,
+       "spread": null
+      },
+      {
+       "name": "空五倍子色",
+       "de": 6.61,
+       "spread": null
+      },
+      {
+       "name": "梅幸茶",
+       "de": 7.31,
+       "spread": null
+      },
+      {
+       "name": "銀鼠",
+       "de": 7.46,
+       "spread": 18.09
+      },
+      {
+       "name": "錆青磁",
+       "de": 7.71,
+       "spread": null
+      },
+      {
+       "name": "利休茶",
+       "de": 8.64,
+       "spread": 12.25
+      }
+     ],
+     "nameCount": 31
+    },
+    {
+     "hex": "#F8E7CD",
+     "share": 0.10679,
+     "L": 0.9351,
+     "C": 0.0393,
+     "h": 79.33,
+     "names": [
+      {
+       "name": "鳥の子色",
+       "de": 3.91,
+       "spread": 14.01
+      },
+      {
+       "name": "練色",
+       "de": 5.82,
+       "spread": null
+      },
+      {
+       "name": "亜麻色",
+       "de": 7.65,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 8.24,
+       "spread": 16.46
+      },
+      {
+       "name": "砥粉色",
+       "de": 8.39,
+       "spread": null
+      },
+      {
+       "name": "白練",
+       "de": 8.64,
+       "spread": null
+      }
+     ],
+     "nameCount": 21
+    },
+    {
+     "hex": "#BFA789",
+     "share": 0.10542,
+     "L": 0.7415,
+     "C": 0.0503,
+     "h": 73.87,
+     "names": [
+      {
+       "name": "カーキ色",
+       "de": 3.24,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 5.55,
+       "spread": 23.46
+      },
+      {
+       "name": "榛色",
+       "de": 6.46,
+       "spread": null
+      },
+      {
+       "name": "蒸栗色",
+       "de": 6.7,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 6.89,
+       "spread": 18.95
+      },
+      {
+       "name": "白鼠",
+       "de": 6.9,
+       "spread": null
+      }
+     ],
+     "nameCount": 34
+    },
+    {
+     "hex": "#FEF4DF",
+     "share": 0.09195,
+     "L": 0.9694,
+     "C": 0.0301,
+     "h": 87.52,
+     "names": [
+      {
+       "name": "練色",
+       "de": 2.37,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 4.19,
+       "spread": 14.01
+      },
+      {
+       "name": "卯の花色",
+       "de": 7.08,
+       "spread": null
+      },
+      {
+       "name": "乳白色",
+       "de": 7.62,
+       "spread": null
+      },
+      {
+       "name": "白",
+       "de": 9.25,
+       "spread": null
+      },
+      {
+       "name": "月白",
+       "de": 9.69,
+       "spread": null
+      }
+     ],
+     "nameCount": 17
+    },
+    {
+     "hex": "#5B4F40",
+     "share": 0.06704,
+     "L": 0.434,
+     "C": 0.0285,
+     "h": 72.03,
+     "names": [
+      {
+       "name": "消炭色",
+       "de": 2.12,
+       "spread": null
+      },
+      {
+       "name": "岩井茶",
+       "de": 2.75,
+       "spread": null
+      },
+      {
+       "name": "路考茶",
+       "de": 4.04,
+       "spread": 14.64
+      },
+      {
+       "name": "藍鼠",
+       "de": 4.82,
+       "spread": 20.68
+      },
+      {
+       "name": "璃寛茶",
+       "de": 5.3,
+       "spread": 11.73
+      },
+      {
+       "name": "青鈍",
+       "de": 5.69,
+       "spread": null
+      }
+     ],
+     "nameCount": 41
+    },
+    {
+     "hex": "#37291B",
+     "share": 0.02849,
+     "L": 0.2948,
+     "C": 0.0322,
+     "h": 67.59,
+     "names": [
+      {
+       "name": "憲法染",
+       "de": 5.05,
+       "spread": null
+      },
+      {
+       "name": "千歳茶",
+       "de": 5.4,
+       "spread": null
+      },
+      {
+       "name": "檳榔子染",
+       "de": 5.64,
+       "spread": null
+      },
+      {
+       "name": "海松茶",
+       "de": 6.57,
+       "spread": null
+      },
+      {
+       "name": "墨色",
+       "de": 7.49,
+       "spread": 6.48
+      },
+      {
+       "name": "焦茶",
+       "de": 7.6,
+       "spread": 17.56
+      }
+     ],
+     "nameCount": 31
+    }
+   ]
+  },
+  {
+   "name": "Utagawa Kunisada",
+   "works": 17,
+   "from": 1786,
+   "to": 1865,
+   "blue": 0.00903,
+   "medianChroma": 0.0391,
+   "plates": [
+    {
+     "hex": "#68615A",
+     "share": 0.17621,
+     "L": 0.498,
+     "C": 0.015,
+     "h": 70.72,
+     "names": [
+      {
+       "name": "素鼠",
+       "de": 4.09,
+       "spread": null
+      },
+      {
+       "name": "利休鼠",
+       "de": 4.49,
+       "spread": 17.34
+      },
+      {
+       "name": "藍鼠",
+       "de": 4.68,
+       "spread": 20.68
+      },
+      {
+       "name": "樺茶",
+       "de": 5.8,
+       "spread": 20.42
+      },
+      {
+       "name": "岩井茶",
+       "de": 6.21,
+       "spread": null
+      },
+      {
+       "name": "消炭色",
+       "de": 6.4,
+       "spread": null
+      }
+     ],
+     "nameCount": 35
+    },
+    {
+     "hex": "#E3CAA2",
+     "share": 0.15289,
+     "L": 0.8509,
+     "C": 0.0599,
+     "h": 79.72,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 2.98,
+       "spread": 16.46
+      },
+      {
+       "name": "香色",
+       "de": 3.46,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 3.69,
+       "spread": 18.95
+      },
+      {
+       "name": "亜麻色",
+       "de": 5.45,
+       "spread": null
+      },
+      {
+       "name": "砥粉色",
+       "de": 5.98,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 6.37,
+       "spread": 14.01
+      }
+     ],
+     "nameCount": 30
+    },
+    {
+     "hex": "#42413F",
+     "share": 0.14417,
+     "L": 0.3765,
+     "C": 0.0048,
+     "h": 90.07,
+     "names": [
+      {
+       "name": "青鈍",
+       "de": 4.27,
+       "spread": null
+      },
+      {
+       "name": "墨色",
+       "de": 4.47,
+       "spread": 6.48
+      },
+      {
+       "name": "藍墨茶",
+       "de": 4.74,
+       "spread": null
+      },
+      {
+       "name": "錆鉄御納戸",
+       "de": 4.97,
+       "spread": null
+      },
+      {
+       "name": "仙斎茶",
+       "de": 6.13,
+       "spread": null
+      },
+      {
+       "name": "御納戸茶",
+       "de": 6.16,
+       "spread": null
+      }
+     ],
+     "nameCount": 42
+    },
+    {
+     "hex": "#95806E",
+     "share": 0.14087,
+     "L": 0.6135,
+     "C": 0.0366,
+     "h": 61.63,
+     "names": [
+      {
+       "name": "銀鼠",
+       "de": 4.08,
+       "spread": 18.09
+      },
+      {
+       "name": "空五倍子色",
+       "de": 5.57,
+       "spread": null
+      },
+      {
+       "name": "利休白茶",
+       "de": 7.52,
+       "spread": null
+      },
+      {
+       "name": "利休茶",
+       "de": 8.16,
+       "spread": 12.25
+      },
+      {
+       "name": "柳鼠",
+       "de": 8.42,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 8.43,
+       "spread": 23.46
+      }
+     ],
+     "nameCount": 30
+    },
+    {
+     "hex": "#F3DDB7",
+     "share": 0.11863,
+     "L": 0.9055,
+     "C": 0.0557,
+     "h": 80.18,
+     "names": [
+      {
+       "name": "砥粉色",
+       "de": 4.59,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 5.05,
+       "spread": 14.01
+      },
+      {
+       "name": "香色",
+       "de": 5.45,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 6.19,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 7.11,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 8.08,
+       "spread": 18.95
+      }
+     ],
+     "nameCount": 23
+    },
+    {
+     "hex": "#C0A888",
+     "share": 0.11683,
+     "L": 0.7443,
+     "C": 0.0523,
+     "h": 75.45,
+     "names": [
+      {
+       "name": "カーキ色",
+       "de": 2.84,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 5.67,
+       "spread": 23.46
+      },
+      {
+       "name": "榛色",
+       "de": 5.85,
+       "spread": null
+      },
+      {
+       "name": "蒸栗色",
+       "de": 6.09,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 6.38,
+       "spread": 18.95
+      },
+      {
+       "name": "生成色",
+       "de": 7.13,
+       "spread": null
+      }
+     ],
+     "nameCount": 33
+    },
+    {
+     "hex": "#FCF3DE",
+     "share": 0.08755,
+     "L": 0.9657,
+     "C": 0.0294,
+     "h": 86.45,
+     "names": [
+      {
+       "name": "練色",
+       "de": 2.07,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 4.19,
+       "spread": 14.01
+      },
+      {
+       "name": "卯の花色",
+       "de": 6.99,
+       "spread": null
+      },
+      {
+       "name": "乳白色",
+       "de": 7.58,
+       "spread": null
+      },
+      {
+       "name": "白",
+       "de": 9.25,
+       "spread": null
+      },
+      {
+       "name": "月白",
+       "de": 9.64,
+       "spread": null
+      }
+     ],
+     "nameCount": 17
+    },
+    {
+     "hex": "#D7BB84",
+     "share": 0.06284,
+     "L": 0.8033,
+     "C": 0.0783,
+     "h": 84.18,
+     "names": [
+      {
+       "name": "蒸栗色",
+       "de": 3.25,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 3.46,
+       "spread": 18.95
+      },
+      {
+       "name": "木蘭色",
+       "de": 4.89,
+       "spread": null
+      },
+      {
+       "name": "生成色",
+       "de": 4.9,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 5.39,
+       "spread": null
+      },
+      {
+       "name": "榛色",
+       "de": 6.36,
+       "spread": null
+      }
+     ],
+     "nameCount": 41
+    }
+   ]
+  },
+  {
+   "name": "Torii Kiyomasu I",
+   "works": 15,
+   "from": 1700,
+   "to": 1765,
+   "blue": 0,
+   "medianChroma": 0.0371,
+   "plates": [
+    {
+     "hex": "#E6D0B5",
+     "share": 0.28802,
+     "L": 0.868,
+     "C": 0.0435,
+     "h": 72.34,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 3.32,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 3.53,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 6.14,
+       "spread": 14.01
+      },
+      {
+       "name": "香色",
+       "de": 6.73,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 6.77,
+       "spread": 18.95
+      },
+      {
+       "name": "白練",
+       "de": 7.73,
+       "spread": null
+      }
+     ],
+     "nameCount": 29
+    },
+    {
+     "hex": "#C8B08F",
+     "share": 0.25246,
+     "L": 0.7703,
+     "C": 0.0536,
+     "h": 75.93,
+     "names": [
+      {
+       "name": "カーキ色",
+       "de": 1.94,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 4.43,
+       "spread": 18.95
+      },
+      {
+       "name": "蒸栗色",
+       "de": 5.22,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 5.23,
+       "spread": 16.46
+      },
+      {
+       "name": "灰汁色",
+       "de": 5.48,
+       "spread": 23.46
+      },
+      {
+       "name": "榛色",
+       "de": 6.46,
+       "spread": null
+      }
+     ],
+     "nameCount": 32
+    },
+    {
+     "hex": "#FAEBD6",
+     "share": 0.13287,
+     "L": 0.946,
+     "C": 0.0316,
+     "h": 76.89,
+     "names": [
+      {
+       "name": "鳥の子色",
+       "de": 4.87,
+       "spread": 14.01
+      },
+      {
+       "name": "練色",
+       "de": 5.19,
+       "spread": null
+      },
+      {
+       "name": "白練",
+       "de": 8.38,
+       "spread": null
+      },
+      {
+       "name": "亜麻色",
+       "de": 8.49,
+       "spread": null
+      },
+      {
+       "name": "卯の花色",
+       "de": 8.52,
+       "spread": null
+      },
+      {
+       "name": "乳白色",
+       "de": 9.07,
+       "spread": null
+      }
+     ],
+     "nameCount": 17
+    },
+    {
+     "hex": "#B79576",
+     "share": 0.08671,
+     "L": 0.6941,
+     "C": 0.0601,
+     "h": 64.06,
+     "names": [
+      {
+       "name": "利休白茶",
+       "de": 2.62,
+       "spread": null
+      },
+      {
+       "name": "生壁色",
+       "de": 5.32,
+       "spread": 19.14
+      },
+      {
+       "name": "白茶",
+       "de": 5.57,
+       "spread": 16.46
+      },
+      {
+       "name": "丁子茶",
+       "de": 6.14,
+       "spread": 17
+      },
+      {
+       "name": "白橡",
+       "de": 6.2,
+       "spread": null
+      },
+      {
+       "name": "白鼠",
+       "de": 7.16,
+       "spread": null
+      }
+     ],
+     "nameCount": 37
+    },
+    {
+     "hex": "#574B3F",
+     "share": 0.0701,
+     "L": 0.4213,
+     "C": 0.025,
+     "h": 63.56,
+     "names": [
+      {
+       "name": "消炭色",
+       "de": 2.25,
+       "spread": null
+      },
+      {
+       "name": "青鈍",
+       "de": 4.29,
+       "spread": null
+      },
+      {
+       "name": "藍鼠",
+       "de": 4.45,
+       "spread": 20.68
+      },
+      {
+       "name": "岩井茶",
+       "de": 4.47,
+       "spread": null
+      },
+      {
+       "name": "路考茶",
+       "de": 4.63,
+       "spread": 14.64
+      },
+      {
+       "name": "海松茶",
+       "de": 4.83,
+       "spread": null
+      }
+     ],
+     "nameCount": 39
+    },
+    {
+     "hex": "#816C5B",
+     "share": 0.06658,
+     "L": 0.5477,
+     "C": 0.0372,
+     "h": 62.23,
+     "names": [
+      {
+       "name": "利休茶",
+       "de": 1.01,
+       "spread": 12.25
+      },
+      {
+       "name": "灰汁色",
+       "de": 1.38,
+       "spread": 23.46
+      },
+      {
+       "name": "樺茶",
+       "de": 5.03,
+       "spread": 20.42
+      },
+      {
+       "name": "生壁色",
+       "de": 5.49,
+       "spread": 19.14
+      },
+      {
+       "name": "素鼠",
+       "de": 6.73,
+       "spread": null
+      },
+      {
+       "name": "朽葉色",
+       "de": 7.04,
+       "spread": 18.39
+      }
+     ],
+     "nameCount": 35
+    },
+    {
+     "hex": "#978E79",
+     "share": 0.06478,
+     "L": 0.6489,
+     "C": 0.0325,
+     "h": 88.94,
+     "names": [
+      {
+       "name": "空五倍子色",
+       "de": 5.21,
+       "spread": null
+      },
+      {
+       "name": "錆青磁",
+       "de": 5.64,
+       "spread": null
+      },
+      {
+       "name": "柳鼠",
+       "de": 7.28,
+       "spread": null
+      },
+      {
+       "name": "利休鼠",
+       "de": 7.45,
+       "spread": 17.34
+      },
+      {
+       "name": "根岸色",
+       "de": 7.8,
+       "spread": null
+      },
+      {
+       "name": "銀鼠",
+       "de": 8.04,
+       "spread": 18.09
+      }
+     ],
+     "nameCount": 26
+    },
+    {
+     "hex": "#352921",
+     "share": 0.03848,
+     "L": 0.2925,
+     "C": 0.0227,
+     "h": 58.53,
+     "names": [
+      {
+       "name": "檳榔子染",
+       "de": 2.52,
+       "spread": null
+      },
+      {
+       "name": "憲法染",
+       "de": 2.88,
+       "spread": null
+      },
+      {
+       "name": "墨色",
+       "de": 5.17,
+       "spread": 6.48
+      },
+      {
+       "name": "千歳茶",
+       "de": 5.27,
+       "spread": null
+      },
+      {
+       "name": "藍墨茶",
+       "de": 5.84,
+       "spread": null
+      },
+      {
+       "name": "涅色",
+       "de": 5.87,
+       "spread": null
+      }
+     ],
+     "nameCount": 35
+    }
+   ]
+  },
+  {
+   "name": "Ryūryūkyo Shinsai",
+   "works": 15,
+   "from": 1750,
+   "to": 1899,
+   "blue": 0,
+   "medianChroma": 0.0343,
+   "plates": [
+    {
+     "hex": "#F5E8D8",
+     "share": 0.29634,
+     "L": 0.9367,
+     "C": 0.0261,
+     "h": 73.51,
+     "names": [
+      {
+       "name": "練色",
+       "de": 5.94,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 6.61,
+       "spread": 14.01
+      },
+      {
+       "name": "卯の花色",
+       "de": 7.45,
+       "spread": null
+      },
+      {
+       "name": "桜色",
+       "de": 8.04,
+       "spread": 12.96
+      },
+      {
+       "name": "乳白色",
+       "de": 8.05,
+       "spread": null
+      },
+      {
+       "name": "白練",
+       "de": 8.1,
+       "spread": null
+      }
+     ],
+     "nameCount": 19
+    },
+    {
+     "hex": "#E4D4BF",
+     "share": 0.2708,
+     "L": 0.8769,
+     "C": 0.0339,
+     "h": 74.18,
+     "names": [
+      {
+       "name": "亜麻色",
+       "de": 3.5,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 5.12,
+       "spread": 16.46
+      },
+      {
+       "name": "瓶覗",
+       "de": 7.37,
+       "spread": 16.09
+      },
+      {
+       "name": "鳥の子色",
+       "de": 7.86,
+       "spread": 14.01
+      },
+      {
+       "name": "白練",
+       "de": 8.18,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 9.04,
+       "spread": 18.95
+      }
+     ],
+     "nameCount": 27
+    },
+    {
+     "hex": "#D2C2A7",
+     "share": 0.14995,
+     "L": 0.8196,
+     "C": 0.0403,
+     "h": 79.5,
+     "names": [
+      {
+       "name": "亜麻色",
+       "de": 1.86,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 2.48,
+       "spread": 16.46
+      },
+      {
+       "name": "カーキ色",
+       "de": 4.92,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 5.45,
+       "spread": 23.46
+      },
+      {
+       "name": "桑染",
+       "de": 5.89,
+       "spread": 18.95
+      },
+      {
+       "name": "瓶覗",
+       "de": 6.62,
+       "spread": 16.09
+      }
+     ],
+     "nameCount": 29
+    },
+    {
+     "hex": "#AE947E",
+     "share": 0.07692,
+     "L": 0.6833,
+     "C": 0.044,
+     "h": 61.91,
+     "names": [
+      {
+       "name": "利休白茶",
+       "de": 1.49,
+       "spread": null
+      },
+      {
+       "name": "白鼠",
+       "de": 5.22,
+       "spread": null
+      },
+      {
+       "name": "空五倍子色",
+       "de": 6.28,
+       "spread": null
+      },
+      {
+       "name": "生壁色",
+       "de": 6.79,
+       "spread": 19.14
+      },
+      {
+       "name": "丁子茶",
+       "de": 7.13,
+       "spread": 17
+      },
+      {
+       "name": "銀鼠",
+       "de": 7.26,
+       "spread": 18.09
+      }
+     ],
+     "nameCount": 32
+    },
+    {
+     "hex": "#736250",
+     "share": 0.06642,
+     "L": 0.5067,
+     "C": 0.0351,
+     "h": 68.28,
+     "names": [
+      {
+       "name": "樺茶",
+       "de": 0.53,
+       "spread": 20.42
+      },
+      {
+       "name": "生壁色",
+       "de": 4,
+       "spread": 19.14
+      },
+      {
+       "name": "媚茶",
+       "de": 4.68,
+       "spread": 13.12
+      },
+      {
+       "name": "利休茶",
+       "de": 4.74,
+       "spread": 12.25
+      },
+      {
+       "name": "灰汁色",
+       "de": 4.76,
+       "spread": 23.46
+      },
+      {
+       "name": "素鼠",
+       "de": 4.89,
+       "spread": null
+      }
+     ],
+     "nameCount": 37
+    },
+    {
+     "hex": "#C2AD93",
+     "share": 0.05894,
+     "L": 0.7592,
+     "C": 0.0435,
+     "h": 72.9,
+     "names": [
+      {
+       "name": "カーキ色",
+       "de": 2.45,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 3.86,
+       "spread": 23.46
+      },
+      {
+       "name": "白茶",
+       "de": 6.24,
+       "spread": 16.46
+      },
+      {
+       "name": "桑染",
+       "de": 6.61,
+       "spread": 18.95
+      },
+      {
+       "name": "白鼠",
+       "de": 6.68,
+       "spread": null
+      },
+      {
+       "name": "亜麻色",
+       "de": 6.7,
+       "spread": null
+      }
+     ],
+     "nameCount": 30
+    },
+    {
+     "hex": "#907E6B",
+     "share": 0.05766,
+     "L": 0.6037,
+     "C": 0.0358,
+     "h": 68.33,
+     "names": [
+      {
+       "name": "銀鼠",
+       "de": 5.19,
+       "spread": 18.09
+      },
+      {
+       "name": "空五倍子色",
+       "de": 5.37,
+       "spread": null
+      },
+      {
+       "name": "柳鼠",
+       "de": 6.57,
+       "spread": null
+      },
+      {
+       "name": "利休茶",
+       "de": 7.48,
+       "spread": 12.25
+      },
+      {
+       "name": "灰汁色",
+       "de": 7.79,
+       "spread": 23.46
+      },
+      {
+       "name": "利休白茶",
+       "de": 8.96,
+       "spread": null
+      }
+     ],
+     "nameCount": 34
+    },
+    {
+     "hex": "#4E453C",
+     "share": 0.02298,
+     "L": 0.3969,
+     "C": 0.0187,
+     "h": 66.31,
+     "names": [
+      {
+       "name": "青鈍",
+       "de": 2.72,
+       "spread": null
+      },
+      {
+       "name": "消炭色",
+       "de": 3.85,
+       "spread": null
+      },
+      {
+       "name": "海松茶",
+       "de": 4.13,
+       "spread": null
+      },
+      {
+       "name": "藍媚茶",
+       "de": 5.35,
+       "spread": null
+      },
+      {
+       "name": "藍鼠",
+       "de": 5.42,
+       "spread": 20.68
+      },
+      {
+       "name": "千歳茶",
+       "de": 6.08,
+       "spread": null
+      }
+     ],
+     "nameCount": 43
+    }
+   ]
+  },
+  {
+   "name": "Yashima Gakutei",
+   "works": 15,
+   "from": 1800,
+   "to": 1899,
+   "blue": 0,
+   "medianChroma": 0.0344,
+   "plates": [
+    {
+     "hex": "#E7D5BD",
+     "share": 0.24133,
+     "L": 0.8815,
+     "C": 0.0375,
+     "h": 75.34,
+     "names": [
+      {
+       "name": "亜麻色",
+       "de": 3.75,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 4.67,
+       "spread": 16.46
+      },
+      {
+       "name": "鳥の子色",
+       "de": 7.32,
+       "spread": 14.01
+      },
+      {
+       "name": "白練",
+       "de": 8,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 8.08,
+       "spread": null
+      },
+      {
+       "name": "瓶覗",
+       "de": 8.3,
+       "spread": 16.09
+      }
+     ],
+     "nameCount": 28
+    },
+    {
+     "hex": "#CDBCA0",
+     "share": 0.17716,
+     "L": 0.8013,
+     "C": 0.0424,
+     "h": 80.53,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 2.96,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 3.12,
+       "spread": null
+      },
+      {
+       "name": "カーキ色",
+       "de": 3.35,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 4.44,
+       "spread": 23.46
+      },
+      {
+       "name": "桑染",
+       "de": 5.36,
+       "spread": 18.95
+      },
+      {
+       "name": "瓶覗",
+       "de": 7.17,
+       "spread": 16.09
+      }
+     ],
+     "nameCount": 29
+    },
+    {
+     "hex": "#B59780",
+     "share": 0.11556,
+     "L": 0.6982,
+     "C": 0.0487,
+     "h": 59.27,
+     "names": [
+      {
+       "name": "利休白茶",
+       "de": 1.65,
+       "spread": null
+      },
+      {
+       "name": "白鼠",
+       "de": 4.6,
+       "spread": null
+      },
+      {
+       "name": "丁子茶",
+       "de": 6.6,
+       "spread": 17
+      },
+      {
+       "name": "白茶",
+       "de": 7.09,
+       "spread": 16.46
+      },
+      {
+       "name": "生壁色",
+       "de": 7.47,
+       "spread": 19.14
+      },
+      {
+       "name": "空五倍子色",
+       "de": 7.89,
+       "spread": null
+      }
+     ],
+     "nameCount": 34
+    },
+    {
+     "hex": "#F9EDDB",
+     "share": 0.11312,
+     "L": 0.9501,
+     "C": 0.0269,
+     "h": 78.5,
+     "names": [
+      {
+       "name": "練色",
+       "de": 4.49,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 5.44,
+       "spread": 14.01
+      },
+      {
+       "name": "卯の花色",
+       "de": 7.13,
+       "spread": null
+      },
+      {
+       "name": "乳白色",
+       "de": 7.71,
+       "spread": null
+      },
+      {
+       "name": "桜色",
+       "de": 9.01,
+       "spread": 12.96
+      },
+      {
+       "name": "白",
+       "de": 9.02,
+       "spread": null
+      }
+     ],
+     "nameCount": 18
+    },
+    {
+     "hex": "#474440",
+     "share": 0.10728,
+     "L": 0.3881,
+     "C": 0.008,
+     "h": 74.49,
+     "names": [
+      {
+       "name": "青鈍",
+       "de": 2.55,
+       "spread": null
+      },
+      {
+       "name": "藍墨茶",
+       "de": 5.48,
+       "spread": null
+      },
+      {
+       "name": "仙斎茶",
+       "de": 5.83,
+       "spread": null
+      },
+      {
+       "name": "錆鉄御納戸",
+       "de": 5.95,
+       "spread": null
+      },
+      {
+       "name": "墨色",
+       "de": 6.03,
+       "spread": 6.48
+      },
+      {
+       "name": "消炭色",
+       "de": 6.12,
+       "spread": null
+      }
+     ],
+     "nameCount": 44
+    },
+    {
+     "hex": "#6C5E51",
+     "share": 0.10516,
+     "L": 0.4915,
+     "C": 0.0276,
+     "h": 63.94,
+     "names": [
+      {
+       "name": "樺茶",
+       "de": 2.65,
+       "spread": 20.42
+      },
+      {
+       "name": "素鼠",
+       "de": 2.98,
+       "spread": null
+      },
+      {
+       "name": "路考茶",
+       "de": 4.4,
+       "spread": 14.64
+      },
+      {
+       "name": "岩井茶",
+       "de": 5.2,
+       "spread": null
+      },
+      {
+       "name": "生壁色",
+       "de": 5.43,
+       "spread": 19.14
+      },
+      {
+       "name": "藍鼠",
+       "de": 5.5,
+       "spread": 20.68
+      }
+     ],
+     "nameCount": 37
+    },
+    {
+     "hex": "#887061",
+     "share": 0.07049,
+     "L": 0.5633,
+     "C": 0.0382,
+     "h": 54.15,
+     "names": [
+      {
+       "name": "灰汁色",
+       "de": 2.81,
+       "spread": 23.46
+      },
+      {
+       "name": "利休茶",
+       "de": 3.02,
+       "spread": 12.25
+      },
+      {
+       "name": "胡桃染",
+       "de": 7.2,
+       "spread": null
+      },
+      {
+       "name": "生壁色",
+       "de": 7.34,
+       "spread": 19.14
+      },
+      {
+       "name": "樺茶",
+       "de": 7.68,
+       "spread": 20.42
+      },
+      {
+       "name": "朽葉色",
+       "de": 8.23,
+       "spread": 18.39
+      }
+     ],
+     "nameCount": 39
+    },
+    {
+     "hex": "#918476",
+     "share": 0.06989,
+     "L": 0.6219,
+     "C": 0.0259,
+     "h": 70.46,
+     "names": [
+      {
+       "name": "銀鼠",
+       "de": 3.54,
+       "spread": 18.09
+      },
+      {
+       "name": "空五倍子色",
+       "de": 5.98,
+       "spread": null
+      },
+      {
+       "name": "柳鼠",
+       "de": 6.3,
+       "spread": null
+      },
+      {
+       "name": "灰色",
+       "de": 8.49,
+       "spread": null
+      },
+      {
+       "name": "利休白茶",
+       "de": 8.92,
+       "spread": null
+      },
+      {
+       "name": "錆青磁",
+       "de": 9.13,
+       "spread": null
+      }
+     ],
+     "nameCount": 25
+    }
+   ]
+  },
+  {
+   "name": "Totoya Hokkei",
+   "works": 14,
+   "from": 1780,
+   "to": 1899,
+   "blue": 0.00326,
+   "medianChroma": 0.0339,
+   "plates": [
+    {
+     "hex": "#E5D3BC",
+     "share": 0.264,
+     "L": 0.8758,
+     "C": 0.037,
+     "h": 75.43,
+     "names": [
+      {
+       "name": "亜麻色",
+       "de": 3.35,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 4.47,
+       "spread": 16.46
+      },
+      {
+       "name": "鳥の子色",
+       "de": 7.64,
+       "spread": 14.01
+      },
+      {
+       "name": "白練",
+       "de": 7.9,
+       "spread": null
+      },
+      {
+       "name": "瓶覗",
+       "de": 7.95,
+       "spread": 16.09
+      },
+      {
+       "name": "香色",
+       "de": 8.28,
+       "spread": null
+      }
+     ],
+     "nameCount": 30
+    },
+    {
+     "hex": "#F5E8D5",
+     "share": 0.22992,
+     "L": 0.9349,
+     "C": 0.0287,
+     "h": 77.27,
+     "names": [
+      {
+       "name": "練色",
+       "de": 5.2,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 5.41,
+       "spread": 14.01
+      },
+      {
+       "name": "亜麻色",
+       "de": 7.94,
+       "spread": null
+      },
+      {
+       "name": "卯の花色",
+       "de": 7.99,
+       "spread": null
+      },
+      {
+       "name": "乳白色",
+       "de": 8.62,
+       "spread": null
+      },
+      {
+       "name": "白練",
+       "de": 8.7,
+       "spread": null
+      }
+     ],
+     "nameCount": 21
+    },
+    {
+     "hex": "#CFBEA4",
+     "share": 0.14121,
+     "L": 0.8087,
+     "C": 0.0397,
+     "h": 77.56,
+     "names": [
+      {
+       "name": "亜麻色",
+       "de": 2.28,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 2.69,
+       "spread": 16.46
+      },
+      {
+       "name": "カーキ色",
+       "de": 4.07,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 4.62,
+       "spread": 23.46
+      },
+      {
+       "name": "桑染",
+       "de": 5.73,
+       "spread": 18.95
+      },
+      {
+       "name": "瓶覗",
+       "de": 6.73,
+       "spread": 16.09
+      }
+     ],
+     "nameCount": 31
+    },
+    {
+     "hex": "#A28A71",
+     "share": 0.09302,
+     "L": 0.6478,
+     "C": 0.0462,
+     "h": 66.83,
+     "names": [
+      {
+       "name": "空五倍子色",
+       "de": 2.94,
+       "spread": null
+      },
+      {
+       "name": "利休白茶",
+       "de": 4.09,
+       "spread": null
+      },
+      {
+       "name": "生壁色",
+       "de": 5.01,
+       "spread": 19.14
+      },
+      {
+       "name": "銀鼠",
+       "de": 6.34,
+       "spread": 18.09
+      },
+      {
+       "name": "丁子茶",
+       "de": 7.54,
+       "spread": 17
+      },
+      {
+       "name": "芝翫茶",
+       "de": 8.69,
+       "spread": 20.85
+      }
+     ],
+     "nameCount": 34
+    },
+    {
+     "hex": "#BCA890",
+     "share": 0.07907,
+     "L": 0.7432,
+     "C": 0.041,
+     "h": 73.47,
+     "names": [
+      {
+       "name": "カーキ色",
+       "de": 3.5,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 3.92,
+       "spread": 23.46
+      },
+      {
+       "name": "白鼠",
+       "de": 5.7,
+       "spread": null
+      },
+      {
+       "name": "利休白茶",
+       "de": 7.41,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 7.79,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 7.99,
+       "spread": null
+      }
+     ],
+     "nameCount": 30
+    },
+    {
+     "hex": "#80776B",
+     "share": 0.07347,
+     "L": 0.5731,
+     "C": 0.0212,
+     "h": 75.61,
+     "names": [
+      {
+       "name": "柳鼠",
+       "de": 3.86,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 6.59,
+       "spread": 23.46
+      },
+      {
+       "name": "鈍色",
+       "de": 7.19,
+       "spread": null
+      },
+      {
+       "name": "利休茶",
+       "de": 7.43,
+       "spread": 12.25
+      },
+      {
+       "name": "灰色",
+       "de": 7.48,
+       "spread": null
+      },
+      {
+       "name": "鉛色",
+       "de": 7.73,
+       "spread": null
+      }
+     ],
+     "nameCount": 30
+    },
+    {
+     "hex": "#6D6155",
+     "share": 0.06684,
+     "L": 0.5003,
+     "C": 0.024,
+     "h": 64.5,
+     "names": [
+      {
+       "name": "樺茶",
+       "de": 2.84,
+       "spread": 20.42
+      },
+      {
+       "name": "素鼠",
+       "de": 3.16,
+       "spread": null
+      },
+      {
+       "name": "利休鼠",
+       "de": 5.47,
+       "spread": 17.34
+      },
+      {
+       "name": "岩井茶",
+       "de": 5.59,
+       "spread": null
+      },
+      {
+       "name": "灰汁色",
+       "de": 5.74,
+       "spread": 23.46
+      },
+      {
+       "name": "藍鼠",
+       "de": 5.77,
+       "spread": 20.68
+      }
+     ],
+     "nameCount": 37
+    },
+    {
+     "hex": "#4E4640",
+     "share": 0.05247,
+     "L": 0.4,
+     "C": 0.014,
+     "h": 60.5,
+     "names": [
+      {
+       "name": "青鈍",
+       "de": 1.46,
+       "spread": null
+      },
+      {
+       "name": "消炭色",
+       "de": 4.27,
+       "spread": null
+      },
+      {
+       "name": "藍鼠",
+       "de": 4.81,
+       "spread": 20.68
+      },
+      {
+       "name": "海松茶",
+       "de": 5.26,
+       "spread": null
+      },
+      {
+       "name": "丼鼠",
+       "de": 5.46,
+       "spread": null
+      },
+      {
+       "name": "涅色",
+       "de": 6.46,
+       "spread": null
+      }
+     ],
+     "nameCount": 43
+    }
+   ]
+  },
+  {
+   "name": "Torii Kiyomitsu",
+   "works": 12,
+   "from": 1735,
+   "to": 1785,
+   "blue": 0,
+   "medianChroma": 0.042,
+   "plates": [
+    {
+     "hex": "#ECD5B8",
+     "share": 0.23487,
+     "L": 0.8848,
+     "C": 0.0467,
+     "h": 72.95,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 4.27,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 4.72,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 6.32,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 6.79,
+       "spread": 14.01
+      },
+      {
+       "name": "桑染",
+       "de": 7.27,
+       "spread": 18.95
+      },
+      {
+       "name": "白練",
+       "de": 7.49,
+       "spread": null
+      }
+     ],
+     "nameCount": 25
+    },
+    {
+     "hex": "#DDC3A1",
+     "share": 0.22055,
+     "L": 0.8295,
+     "C": 0.0537,
+     "h": 73.64,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 1.47,
+       "spread": 16.46
+      },
+      {
+       "name": "桑染",
+       "de": 3.07,
+       "spread": 18.95
+      },
+      {
+       "name": "亜麻色",
+       "de": 4.33,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 4.33,
+       "spread": 14.01
+      },
+      {
+       "name": "香色",
+       "de": 5.17,
+       "spread": null
+      },
+      {
+       "name": "カーキ色",
+       "de": 5.88,
+       "spread": null
+      }
+     ],
+     "nameCount": 29
+    },
+    {
+     "hex": "#FBEAD4",
+     "share": 0.18675,
+     "L": 0.9447,
+     "C": 0.0345,
+     "h": 75.81,
+     "names": [
+      {
+       "name": "鳥の子色",
+       "de": 5.05,
+       "spread": 14.01
+      },
+      {
+       "name": "練色",
+       "de": 5.89,
+       "spread": null
+      },
+      {
+       "name": "白練",
+       "de": 7.72,
+       "spread": null
+      },
+      {
+       "name": "亜麻色",
+       "de": 8.33,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 9.19,
+       "spread": 16.46
+      },
+      {
+       "name": "卯の花色",
+       "de": 9.21,
+       "spread": null
+      }
+     ],
+     "nameCount": 16
+    },
+    {
+     "hex": "#CAAA89",
+     "share": 0.1386,
+     "L": 0.7578,
+     "C": 0.0587,
+     "h": 66.57,
+     "names": [
+      {
+       "name": "カーキ色",
+       "de": 5.07,
+       "spread": null
+      },
+      {
+       "name": "白橡",
+       "de": 5.53,
+       "spread": null
+      },
+      {
+       "name": "蒸栗色",
+       "de": 5.59,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 5.75,
+       "spread": 18.95
+      },
+      {
+       "name": "鳥の子色",
+       "de": 5.85,
+       "spread": 14.01
+      },
+      {
+       "name": "伽羅色",
+       "de": 6.07,
+       "spread": 38.75
+      }
+     ],
+     "nameCount": 40
+    },
+    {
+     "hex": "#A58A74",
+     "share": 0.06778,
+     "L": 0.6529,
+     "C": 0.0461,
+     "h": 61.17,
+     "names": [
+      {
+       "name": "利休白茶",
+       "de": 3.01,
+       "spread": null
+      },
+      {
+       "name": "空五倍子色",
+       "de": 5.12,
+       "spread": null
+      },
+      {
+       "name": "銀鼠",
+       "de": 5.68,
+       "spread": 18.09
+      },
+      {
+       "name": "丁子茶",
+       "de": 5.97,
+       "spread": 17
+      },
+      {
+       "name": "生壁色",
+       "de": 6.36,
+       "spread": 19.14
+      },
+      {
+       "name": "白鼠",
+       "de": 7.95,
+       "spread": null
+      }
+     ],
+     "nameCount": 33
+    },
+    {
+     "hex": "#7C6A5A",
+     "share": 0.06061,
+     "L": 0.5373,
+     "C": 0.0338,
+     "h": 65.45,
+     "names": [
+      {
+       "name": "灰汁色",
+       "de": 1.76,
+       "spread": 23.46
+      },
+      {
+       "name": "利休茶",
+       "de": 2.27,
+       "spread": 12.25
+      },
+      {
+       "name": "樺茶",
+       "de": 3.65,
+       "spread": 20.42
+      },
+      {
+       "name": "生壁色",
+       "de": 5.29,
+       "spread": 19.14
+      },
+      {
+       "name": "素鼠",
+       "de": 5.64,
+       "spread": null
+      },
+      {
+       "name": "媚茶",
+       "de": 6.9,
+       "spread": 13.12
+      }
+     ],
+     "nameCount": 34
+    },
+    {
+     "hex": "#58483B",
+     "share": 0.06027,
+     "L": 0.4142,
+     "C": 0.0293,
+     "h": 61.03,
+     "names": [
+      {
+       "name": "憲法色",
+       "de": 3.76,
+       "spread": null
+      },
+      {
+       "name": "海松茶",
+       "de": 3.77,
+       "spread": null
+      },
+      {
+       "name": "路考茶",
+       "de": 4.24,
+       "spread": 14.64
+      },
+      {
+       "name": "消炭色",
+       "de": 4.38,
+       "spread": null
+      },
+      {
+       "name": "青鈍",
+       "de": 5.75,
+       "spread": null
+      },
+      {
+       "name": "藍鼠",
+       "de": 6,
+       "spread": 20.68
+      }
+     ],
+     "nameCount": 44
+    },
+    {
+     "hex": "#36271A",
+     "share": 0.03057,
+     "L": 0.2865,
+     "C": 0.0313,
+     "h": 61.25,
+     "names": [
+      {
+       "name": "憲法染",
+       "de": 4.26,
+       "spread": null
+      },
+      {
+       "name": "檳榔子染",
+       "de": 5.15,
+       "spread": null
+      },
+      {
+       "name": "千歳茶",
+       "de": 6.24,
+       "spread": null
+      },
+      {
+       "name": "焦茶",
+       "de": 6.5,
+       "spread": 17.56
+      },
+      {
+       "name": "海松茶",
+       "de": 7.08,
+       "spread": null
+      },
+      {
+       "name": "墨色",
+       "de": 7.36,
+       "spread": 6.48
+      }
+     ],
+     "nameCount": 32
+    }
+   ]
+  },
+  {
+   "name": "Torii Kiyonaga",
+   "works": 12,
+   "from": 1742,
+   "to": 1868,
+   "blue": 0,
+   "medianChroma": 0.045,
+   "plates": [
+    {
+     "hex": "#F4DFC2",
+     "share": 0.2943,
+     "L": 0.914,
+     "C": 0.0444,
+     "h": 76.3,
+     "names": [
+      {
+       "name": "鳥の子色",
+       "de": 5.29,
+       "spread": 14.01
+      },
+      {
+       "name": "白茶",
+       "de": 6.36,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 6.38,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 7.38,
+       "spread": null
+      },
+      {
+       "name": "砥粉色",
+       "de": 7.39,
+       "spread": null
+      },
+      {
+       "name": "白練",
+       "de": 7.82,
+       "spread": null
+      }
+     ],
+     "nameCount": 27
+    },
+    {
+     "hex": "#DFC2A0",
+     "share": 0.18395,
+     "L": 0.8301,
+     "C": 0.0559,
+     "h": 71.85,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 2.49,
+       "spread": 16.46
+      },
+      {
+       "name": "桑染",
+       "de": 3.12,
+       "spread": 18.95
+      },
+      {
+       "name": "鳥の子色",
+       "de": 3.21,
+       "spread": 14.01
+      },
+      {
+       "name": "亜麻色",
+       "de": 5.08,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 5.2,
+       "spread": null
+      },
+      {
+       "name": "カーキ色",
+       "de": 6.36,
+       "spread": null
+      }
+     ],
+     "nameCount": 31
+    },
+    {
+     "hex": "#CAAC88",
+     "share": 0.14808,
+     "L": 0.7628,
+     "C": 0.0599,
+     "h": 71.58,
+     "names": [
+      {
+       "name": "カーキ色",
+       "de": 4.04,
+       "spread": null
+      },
+      {
+       "name": "蒸栗色",
+       "de": 4.39,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 4.66,
+       "spread": 18.95
+      },
+      {
+       "name": "白橡",
+       "de": 5.82,
+       "spread": null
+      },
+      {
+       "name": "榛色",
+       "de": 5.91,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 6.13,
+       "spread": 14.01
+      }
+     ],
+     "nameCount": 39
+    },
+    {
+     "hex": "#B49476",
+     "share": 0.10901,
+     "L": 0.6887,
+     "C": 0.0569,
+     "h": 64.56,
+     "names": [
+      {
+       "name": "利休白茶",
+       "de": 2.18,
+       "spread": null
+      },
+      {
+       "name": "生壁色",
+       "de": 4.98,
+       "spread": 19.14
+      },
+      {
+       "name": "白茶",
+       "de": 6.14,
+       "spread": 16.46
+      },
+      {
+       "name": "丁子茶",
+       "de": 6.28,
+       "spread": 17
+      },
+      {
+       "name": "空五倍子色",
+       "de": 6.55,
+       "spread": null
+      },
+      {
+       "name": "白橡",
+       "de": 6.85,
+       "spread": null
+      }
+     ],
+     "nameCount": 34
+    },
+    {
+     "hex": "#7B6753",
+     "share": 0.09536,
+     "L": 0.527,
+     "C": 0.0396,
+     "h": 66.28,
+     "names": [
+      {
+       "name": "利休茶",
+       "de": 2.46,
+       "spread": 12.25
+      },
+      {
+       "name": "樺茶",
+       "de": 2.8,
+       "spread": 20.42
+      },
+      {
+       "name": "灰汁色",
+       "de": 3.31,
+       "spread": 23.46
+      },
+      {
+       "name": "生壁色",
+       "de": 3.95,
+       "spread": 19.14
+      },
+      {
+       "name": "媚茶",
+       "de": 5.47,
+       "spread": 13.12
+      },
+      {
+       "name": "素鼠",
+       "de": 6.26,
+       "spread": null
+      }
+     ],
+     "nameCount": 37
+    },
+    {
+     "hex": "#4D4239",
+     "share": 0.08134,
+     "L": 0.3882,
+     "C": 0.0217,
+     "h": 63.25,
+     "names": [
+      {
+       "name": "海松茶",
+       "de": 2.93,
+       "spread": null
+      },
+      {
+       "name": "青鈍",
+       "de": 3.73,
+       "spread": null
+      },
+      {
+       "name": "憲法色",
+       "de": 4.95,
+       "spread": null
+      },
+      {
+       "name": "消炭色",
+       "de": 4.96,
+       "spread": null
+      },
+      {
+       "name": "丼鼠",
+       "de": 4.99,
+       "spread": null
+      },
+      {
+       "name": "藍媚茶",
+       "de": 5.74,
+       "spread": null
+      }
+     ],
+     "nameCount": 40
+    },
+    {
+     "hex": "#9E7F68",
+     "share": 0.06636,
+     "L": 0.6204,
+     "C": 0.0508,
+     "h": 58.52,
+     "names": [
+      {
+       "name": "丁子茶",
+       "de": 5.78,
+       "spread": 17
+      },
+      {
+       "name": "胡桃染",
+       "de": 6.08,
+       "spread": null
+      },
+      {
+       "name": "利休白茶",
+       "de": 6.42,
+       "spread": null
+      },
+      {
+       "name": "銀鼠",
+       "de": 6.58,
+       "spread": 18.09
+      },
+      {
+       "name": "空五倍子色",
+       "de": 6.69,
+       "spread": null
+      },
+      {
+       "name": "芝翫茶",
+       "de": 7.7,
+       "spread": 20.85
+      }
+     ],
+     "nameCount": 37
+    },
+    {
+     "hex": "#33271C",
+     "share": 0.0216,
+     "L": 0.2824,
+     "C": 0.0268,
+     "h": 61.26,
+     "names": [
+      {
+       "name": "憲法染",
+       "de": 3.7,
+       "spread": null
+      },
+      {
+       "name": "檳榔子染",
+       "de": 4.37,
+       "spread": null
+      },
+      {
+       "name": "千歳茶",
+       "de": 5.16,
+       "spread": null
+      },
+      {
+       "name": "墨色",
+       "de": 5.79,
+       "spread": 6.48
+      },
+      {
+       "name": "藍墨茶",
+       "de": 7.16,
+       "spread": null
+      },
+      {
+       "name": "焦茶",
+       "de": 7.17,
+       "spread": 17.56
+      }
+     ],
+     "nameCount": 35
+    }
+   ]
+  },
+  {
+   "name": "Kobayashi Kiyochika",
+   "works": 12,
+   "from": 1867,
+   "to": 1904,
+   "blue": 0,
+   "medianChroma": 0.033,
+   "plates": [
+    {
+     "hex": "#DAC6A7",
+     "share": 0.2343,
+     "L": 0.8357,
+     "C": 0.0471,
+     "h": 77.88,
+     "names": [
+      {
+       "name": "白茶",
+       "de": 0.94,
+       "spread": 16.46
+      },
+      {
+       "name": "亜麻色",
+       "de": 2.67,
+       "spread": null
+      },
+      {
+       "name": "桑染",
+       "de": 4.66,
+       "spread": 18.95
+      },
+      {
+       "name": "カーキ色",
+       "de": 5.81,
+       "spread": null
+      },
+      {
+       "name": "香色",
+       "de": 6.27,
+       "spread": null
+      },
+      {
+       "name": "鳥の子色",
+       "de": 6.31,
+       "spread": 14.01
+      }
+     ],
+     "nameCount": 28
+    },
+    {
+     "hex": "#F7E8CF",
+     "share": 0.2204,
+     "L": 0.9368,
+     "C": 0.0373,
+     "h": 80.05,
+     "names": [
+      {
+       "name": "鳥の子色",
+       "de": 3.65,
+       "spread": 14.01
+      },
+      {
+       "name": "練色",
+       "de": 5.09,
+       "spread": null
+      },
+      {
+       "name": "亜麻色",
+       "de": 7.81,
+       "spread": null
+      },
+      {
+       "name": "白茶",
+       "de": 8.61,
+       "spread": 16.46
+      },
+      {
+       "name": "砥粉色",
+       "de": 8.69,
+       "spread": null
+      },
+      {
+       "name": "白練",
+       "de": 9.25,
+       "spread": null
+      }
+     ],
+     "nameCount": 22
+    },
+    {
+     "hex": "#AA9C88",
+     "share": 0.15747,
+     "L": 0.6997,
+     "C": 0.0324,
+     "h": 76.14,
+     "names": [
+      {
+       "name": "灰汁色",
+       "de": 5.83,
+       "spread": 23.46
+      },
+      {
+       "name": "白鼠",
+       "de": 6.72,
+       "spread": null
+      },
+      {
+       "name": "利休白茶",
+       "de": 6.92,
+       "spread": null
+      },
+      {
+       "name": "空五倍子色",
+       "de": 6.96,
+       "spread": null
+      },
+      {
+       "name": "カーキ色",
+       "de": 6.99,
+       "spread": null
+      },
+      {
+       "name": "銀鼠",
+       "de": 8.8,
+       "spread": 18.09
+      }
+     ],
+     "nameCount": 31
+    },
+    {
+     "hex": "#716F69",
+     "share": 0.13505,
+     "L": 0.5416,
+     "C": 0.01,
+     "h": 87.55,
+     "names": [
+      {
+       "name": "鈍色",
+       "de": 3.54,
+       "spread": null
+      },
+      {
+       "name": "利休鼠",
+       "de": 6.13,
+       "spread": 17.34
+      },
+      {
+       "name": "鉛色",
+       "de": 6.52,
+       "spread": null
+      },
+      {
+       "name": "湊鼠",
+       "de": 7.18,
+       "spread": null
+      },
+      {
+       "name": "柳鼠",
+       "de": 7.21,
+       "spread": null
+      },
+      {
+       "name": "灰色",
+       "de": 7.54,
+       "spread": null
+      }
+     ],
+     "nameCount": 27
+    },
+    {
+     "hex": "#56534E",
+     "share": 0.1262,
+     "L": 0.4425,
+     "C": 0.0092,
+     "h": 76.61,
+     "names": [
+      {
+       "name": "藍鼠",
+       "de": 2.92,
+       "spread": 20.68
+      },
+      {
+       "name": "青鈍",
+       "de": 3.72,
+       "spread": null
+      },
+      {
+       "name": "消炭色",
+       "de": 4.06,
+       "spread": null
+      },
+      {
+       "name": "岩井茶",
+       "de": 5.68,
+       "spread": null
+      },
+      {
+       "name": "仙斎茶",
+       "de": 6.14,
+       "spread": null
+      },
+      {
+       "name": "利休鼠",
+       "de": 6.61,
+       "spread": 17.34
+      }
+     ],
+     "nameCount": 47
+    },
+    {
+     "hex": "#3F3E3D",
+     "share": 0.08267,
+     "L": 0.3641,
+     "C": 0.0026,
+     "h": 76.23,
+     "names": [
+      {
+       "name": "墨色",
+       "de": 3.4,
+       "spread": 6.48
+      },
+      {
+       "name": "藍墨茶",
+       "de": 3.88,
+       "spread": null
+      },
+      {
+       "name": "青鈍",
+       "de": 5.15,
+       "spread": null
+      },
+      {
+       "name": "錆鉄御納戸",
+       "de": 5.32,
+       "spread": null
+      },
+      {
+       "name": "御納戸色",
+       "de": 6.49,
+       "spread": null
+      },
+      {
+       "name": "御納戸茶",
+       "de": 6.75,
+       "spread": null
+      }
+     ],
+     "nameCount": 43
+    },
+    {
+     "hex": "#AA6F6B",
+     "share": 0.02892,
+     "L": 0.6032,
+     "C": 0.0767,
+     "h": 23.09,
+     "names": [
+      {
+       "name": "水がき",
+       "de": 4.35,
+       "spread": null
+      },
+      {
+       "name": "梅鼠",
+       "de": 6.22,
+       "spread": 12.36
+      },
+      {
+       "name": "桜鼠",
+       "de": 6.68,
+       "spread": null
+      },
+      {
+       "name": "薄紅",
+       "de": 7.1,
+       "spread": 13.63
+      },
+      {
+       "name": "赭",
+       "de": 7.48,
+       "spread": null
+      },
+      {
+       "name": "胡桃染",
+       "de": 7.67,
+       "spread": null
+      }
+     ],
+     "nameCount": 27
+    },
+    {
+     "hex": "#EF6E75",
+     "share": 0.01499,
+     "L": 0.6943,
+     "C": 0.1597,
+     "h": 18.82,
+     "names": [
+      {
+       "name": "薄紅",
+       "de": 2.02,
+       "spread": 13.63
+      },
+      {
+       "name": "紅梅色",
+       "de": 2.7,
+       "spread": 4.84
+      },
+      {
+       "name": "桃色",
+       "de": 3.13,
+       "spread": 5.17
+      },
+      {
+       "name": "浅緋",
+       "de": 6.62,
+       "spread": null
+      },
+      {
+       "name": "甚三紅",
+       "de": 6.88,
+       "spread": null
+      },
+      {
+       "name": "一斤染",
+       "de": 7.52,
+       "spread": 18.77
+      }
+     ],
+     "nameCount": 31
+    }
+   ]
+  }
+ ]
+}
