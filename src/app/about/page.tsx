@@ -12,6 +12,7 @@ import bands from "@/data/bands.json";
 import gates from "@/data/gates.json";
 import spread from "@/data/spread.json";
 import plates from "@/data/plates-meta.json";
+import jpeg from "@/data/jpeg.json";
 
 export const metadata = {
   title: "何を測っていないか — 版色アトラス",
@@ -177,6 +178,26 @@ export default function AboutPage() {
             色の正解を外部から借りる経路は存在しない。
           </dd>
 
+          <dt>「劣化の模型で足りる」という見込み</dt>
+          <dd>
+            L1 の劣化掃引はノイズ・クロマ間引き・境界混色・地色の<strong>模型</strong>で、
+            クロマ間引きは最大 ΔE 0.14 とほぼ無害だった。
+            <strong>実物の JPEG を通したら、模型は壊れ方を大きく過小評価していた</strong> ——
+            品質 95 でも 30 枚中 {jpeg.rows[0].broken} 枚で版が潰れる。
+            しかも<strong>壊れ方は品質に単調ではない</strong>(95 で壊れて 75 で直る標本がある)。
+            線量反応ではなく、<strong>わずかな摂動で k-means が別の解に落ちる</strong>ということである。
+          </dd>
+
+          <dt>「慣性は良し悪しの完全な判別子」という書き方</dt>
+          <dd>
+            コードのコメントにそう書いていた。<strong>言い過ぎだった。</strong>
+            品質 95 の JPEG で壊れた {jpeg.byRestarts[0].broken} 枚は、再始動を
+            {jpeg.byRestarts[1].restarts} 回に増やすと {jpeg.byRestarts[1].broken} 枚まで減るが、
+            <strong>{jpeg.byRestarts[2].restarts} 回にしても {jpeg.byRestarts[2].broken} 枚のまま</strong>である ——
+            そこでは<strong>慣性がより低い解のほうが真値と合わない</strong>。
+            訂正はコメントに併記し、消していない。
+          </dd>
+
           <dt>Met の検索 API を標本枠にすること</dt>
           <dd>
             <code>q=Hokusai</code> の 58 件中、日本の作品は 5 件だった(パピルスも油彩も混じる)。
@@ -278,6 +299,13 @@ export default function AboutPage() {
         Met の収蔵は Met の収集史である。1830 年代に青が増えて見えたとして、それは顔料史かもしれないし、
         Met が北斎・広重の風景版画を多く買ったからかもしれない。
         <strong>その二つを分ける対照を、私たちは作れなかった。</strong>
+      </p>
+
+      <p className="caveat">
+        <strong>合成木版は、JPEG にとって最悪の入力である。</strong>
+        タイルを混ぜて敷いてあるので、8 画素ごとの符号化ブロックの境界にほぼ必ず色の境目が来る。
+        本物の版画はもっと広い平面を持つので、上の数字は<strong>上限に近い</strong>。
+        それでも、模型だけで済ませていたら見えなかった。
       </p>
 
       <p className="caveat">

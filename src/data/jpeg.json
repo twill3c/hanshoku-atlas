@@ -1,0 +1,65 @@
+{
+ "note": "pipeline/jpeg_sweep.mjs が書き出す。手で編集しない",
+ "samples": 30,
+ "seed": 20260831,
+ "encoder": "Pillow の既定設定(subsampling も optimize も触らない)",
+ "byRestarts": [
+  {
+   "restarts": 4,
+   "broken": 8,
+   "samples": 30
+  },
+  {
+   "restarts": 16,
+   "broken": 4,
+   "samples": 30
+  },
+  {
+   "restarts": 64,
+   "broken": 4,
+   "samples": 30
+  }
+ ],
+ "rows": [
+  {
+   "quality": 95,
+   "deMedian": 1.825,
+   "deMax": 73.356,
+   "shareMax": 0.11047,
+   "broken": 8,
+   "samples": 30
+  },
+  {
+   "quality": 85,
+   "deMedian": 1.841,
+   "deMax": 48.948,
+   "shareMax": 0.0994,
+   "broken": 8,
+   "samples": 30
+  },
+  {
+   "quality": 75,
+   "deMedian": 1.96,
+   "deMax": 41.997,
+   "shareMax": 0.11013,
+   "broken": 8,
+   "samples": 30
+  },
+  {
+   "quality": 60,
+   "deMedian": 2.06,
+   "deMax": 57.458,
+   "shareMax": 0.0775,
+   "broken": 9,
+   "samples": 30
+  },
+  {
+   "quality": 40,
+   "deMedian": 2.372,
+   "deMax": 60.651,
+   "shareMax": 0.15336,
+   "broken": 13,
+   "samples": 30
+  }
+ ]
+}

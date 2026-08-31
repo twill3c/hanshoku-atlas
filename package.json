@@ -18,7 +18,8 @@
     "analyze": "npm run core:bundle && node pipeline/analyze.mjs",
     "aggregate": "npm run core:bundle && node pipeline/aggregate.mjs",
     "artists": "npm run core:bundle && node pipeline/artists.mjs",
-    "designs": "npm run core:bundle && node pipeline/designs.mjs"
+    "designs": "npm run core:bundle && node pipeline/designs.mjs",
+    "jpeg": "npm run core:bundle && node pipeline/jpeg_sweep.mjs"
   },
   "dependencies": {
     "next": "^15.5.24",
