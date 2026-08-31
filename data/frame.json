@@ -2,7 +2,7 @@
  "source": "metmuseum/openaccess MetObjects.csv",
  "sourceBytes": 317650992,
  "sourceSha256": "de617b9c947458e426111207f81a65bd1379a151c0077d3ce29cfc22fc0b9183",
- "fetched": "2026-08-31",
+ "fetched": "2026-09-01",
  "rule": {
   "department": "Asian Art",
   "culturePrefix": "Japan",
@@ -33,7 +33,7 @@
   },
   {
    "objectId": 36461,
-   "title": "Ōhashi Atake no yūdachi|名所江戶百景　大はしあたけの夕立|Sudden Shower over Shin-Ōhashi Bridge and Atake (Ōhashi Atake no yūdachi), from",
+   "title": "Ōhashi Atake no yūdachi|名所江戶百景　大はしあたけの夕立|Sudden Shower over Shin-Ōhashi Bridge and Atake (Ōhashi Atake no yūdachi), from the series One Hundred Famous Views of Edo (Meisho Edo hyakkei)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "1857",
    "begin": 1857,
@@ -263,7 +263,7 @@
   },
   {
    "objectId": 36484,
-   "title": "諸國瀧廻リ　相州大山ろうべんの瀧|Rōben Waterfall at Ōyama in Sagami Province (Sōshū Ōyama Rōben no taki), from the series A Tour of Wate",
+   "title": "諸國瀧廻リ　相州大山ろうべんの瀧|Rōben Waterfall at Ōyama in Sagami Province (Sōshū Ōyama Rōben no taki), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1827",
    "begin": 1817,
@@ -273,7 +273,7 @@
   },
   {
    "objectId": 36485,
-   "title": "百人一首　うはかゑとき　持統天皇|Poem by Jitō Tenno (Empress Jitō), from the series One Hundred Poems Explained by the Nurse (Hyakunin i",
+   "title": "百人一首　うはかゑとき　持統天皇|Poem by Jitō Tenno (Empress Jitō), from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1839",
    "begin": 1839,
@@ -283,7 +283,7 @@
   },
   {
    "objectId": 36486,
-   "title": "百人一首　乳母かゑとき　柿本人麿|Poem by Kakinomoto Hitomaro, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu u",
+   "title": "百人一首　乳母かゑとき　柿本人麿|Poem by Kakinomoto Hitomaro, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1839",
    "begin": 1839,
@@ -293,7 +293,7 @@
   },
   {
    "objectId": 36487,
-   "title": "百人一首　うはかゑとき　菅家|Poem by Kanke (Sugawara Michizane), from the series One Hundred Poems Explained by the Nurse (Hyakunin is",
+   "title": "百人一首　うはかゑとき　菅家|Poem by Kanke (Sugawara Michizane), from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1839",
    "begin": 1829,
@@ -303,7 +303,7 @@
   },
   {
    "objectId": 36488,
-   "title": "百人一首　姥か恵と起　大中臣能宣朝臣|Poem by Ōnakatomi no Yoshinobu Ason, from the series One Hundred Poems Explained by the Nurse (Hyakun",
+   "title": "百人一首　姥か恵と起　大中臣能宣朝臣|Poem by Ōnakatomi no Yoshinobu Ason, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1839",
    "begin": 1839,
@@ -313,7 +313,7 @@
   },
   {
    "objectId": 36489,
-   "title": "諸國名橋奇覧　すほうの国きんたいはし|Kintai Bridge in Suō Province (Suō no kuni Kintaibashi), from the series Remarkable Views of Bridges ",
+   "title": "諸國名橋奇覧　すほうの国きんたいはし|Kintai Bridge in Suō Province (Suō no kuni Kintaibashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1827–30",
    "begin": 1827,
@@ -323,7 +323,7 @@
   },
   {
    "objectId": 36490,
-   "title": "「富嶽三十六景　凱風快晴」|South Wind, Clear Sky (Gaifū kaisei), also known as Red Fuji, from the series Thirty-six Views of Mount Fu",
+   "title": "「富嶽三十六景　凱風快晴」|South Wind, Clear Sky (Gaifū kaisei), also known as Red Fuji, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -333,7 +333,7 @@
   },
   {
    "objectId": 36491,
-   "title": "冨嶽三十六景　神奈川沖浪裏|Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-",
+   "title": "冨嶽三十六景　神奈川沖浪裏|Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -343,7 +343,7 @@
   },
   {
    "objectId": 36492,
-   "title": "冨嶽三十六景　山下白雨|Storm below Mount Fuji (Sanka no haku u), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei",
+   "title": "冨嶽三十六景　山下白雨|Storm below Mount Fuji (Sanka no haku u), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -363,7 +363,7 @@
   },
   {
    "objectId": 36494,
-   "title": "冨嶽三十六景　身延川裏不二|View from the Other Side of Fuji from the Minobu River (Minobugawa ura Fuji), from the series Thirty-six V",
+   "title": "冨嶽三十六景　身延川裏不二|View from the Other Side of Fuji from the Minobu River (Minobugawa ura Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -373,7 +373,7 @@
   },
   {
    "objectId": 36495,
-   "title": "冨嶽三十六景　甲州三坂水面|Reflection in Lake at Misaka in Kai Province (Kōshū Misaka suimen), from the series Thirty-six Views of Mo",
+   "title": "冨嶽三十六景　甲州三坂水面|Reflection in Lake at Misaka in Kai Province (Kōshū Misaka suimen), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -383,7 +383,7 @@
   },
   {
    "objectId": 36496,
-   "title": "冨嶽三十六景　相州七里浜|Shichirigahama in Sagami Province (Sōshū Shichirigahama), from the series Thirty-six Views of Mount Fuji (F",
+   "title": "冨嶽三十六景　相州七里浜|Shichirigahama in Sagami Province (Sōshū Shichirigahama), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -393,7 +393,7 @@
   },
   {
    "objectId": 36497,
-   "title": "冨嶽三十六景　武州玉川|Tama River in Musashi Province (Bushū Tamagawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanj",
+   "title": "冨嶽三十六景　武州玉川|Tama River in Musashi Province (Bushū Tamagawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -403,7 +403,7 @@
   },
   {
    "objectId": 36498,
-   "title": "冨嶽三十六景　相州箱根湖水|The Lake at Hakone in Sagami Province (Sōshū Hakone kosui), from the series Thirty-six Views of Mount Fuji",
+   "title": "冨嶽三十六景　相州箱根湖水|The Lake at Hakone in Sagami Province (Sōshū Hakone kosui), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -413,7 +413,7 @@
   },
   {
    "objectId": 36499,
-   "title": "冨嶽三十六景　甲州三島越|Mishima Pass in Kai Province (Kōshū Mishima goe), from the series Thirty-six Views of Mount Fuji (Fugaku sa",
+   "title": "冨嶽三十六景　甲州三島越|Mishima Pass in Kai Province (Kōshū Mishima goe), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -423,7 +423,7 @@
   },
   {
    "objectId": 36500,
-   "title": "冨嶽三十六景　尾州不二見原|Fujimigahara in Owari Province (Bishū Fujimigahara), from the series Thirty-six Views of Mount Fuji (Fugak",
+   "title": "冨嶽三十六景　尾州不二見原|Fujimigahara in Owari Province (Bishū Fujimigahara), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -433,7 +433,7 @@
   },
   {
    "objectId": 36501,
-   "title": "「冨嶽三十六景　相州梅沢左」|“Umezawa Manor in Sagami Province,” from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei, S",
+   "title": "「冨嶽三十六景　相州梅沢左」|“Umezawa Manor in Sagami Province,” from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei, Sōshū Umezawa zai)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -453,7 +453,7 @@
   },
   {
    "objectId": 36503,
-   "title": "冨嶽三十六景　相州江の島|Enoshima in Sagami Province (Sōshū Enoshima), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūr",
+   "title": "冨嶽三十六景　相州江の島|Enoshima in Sagami Province (Sōshū Enoshima), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -463,7 +463,7 @@
   },
   {
    "objectId": 36504,
-   "title": "冨嶽三十六景　武陽佃島|Tsukudajima in Musashi Province (Buyō Tsukudajima), from the series Thirty-six Views of Mount Fuji (Fugaku s",
+   "title": "冨嶽三十六景　武陽佃島|Tsukudajima in Musashi Province (Buyō Tsukudajima), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -473,7 +473,7 @@
   },
   {
    "objectId": 36505,
-   "title": "冨嶽三十六景　遠江山中|In the Mountains of Tōtomi Province (Tōtomi sanchū), from the series Thirty-six Views of Mount Fuji (Fugaku ",
+   "title": "冨嶽三十六景　遠江山中|In the Mountains of Tōtomi Province (Tōtomi sanchū), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -483,7 +483,7 @@
   },
   {
    "objectId": 36506,
-   "title": "冨嶽三十六景　遠江山中|In the Mountains of Tōtomi Province (Tōtomi sanchū), from the series Thirty-six Views of Mount Fuji (Fugaku ",
+   "title": "冨嶽三十六景　遠江山中|In the Mountains of Tōtomi Province (Tōtomi sanchū), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -493,7 +493,7 @@
   },
   {
    "objectId": 36507,
-   "title": "冨嶽三十六景　武陽佃島|Tsukudajima in Musashi Province (Buyō Tsukudajima), from the series Thirty-six Views of Mount Fuji (Fugaku s",
+   "title": "冨嶽三十六景　武陽佃島|Tsukudajima in Musashi Province (Buyō Tsukudajima), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -503,7 +503,7 @@
   },
   {
    "objectId": 36508,
-   "title": "冨嶽三十六景　常州牛掘|Ushibori in Hitachi Province (Jōshū Ushibori), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūr",
+   "title": "冨嶽三十六景　常州牛掘|Ushibori in Hitachi Province (Jōshū Ushibori), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -513,7 +513,7 @@
   },
   {
    "objectId": 36509,
-   "title": "冨嶽三十六景　青山円座松|Cushion Pine at Aoyama (Aoyama enza no matsu), from the series Thirty-six Views of Mount Fuji (Fugaku sanjū",
+   "title": "冨嶽三十六景　青山円座松|Cushion Pine at Aoyama (Aoyama enza no matsu), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -763,7 +763,7 @@
   },
   {
    "objectId": 36537,
-   "title": "富士三十六景  武蔵越かや在|View of Mount Fuji from Koshigaya, Province of Musashi (Musashi, Koshigaya Zai), from the series Thirty-s",
+   "title": "富士三十六景  武蔵越かや在|View of Mount Fuji from Koshigaya, Province of Musashi (Musashi, Koshigaya Zai), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "4th month, Horse year 1858",
    "begin": 1858,
@@ -773,7 +773,7 @@
   },
   {
    "objectId": 36538,
-   "title": "富士三十六景  相模七里ケ浜|View of Mount Fuji from Seven-ri Beach, Province of Sagami (Sōshū: Shichi-ri ga hama), from the series Th",
+   "title": "富士三十六景  相模七里ケ浜|View of Mount Fuji from Seven-ri Beach, Province of Sagami (Sōshū: Shichi-ri ga hama), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "dated 4th month, Horse year 1858",
    "begin": 1858,
@@ -783,7 +783,7 @@
   },
   {
    "objectId": 36539,
-   "title": "名所江戸百景  浅草田圃酉の町詣|Revelers Returned from the Tori no Machi Festival at Asakusa, from the series One Hundred Famous Views ",
+   "title": "名所江戸百景  浅草田圃酉の町詣|Revelers Returned from the Tori no Machi Festival at Asakusa, from the series One Hundred Famous Views of Edo",
    "artist": "Utagawa Hiroshige",
    "objectDate": "1857",
    "begin": 1857,
@@ -813,7 +813,7 @@
   },
   {
    "objectId": 36542,
-   "title": "「名所江戸百景　蓑輪　金杉　三河しま」|“Minowa, Kanasugi at Mikawashima,” from the series One Hundred Famous Views of Edo (Meisho Edo hyakk",
+   "title": "「名所江戸百景　蓑輪　金杉　三河しま」|“Minowa, Kanasugi at Mikawashima,” from the series One Hundred Famous Views of Edo (Meisho Edo hyakkei, Minowa Kanasugi, Mikawashima)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "snake year 1857",
    "begin": 1857,
@@ -953,7 +953,7 @@
   },
   {
    "objectId": 36556,
-   "title": "東海道五十三次　三島|Mishima, from the series Fifty-three Stations of the Tōkaidō Road (Tōkaidō gojūsan tsugi, Mishima), also know",
+   "title": "東海道五十三次　三島|Mishima, from the series Fifty-three Stations of the Tōkaidō Road (Tōkaidō gojūsan tsugi, Mishima), also known as the Kyōka (Witty Verse) Tōkaidō",
    "artist": "Utagawa Hiroshige",
    "objectDate": "ca. 1838",
    "begin": 1828,
@@ -2063,7 +2063,7 @@
   },
   {
    "objectId": 36668,
-   "title": "『浅草観音奉掛額之 図』　「扇屋内滝川　富川、粂川、玉川、津川、歌川、清川　め浪、お浪」|A Votive Picture to Be Donated to the Kannon of Asakusa (Asakusa Kannon hō ",
+   "title": "『浅草観音奉掛額之 図』　「扇屋内滝川　富川、粂川、玉川、津川、歌川、清川　め浪、お浪」|A Votive Picture to Be Donated to the Kannon of Asakusa (Asakusa Kannon hō kakegaku no zu), by Takigawa of the Ōgiya, Kamuro Menami and Onami, with Tomikawa, Kumegawa, Tamagawa, Tsugawa, Utagawa, and Kiyokawa ",
    "artist": "Kitagawa Kikumaro",
    "objectDate": "ca. 1800",
    "begin": 1790,
@@ -2213,7 +2213,7 @@
   },
   {
    "objectId": 36683,
-   "title": "小倉擬百人一首|Album of Eighty-eight Prints from the series Ogura Imitations of One Hundred Poems by One Hundred Poets (Ogura n",
+   "title": "小倉擬百人一首|Album of Eighty-eight Prints from the series Ogura Imitations of One Hundred Poems by One Hundred Poets (Ogura nazorae hyakunin isshu)",
    "artist": "Utagawa Kuniyoshi|Utagawa Hiroshige|Utagawa Kunisada",
    "objectDate": "about 1845–48",
    "begin": 1845,
@@ -3423,7 +3423,7 @@
   },
   {
    "objectId": 36809,
-   "title": "五代目市川団十郎|Kabuki Actor Ichikawa Danjūrō V as Sakata Kintoki in the Play Raikō’s Four Intrepid Retainers in the Costume of",
+   "title": "五代目市川団十郎|Kabuki Actor Ichikawa Danjūrō V as Sakata Kintoki in the Play Raikō’s Four Intrepid Retainers in the Costume of the Night Watch (Shitennō tonoi no kisewata)",
    "artist": "Katsukawa Shunshō　勝川春章",
    "objectDate": "11th month, 1781",
    "begin": 1781,
@@ -4673,7 +4673,7 @@
   },
   {
    "objectId": 36935,
-   "title": "歌川広重画　東海道五十三次之内　 原　朝の富士|Hara: Mount Fuji in the Morning (Hara, Asa no Fuji), from the series Fifty-Three Stations of the",
+   "title": "歌川広重画　東海道五十三次之内　 原　朝の富士|Hara: Mount Fuji in the Morning (Hara, Asa no Fuji), from the series Fifty-Three Stations of the Tōkaidō Road (Tōkaidō gojūsan tsugi), also known as the First Tōkaidō or Great Tōkaidō",
    "artist": "Utagawa Hiroshige",
    "objectDate": "ca. 1833–34",
    "begin": 1833,
@@ -5053,7 +5053,7 @@
   },
   {
    "objectId": 36974,
-   "title": "東海道五十三次之内　草津　名物立場|Kusatsu: Famous Post House (Kusatsu, Meibutsu tateba), from the series Fifty-three Stations of the Tōk",
+   "title": "東海道五十三次之内　草津　名物立場|Kusatsu: Famous Post House (Kusatsu, Meibutsu tateba), from the series Fifty-three Stations of the Tōkaidō Road (Tōkaidō gojūsan tsugi no uchi)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "ca. 1833–34",
    "begin": 1833,
@@ -5073,7 +5073,7 @@
   },
   {
    "objectId": 36976,
-   "title": "歌川広重画 「東海道五十三次　大尾　京師　三条大橋」|Kyoto: The Great Bridge at Sanjō (Taibi, Keishi, Sanjō Ōhashi), from the series Fifty-Three S",
+   "title": "歌川広重画 「東海道五十三次　大尾　京師　三条大橋」|Kyoto: The Great Bridge at Sanjō (Taibi, Keishi, Sanjō Ōhashi), from the series Fifty-Three Stations of the Tōkaidō (Tōkaidō gojūsan tsugi)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "ca. 1833–34",
    "begin": 1833,
@@ -5313,7 +5313,7 @@
   },
   {
    "objectId": 37002,
-   "title": "四代目市川団十郎の奴淀平・初代中村歌右衛門の清水の清玄|Actors Ichikawa Danjūrō IV as Yakko Yodohei and Nakamura Utaemon I as the Monk Kiyomizu no S",
+   "title": "四代目市川団十郎の奴淀平・初代中村歌右衛門の清水の清玄|Actors Ichikawa Danjūrō IV as Yakko Yodohei and Nakamura Utaemon I as the Monk Kiyomizu no Seigen",
    "artist": "Katsukawa Shunshō　勝川春章",
    "objectDate": "1769 (Meiwa 6), 3rd month",
    "begin": 1769,
@@ -5323,7 +5323,7 @@
   },
   {
    "objectId": 37004,
-   "title": "二代目市川八百藏・二代目中島三甫右衛門・三代目市川海老藏・九代目市村羽左衛門|Kabuki Actors Ichikawa Yaozō II, Nakajima Mihoemon II, Ichikawa Ebizō III, and Ic",
+   "title": "二代目市川八百藏・二代目中島三甫右衛門・三代目市川海老藏・九代目市村羽左衛門|Kabuki Actors Ichikawa Yaozō II, Nakajima Mihoemon II, Ichikawa Ebizō III, and Ichimura Uzaemon IX in the Play Sugawara’s Secrets of Calligraphy (Sugawara denju tenarai kagami)",
    "artist": "Katsukawa Shunshō　勝川春章",
    "objectDate": "7th month, 1776",
    "begin": 1776,
@@ -5703,7 +5703,7 @@
   },
   {
    "objectId": 37042,
-   "title": "「六十余州名所図絵　伊予　西条」|“Iyo Province, Saijō ,” from the series Views of Famous Places in the Sixty-odd Provinces (Rokujū yoshū",
+   "title": "「六十余州名所図絵　伊予　西条」|“Iyo Province, Saijō ,” from the series Views of Famous Places in the Sixty-odd Provinces (Rokujū yoshū meisho zu-e, Iyo, Saijō)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "ca. 1853",
    "begin": 1843,
@@ -5733,7 +5733,7 @@
   },
   {
    "objectId": 37045,
-   "title": "六十余州名所図会　武蔵　隅田川　雪の朝|Morning after a Snowfall, the Sumida River, Musashi Province, from the series Views of Famous Places",
+   "title": "六十余州名所図会　武蔵　隅田川　雪の朝|Morning after a Snowfall, the Sumida River, Musashi Province, from the series Views of Famous Places in the Sixty-Odd Provinces",
    "artist": "Utagawa Hiroshige",
    "objectDate": "ca. 1853",
    "begin": 1843,
@@ -5753,7 +5753,7 @@
   },
   {
    "objectId": 37047,
-   "title": "Kazusa Yazashi-ga-ura tsumei|六十余州名所図会　上総　矢さしか浦　通名九十九里|Yasashi Beach, known as Kujūkuri, Kazusa Province, from the series",
+   "title": "Kazusa Yazashi-ga-ura tsumei|六十余州名所図会　上総　矢さしか浦　通名九十九里|Yasashi Beach, known as Kujūkuri, Kazusa Province, from the series Views of Famous Places in the Sixty-Odd Provinces",
    "artist": "Utagawa Hiroshige",
    "objectDate": "ca. 1853",
    "begin": 1843,
@@ -5763,7 +5763,7 @@
   },
   {
    "objectId": 37048,
-   "title": "東都名所　二丁町芝居の図|View of the Kabuki Theaters at Sakai-cho on Opening Day of the New Season (Sakai-cho Shibai no Zu), from th",
+   "title": "東都名所　二丁町芝居の図|View of the Kabuki Theaters at Sakai-cho on Opening Day of the New Season (Sakai-cho Shibai no Zu), from the series, \"Toto Meisho\"",
    "artist": "Utagawa Hiroshige",
    "objectDate": "ca. 1838",
    "begin": 1828,
@@ -6043,7 +6043,7 @@
   },
   {
    "objectId": 37078,
-   "title": "東都名所　神田明神境内雪晴之図|“Clear Weather after Snow in the Precincts of the Kanda Myōjin Shrine” (Kanda Myōjin keidai yukibare no ",
+   "title": "東都名所　神田明神境内雪晴之図|“Clear Weather after Snow in the Precincts of the Kanda Myōjin Shrine” (Kanda Myōjin keidai yukibare no zu), from the series Famous Places in the Eastern Capital (Tōto meisho)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "1840–42",
    "begin": 1840,
@@ -6203,7 +6203,7 @@
   },
   {
    "objectId": 37094,
-   "title": "名所江戶百景　大はしあたけの夕立|Sudden Shower over Shin-Ōhashi Bridge and Atake (Ōhashi Atake no yūdachi), from the series One Hundred ",
+   "title": "名所江戶百景　大はしあたけの夕立|Sudden Shower over Shin-Ōhashi Bridge and Atake (Ōhashi Atake no yūdachi), from the series One Hundred Famous Views of Edo (Meisho Edo hyakkei)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "1857",
    "begin": 1857,
@@ -6603,7 +6603,7 @@
   },
   {
    "objectId": 37147,
-   "title": "『雛形若菜の初模様　つるや内　すがたみ』|The Courtesan Sugatami of the Tsuruya Brothel, from the series “A Pat-tern Book of the Year’s First",
+   "title": "『雛形若菜の初模様　つるや内　すがたみ』|The Courtesan Sugatami of the Tsuruya Brothel, from the series “A Pat-tern Book of the Year’s First Designs, Fresh as Spring Herbs” (“Hinagata wakana no hatsu moyō”)",
    "artist": "Isoda Koryūsai",
    "objectDate": "1777–78",
    "begin": 1777,
@@ -6653,7 +6653,7 @@
   },
   {
    "objectId": 37152,
-   "title": "「風流六く歌仙紀友則　十」|“Two Young Women on a Verandah Watching Plovers,” from the series Stylish Six Poetic Immortals (Fūryū rokk",
+   "title": "「風流六く歌仙紀友則　十」|“Two Young Women on a Verandah Watching Plovers,” from the series Stylish Six Poetic Immortals (Fūryū rokkasen: Ki no Tomonori, jū)",
    "artist": "Katsukawa Shunshō　勝川春章",
    "objectDate": "ca. 1770",
    "begin": 1760,
@@ -6953,7 +6953,7 @@
   },
   {
    "objectId": 37183,
-   "title": "新吉原仮宅両国之図|Picture of the Temporary Lodgings of the New Yoshiwara Pleasure Quarter at Ryōgoku  (Shin Yoshiwara Karitaku R",
+   "title": "新吉原仮宅両国之図|Picture of the Temporary Lodgings of the New Yoshiwara Pleasure Quarter at Ryōgoku  (Shin Yoshiwara Karitaku Ryogoku no zu)",
    "artist": "Kitagawa Utamaro",
    "objectDate": "1784",
    "begin": 1784,
@@ -7193,7 +7193,7 @@
   },
   {
    "objectId": 37208,
-   "title": "歌川広重画　東海道　十四　五十三次　原|Hara, Number 14, from the series Fifty-Three Stations of the Tōkaidō Road (Tōkaidō gojūsan tsugi), a",
+   "title": "歌川広重画　東海道　十四　五十三次　原|Hara, Number 14, from the series Fifty-Three Stations of the Tōkaidō Road (Tōkaidō gojūsan tsugi), also known as the Clerical Script Tōkaidō (Reisho Tōkaidō)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "1847–52",
    "begin": 1847,
@@ -7243,7 +7243,7 @@
   },
   {
    "objectId": 37213,
-   "title": "歌川広重画　東海道　十九　五十三次　 江尻|Ejiri, Number 19, from the series Fifty-Three Stations of the Tōkaidō Road (Tōkaidō gojūsan tsugi)",
+   "title": "歌川広重画　東海道　十九　五十三次　 江尻|Ejiri, Number 19, from the series Fifty-Three Stations of the Tōkaidō Road (Tōkaidō gojūsan tsugi), also known as the Clerical Script Tōkaidō (Reisho Tōkaidō)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "1847–52",
    "begin": 1847,
@@ -7603,7 +7603,7 @@
   },
   {
    "objectId": 37249,
-   "title": "歌川広重画 「東海道　五十三次 大尾　京　三条大はし」|The Great Bridge at Sanjō (Taibi, Kyō, Sanjō Ōhashi), from the series The Tōkaidō Road: The ",
+   "title": "歌川広重画 「東海道　五十三次 大尾　京　三条大はし」|The Great Bridge at Sanjō (Taibi, Kyō, Sanjō Ōhashi), from the series The Tōkaidō Road: The Fifty-Three Stations (Tōkaidō: Gojūsan tsugi)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "ca. 1847–52",
    "begin": 1847,
@@ -7833,7 +7833,7 @@
   },
   {
    "objectId": 37282,
-   "title": "歌川広重画　「名所江戸百景　駒形堂吾嬬橋」|“Azuma Bridge from Komagatadō Temple,” from the series One Hundred Famous Views of Edo (Meisho Edo",
+   "title": "歌川広重画　「名所江戸百景　駒形堂吾嬬橋」|“Azuma Bridge from Komagatadō Temple,” from the series One Hundred Famous Views of Edo (Meisho Edo hyakkei, Komagatadō Azumabashi)",
    "artist": "Utagawa Hiroshige|Uoya Eikichi",
    "objectDate": "1857",
    "begin": 1857,
@@ -8033,7 +8033,7 @@
   },
   {
    "objectId": 37317,
-   "title": "鳥文斎栄之画　「浮世源氏八景 幻　落雁 薄雲　晴嵐」|Spirit Summoner; Wild Geese Returning Home (Maboroshi; Rakugan) (right) and A Thin Veil of Cl",
+   "title": "鳥文斎栄之画　「浮世源氏八景 幻　落雁 薄雲　晴嵐」|Spirit Summoner; Wild Geese Returning Home (Maboroshi; Rakugan) (right) and A Thin Veil of Clouds; Clearing Weather (Usugumo; Seiran) (left), from the series Eight Views of The Tale of Genji in the Floating World (Ukiyo Genji hakkei)",
    "artist": "Chōbunsai Eishi",
    "objectDate": "1797–99",
    "begin": 1797,
@@ -8053,7 +8053,7 @@
   },
   {
    "objectId": 37319,
-   "title": "葛飾北斎画　冨嶽三十六景　 御厩川岸より両国橋夕陽見|Viewing the Sunset over Ryōgoku Bridge from the Onmaya Embankment (Onmayagashi yori Ryōgokuba",
+   "title": "葛飾北斎画　冨嶽三十六景　 御厩川岸より両国橋夕陽見|Viewing the Sunset over Ryōgoku Bridge from the Onmaya Embankment (Onmayagashi yori Ryōgokubashi sekiyō o miru), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1823,
@@ -8063,7 +8063,7 @@
   },
   {
    "objectId": 37320,
-   "title": "冨嶽三十六景　駿州片倉茶園の不二|Fuji from the Katakura Tea Fields in Suruga (Sunshū Katakura chaen no Fuji), from the series Thirty-six",
+   "title": "冨嶽三十六景　駿州片倉茶園の不二|Fuji from the Katakura Tea Fields in Suruga (Sunshū Katakura chaen no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -8073,7 +8073,7 @@
   },
   {
    "objectId": 37321,
-   "title": "冨嶽三十六景　五百らかん寺さざゐどう|Sazai Hall at the Temple of the Five Hundred Arhats (Gohyaku Rakanji Sazaidō), from the series Thirty",
+   "title": "冨嶽三十六景　五百らかん寺さざゐどう|Sazai Hall at the Temple of the Five Hundred Arhats (Gohyaku Rakanji Sazaidō), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -8083,7 +8083,7 @@
   },
   {
    "objectId": 37322,
-   "title": "冨嶽三十六景　隠田の水車|The Waterwheel at Onden (Onden no suisha), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokk",
+   "title": "冨嶽三十六景　隠田の水車|The Waterwheel at Onden (Onden no suisha), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -8093,7 +8093,7 @@
   },
   {
    "objectId": 37323,
-   "title": "百人一首　宇波か縁説　藤原道信朝臣|Poem by Fujiwara no Michinobu Ason, from the series One Hundred Poems Explained by the Nurse (Hyakunin",
+   "title": "百人一首　宇波か縁説　藤原道信朝臣|Poem by Fujiwara no Michinobu Ason, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1839",
    "begin": 1839,
@@ -8383,7 +8383,7 @@
   },
   {
    "objectId": 37352,
-   "title": "三代目市川高麗蔵の志賀大七|Kabuki Actor Ichikawa Komazō III as Shiga Daishichi in the Play A Medley of Tales of Revenge (Katakiuchi n",
+   "title": "三代目市川高麗蔵の志賀大七|Kabuki Actor Ichikawa Komazō III as Shiga Daishichi in the Play A Medley of Tales of Revenge (Katakiuchi noriaibanashi)",
    "artist": "Tōshūsai Sharaku",
    "objectDate": "5th month, 1794",
    "begin": 1794,
@@ -8423,7 +8423,7 @@
   },
   {
    "objectId": 37356,
-   "title": "喜多川歌麿画　「青楼仁和嘉女芸者　茶せん売　黒木売　さいもん」|Three Niwaka Performers, Chasenuri, Kurokiri, and Saimon (Tea-whisk Seller, Firewood Sel",
+   "title": "喜多川歌麿画　「青楼仁和嘉女芸者　茶せん売　黒木売　さいもん」|Three Niwaka Performers, Chasenuri, Kurokiri, and Saimon (Tea-whisk Seller, Firewood Seller, Shrine Festival Perfomer), from the “Geisha of the Yoshiwara Niwaka Festival” (Seiro Niwaka Onna Geisha)",
    "artist": "Kitagawa Utamaro",
    "objectDate": "ca. 1794",
    "begin": 1784,
@@ -8483,7 +8483,7 @@
   },
   {
    "objectId": 37362,
-   "title": "冨嶽三十六景　御厩川岸より両国橋夕陽見|Viewing the Sunset over Ryōgoku Bridge from the Onmaya Embankment (Onmayagashi yori Ryōgokubashi sek",
+   "title": "冨嶽三十六景　御厩川岸より両国橋夕陽見|Viewing the Sunset over Ryōgoku Bridge from the Onmaya Embankment (Onmayagashi yori Ryōgokubashi sekiyō o miru), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–31",
    "begin": 1820,
@@ -8543,7 +8543,7 @@
   },
   {
    "objectId": 37368,
-   "title": "市川鰕蔵の竹村定之進|Kabuki Actor Ichikawa Ebizō (Ichikawa Danjūrō V) in the play The Colored Reins of a Loving Wife (Koi nyōbō so",
+   "title": "市川鰕蔵の竹村定之進|Kabuki Actor Ichikawa Ebizō (Ichikawa Danjūrō V) in the play The Colored Reins of a Loving Wife (Koi nyōbō somewake tazuna)",
    "artist": "Tōshūsai Sharaku",
    "objectDate": "5th month, 1794",
    "begin": 1794,
@@ -8573,7 +8573,7 @@
   },
   {
    "objectId": 37371,
-   "title": "八代目守田勘弥の鴬の次郎作|Kabuki Actor Morita Kan’ya VIII as the Palanquin-Bearer in the Play A Medley of Tales of Revenge (Katakiuc",
+   "title": "八代目守田勘弥の鴬の次郎作|Kabuki Actor Morita Kan’ya VIII as the Palanquin-Bearer in the Play A Medley of Tales of Revenge (Katakiuchi noriaibanashi)",
    "artist": "Tōshūsai Sharaku",
    "objectDate": "5th month, 1794",
    "begin": 1794,
@@ -8583,7 +8583,7 @@
   },
   {
    "objectId": 37372,
-   "title": "東洲斎写楽画   初世中島和田右衛門のぼうだら長左衛門と初世中村此蔵の船宿かな川やの権   『敵討乗合話』|Nakajima Wadaemon and Nakamura Konozō as Bōdara no Chōzaemon and K",
+   "title": "東洲斎写楽画   初世中島和田右衛門のぼうだら長左衛門と初世中村此蔵の船宿かな川やの権   『敵討乗合話』|Nakajima Wadaemon and Nakamura Konozō as Bōdara no Chōzaemon and Kanagawaya no Gon in the Play \"Katakiuchi noriyaibanashi\"",
    "artist": "Tōshūsai Sharaku",
    "objectDate": "1794",
    "begin": 1794,
@@ -8593,7 +8593,7 @@
   },
   {
    "objectId": 37373,
-   "title": "東洲斎写楽画　 三代目坂東彦三郎の帯屋長右衛門と四代目岩井半四郎の信濃 屋お半   『二本松陸奥生長』|Bandō Hikosaburō III in the Role of Obiya Chōemon and Iwai Hanshiro ",
+   "title": "東洲斎写楽画　 三代目坂東彦三郎の帯屋長右衛門と四代目岩井半四郎の信濃 屋お半   『二本松陸奥生長』|Bandō Hikosaburō III in the Role of Obiya Chōemon and Iwai Hanshiro IV in the Role of Shinanoya Ohan, from the Play “Nihonmatsu Michinoku sodachi”",
    "artist": "Tōshūsai Sharaku",
    "objectDate": "1794–95",
    "begin": 1794,
@@ -8723,7 +8723,7 @@
   },
   {
    "objectId": 37386,
-   "title": "Ōhashi Atake no yūdachi|名所江戸百景　大はしあたけの夕立|Sudden Shower over Shin-Ōhashi Bridge and Atake (Ōhashi Atake no yūdachi), from",
+   "title": "Ōhashi Atake no yūdachi|名所江戸百景　大はしあたけの夕立|Sudden Shower over Shin-Ōhashi Bridge and Atake (Ōhashi Atake no yūdachi), from the series One Hundred Famous Views of Edo (Meisho Edo hyakkei)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "1857",
    "begin": 1857,
@@ -8833,7 +8833,7 @@
   },
   {
    "objectId": 39656,
-   "title": "冨嶽三十六景　甲州石班沢|Kajikazawa in Kai Province (Kōshū Kajikazawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjū",
+   "title": "冨嶽三十六景　甲州石班沢|Kajikazawa in Kai Province (Kōshū Kajikazawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -8903,7 +8903,7 @@
   },
   {
    "objectId": 39798,
-   "title": "冨嶽三十六景　信州諏訪湖|Lake Suwa in Shinano Province (Shinshū Suwako), from the series Thirty-six Views of Mount Fuji (Fugaku sanj",
+   "title": "冨嶽三十六景　信州諏訪湖|Lake Suwa in Shinano Province (Shinshū Suwako), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -8913,7 +8913,7 @@
   },
   {
    "objectId": 39799,
-   "title": "「富嶽三十六景　神奈川沖浪裏」|Under the Wave off Kanagawa (Kanagawa oki nami ura), or The Great Wave, from the series Thirty-six Views",
+   "title": "「富嶽三十六景　神奈川沖浪裏」|Under the Wave off Kanagawa (Kanagawa oki nami ura), or The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -8923,7 +8923,7 @@
   },
   {
    "objectId": 39800,
-   "title": "葛飾北斎画　冨嶽三十六景　甲州石班沢|Kajikazawa in Kai Province (Kōshū Kajikazawa), from the series Thirty-six Views of Mount Fuji (Fugaku",
+   "title": "葛飾北斎画　冨嶽三十六景　甲州石班沢|Kajikazawa in Kai Province (Kōshū Kajikazawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -8983,7 +8983,7 @@
   },
   {
    "objectId": 42564,
-   "title": "鈴木春信画　将棋・三十六歌仙　「中納言兼輔」|A Young Woman and Man Playing Shōgi (Japanese Chess); Chūnagon Kanesuke, from a series alluding t",
+   "title": "鈴木春信画　将棋・三十六歌仙　「中納言兼輔」|A Young Woman and Man Playing Shōgi (Japanese Chess); Chūnagon Kanesuke, from a series alluding to the Thirty-Six Poetic Immortals (Sanjūrokkasen)",
    "artist": "Suzuki Harunobu",
    "objectDate": "ca. 1767–69",
    "begin": 1767,
@@ -9183,7 +9183,7 @@
   },
   {
    "objectId": 45009,
-   "title": "『五色染六歌仙』　僧正遍昭|“The Poet Sōjō Henjō (816–890) Slipping a Letter into a Woman’s Sleeve,” from the series Five Colors of Lo",
+   "title": "『五色染六歌仙』　僧正遍昭|“The Poet Sōjō Henjō (816–890) Slipping a Letter into a Woman’s Sleeve,” from the series Five Colors of Love for the Six Poetic Immortals (Goshiki-zome rokkasen)",
    "artist": "Kitagawa Utamaro",
    "objectDate": "ca. 1798",
    "begin": 1788,
@@ -9193,7 +9193,7 @@
   },
   {
    "objectId": 45012,
-   "title": "『五色染六歌仙』 在原業平と小野小町|“The Poet Ariwara no Narihira (825–880) and Ono no Komachi,” from the series Five Colors of Love for ",
+   "title": "『五色染六歌仙』 在原業平と小野小町|“The Poet Ariwara no Narihira (825–880) and Ono no Komachi,” from the series Five Colors of Love for the Six Poetic Immortals (Goshiki-zome rokkasen)",
    "artist": "Kitagawa Utamaro",
    "objectDate": "ca. 1798",
    "begin": 1788,
@@ -9233,7 +9233,7 @@
   },
   {
    "objectId": 45017,
-   "title": "喜多川歌麿画  「婦女人相十品」  ポペンを吹く娘|Young Woman Blowing a Popen (glass noisemaker), from the series “Ten Classes of Women’s Physio",
+   "title": "喜多川歌麿画  「婦女人相十品」  ポペンを吹く娘|Young Woman Blowing a Popen (glass noisemaker), from the series “Ten Classes of Women’s Physiognomy” (Fujo ninsō juppen)",
    "artist": "Kitagawa Utamaro",
    "objectDate": "ca. 1792–93",
    "begin": 1792,
@@ -9303,7 +9303,7 @@
   },
   {
    "objectId": 45026,
-   "title": "諸國名橋奇覧　三河の八ツ橋の古図|Ancient View of Yatsuhashi in Mikawa Province (Mikawa no Yatsuhashi no kozu), from the series Remarkabl",
+   "title": "諸國名橋奇覧　三河の八ツ橋の古図|Ancient View of Yatsuhashi in Mikawa Province (Mikawa no Yatsuhashi no kozu), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1834",
    "begin": 1824,
@@ -9313,7 +9313,7 @@
   },
   {
    "objectId": 45027,
-   "title": "諸國瀧廻リ　和州吉野義経馬洗滝|The Waterfall Where Yoshitsune Washed His Horse at Yoshino in Yamato Province (Washū Yoshino Yoshitsune ",
+   "title": "諸國瀧廻リ　和州吉野義経馬洗滝|The Waterfall Where Yoshitsune Washed His Horse at Yoshino in Yamato Province (Washū Yoshino Yoshitsune uma arai no taki), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1832",
    "begin": 1822,
@@ -9343,7 +9343,7 @@
   },
   {
    "objectId": 45030,
-   "title": "冨嶽三十六景　甲州犬目峠|The Inume Pass in Kai Province (Kōshū Inume tōge), from the series Thirty-six Views of Mount Fuji (Fugaku s",
+   "title": "冨嶽三十六景　甲州犬目峠|The Inume Pass in Kai Province (Kōshū Inume tōge), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1831–32",
    "begin": 1820,
@@ -9583,7 +9583,7 @@
   },
   {
    "objectId": 45064,
-   "title": "鈴木春信画「風俗四季歌仙　立春」|The First Day of Spring (Risshun), from the series Fashionable Poetic Immortals of the Four Seasons (Fū",
+   "title": "鈴木春信画「風俗四季歌仙　立春」|The First Day of Spring (Risshun), from the series Fashionable Poetic Immortals of the Four Seasons (Fūzoku shiki Kasen)",
    "artist": "Suzuki Harunobu",
    "objectDate": "ca. 1768",
    "begin": 1778,
@@ -9623,7 +9623,7 @@
   },
   {
    "objectId": 45068,
-   "title": "鈴木春信画　虚無僧・「風俗四季歌仙　卯月」|A Flute-Playing Monk (Komusō); The Fourth Month (Uzuki), from the series Fashionable Poetic Immort",
+   "title": "鈴木春信画　虚無僧・「風俗四季歌仙　卯月」|A Flute-Playing Monk (Komusō); The Fourth Month (Uzuki), from the series Fashionable Poetic Immortals of the Four Seasons (Fūzoku shiki kasen) ",
    "artist": "Suzuki Harunobu",
    "objectDate": "ca. 1768",
    "begin": 1758,
@@ -9683,7 +9683,7 @@
   },
   {
    "objectId": 45077,
-   "title": "鈴木春信画　見立三夕　「西行法師」|A Young Man and Woman with a Shamisen; Monk Saigyō, from a series alluding to the Three Evening Poems ",
+   "title": "鈴木春信画　見立三夕　「西行法師」|A Young Man and Woman with a Shamisen; Monk Saigyō, from a series alluding to the Three Evening Poems (Sanseki waka)",
    "artist": "Suzuki Harunobu",
    "objectDate": "ca. 1768",
    "begin": 1758,
@@ -9953,7 +9953,7 @@
   },
   {
    "objectId": 45241,
-   "title": "Kodomo Mando, Kojimachi 1,2, 3-chome, Sanno Go-sairei|Childrens' Lantern Float, Kojimachi 1,2, 3-chome Block Association",
+   "title": "Kodomo Mando, Kojimachi 1,2, 3-chome, Sanno Go-sairei|Childrens' Lantern Float, Kojimachi 1,2, 3-chome Block Association, Sanno Festival",
    "artist": "Torii Kiyonaga",
    "objectDate": "ca. 1780",
    "begin": 1771,
@@ -9983,7 +9983,7 @@
   },
   {
    "objectId": 45246,
-   "title": "「風俗東之錦」 姫君と侍女四人|High-Ranking Samurai Girl with Four Attendants, from the series A Brocade of Eastern Manners (Fūzoku Azu",
+   "title": "「風俗東之錦」 姫君と侍女四人|High-Ranking Samurai Girl with Four Attendants, from the series A Brocade of Eastern Manners (Fūzoku Azuma no nishiki)",
    "artist": "Torii Kiyonaga",
    "objectDate": "ca. 1784",
    "begin": 1774,
@@ -10073,7 +10073,7 @@
   },
   {
    "objectId": 45261,
-   "title": "百人一首　うはか縁説　清原深養父|Poem by Kiyohara no Fukayabu, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu ",
+   "title": "百人一首　うはか縁説　清原深養父|Poem by Kiyohara no Fukayabu, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1835",
    "begin": 1825,
@@ -10083,7 +10083,7 @@
   },
   {
    "objectId": 45263,
-   "title": "二代歌川広重画    「諸国名所百景　京都四条夕すずみ」|Enjoying the Evening Cool at Shijō in Kyoto, from the series One Hundred Famous Views in th",
+   "title": "二代歌川広重画    「諸国名所百景　京都四条夕すずみ」|Enjoying the Evening Cool at Shijō in Kyoto, from the series One Hundred Famous Views in the Various Provinces (Shokoku meisho hyakkei)",
    "artist": "Utagawa Hiroshige II",
    "objectDate": "1859, eighth month",
    "begin": 1859,
@@ -10153,7 +10153,7 @@
   },
   {
    "objectId": 45284,
-   "title": "歌川国芳画　「高祖御一代略図　 小室山法論石」|Concise Illustrated Biography of Monk Nichiren: Rock Suspended by the Power of Prayer on Komuro ",
+   "title": "歌川国芳画　「高祖御一代略図　 小室山法論石」|Concise Illustrated Biography of Monk Nichiren: Rock Suspended by the Power of Prayer on Komuro Mountain",
    "artist": "Utagawa Kuniyoshi",
    "objectDate": "1835–36",
    "begin": 1835,
@@ -10163,7 +10163,7 @@
   },
   {
    "objectId": 45286,
-   "title": "歌川国芳画　「高祖御一代略図　 鎌倉霊山ヶ崎雨祈」|Concise Illustrated Biography of Monk Nichiren: Prayer for Rain Answered at Ryōzengasaki in Ka",
+   "title": "歌川国芳画　「高祖御一代略図　 鎌倉霊山ヶ崎雨祈」|Concise Illustrated Biography of Monk Nichiren: Prayer for Rain Answered at Ryōzengasaki in Kamakura",
    "artist": "Utagawa Kuniyoshi",
    "objectDate": "1835–36",
    "begin": 1835,
@@ -10173,7 +10173,7 @@
   },
   {
    "objectId": 45287,
-   "title": "歌川国芳画　「高祖御一代略図　 佐州流刑角田波題目」|Concise Illustrated Biography of Monk Nichiren: Calming the Stormy Sea at Tsunoda in Exile to",
+   "title": "歌川国芳画　「高祖御一代略図　 佐州流刑角田波題目」|Concise Illustrated Biography of Monk Nichiren: Calming the Stormy Sea at Tsunoda in Exile to Sado Island",
    "artist": "Utagawa Kuniyoshi",
    "objectDate": "1835–36",
    "begin": 1835,
@@ -10203,7 +10203,7 @@
   },
   {
    "objectId": 45291,
-   "title": "江戸仕入大津土産　槍持奴　鷹匠|Souvenir Paintings from Ōtsu, Stocked in Edo (Edo shi-ire Ōtsu miyage) Foot-soldier with a Spear and Haw",
+   "title": "江戸仕入大津土産　槍持奴　鷹匠|Souvenir Paintings from Ōtsu, Stocked in Edo (Edo shi-ire Ōtsu miyage) Foot-soldier with a Spear and Hawk-handler (Yari mochi yakko to taka shō)",
    "artist": "Kitagawa Utamaro",
    "objectDate": "ca. 1802–3",
    "begin": 1802,
@@ -10453,7 +10453,7 @@
   },
   {
    "objectId": 45319,
-   "title": "Toto meisho Sumidagawa zenzu settchukei|東都名所　隅田川全図雪中景|Celebrated Places in the Eastern Capital: Panoramic View of the Su",
+   "title": "Toto meisho Sumidagawa zenzu settchukei|東都名所　隅田川全図雪中景|Celebrated Places in the Eastern Capital: Panoramic View of the Sumida River in Snow",
    "artist": "Utagawa Hiroshige",
    "objectDate": "ca. 1840",
    "begin": 1830,
@@ -10473,7 +10473,7 @@
   },
   {
    "objectId": 45321,
-   "title": "Asakusa Kinryuzan shita Azumabashi uchu nozomi|東都名所  浅草金龍山下東橋雨中望|View of the Asakusa Kinryuzan Temple from the Azuma Bri",
+   "title": "Asakusa Kinryuzan shita Azumabashi uchu nozomi|東都名所  浅草金龍山下東橋雨中望|View of the Asakusa Kinryuzan Temple from the Azuma Bridge in the Rain",
    "artist": "Utagawa Hiroshige",
    "objectDate": "ca. 1840",
    "begin": 1830,
@@ -10483,7 +10483,7 @@
   },
   {
    "objectId": 45434,
-   "title": "「富嶽三十六景　神奈川沖浪裏」|Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirt",
+   "title": "「富嶽三十六景　神奈川沖浪裏」|Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -10573,7 +10573,7 @@
   },
   {
    "objectId": 48894,
-   "title": "二代目市川八百藏・二代目中島三甫右衛門・三代目市川海老藏・九代目市村羽左衛門|Kabuki Actors Ichikawa Yaozō II, Nakajima Mihoemon II, Ichikawa Ebizō III, and Ic",
+   "title": "二代目市川八百藏・二代目中島三甫右衛門・三代目市川海老藏・九代目市村羽左衛門|Kabuki Actors Ichikawa Yaozō II, Nakajima Mihoemon II, Ichikawa Ebizō III, and Ichimura Uzaemon IX in the Play Sugawara’s Secrets of Calligraphy (Sugawara denju tenarai kagami)",
    "artist": "Katsukawa Shunshō　勝川春章",
    "objectDate": "7th month, 1776",
    "begin": 1776,
@@ -10583,7 +10583,7 @@
   },
   {
    "objectId": 48895,
-   "title": "二代目市川八百藏・二代目中島三甫右衛門・三代目市川海老藏・九代目市村羽左衛門|Kabuki Actors Ichikawa Yaozō II, Nakajima Mihoemon II, Ichikawa Ebizō III, and Ic",
+   "title": "二代目市川八百藏・二代目中島三甫右衛門・三代目市川海老藏・九代目市村羽左衛門|Kabuki Actors Ichikawa Yaozō II, Nakajima Mihoemon II, Ichikawa Ebizō III, and Ichimura Uzaemon IX in the Play Sugawara’s Secrets of Calligraphy (Sugawara denju tenarai kagami)",
    "artist": "Katsukawa Shunshō　勝川春章",
    "objectDate": "7th month, 1776",
    "begin": 1776,
@@ -10683,7 +10683,7 @@
   },
   {
    "objectId": 49934,
-   "title": "琉球八景　泉崎夜月|Evening Moon at Izumizaki (Izaumizaki yagetsu), from the series Eight Views of the Ryūkyū Islands (Ryūkyū hakk",
+   "title": "琉球八景　泉崎夜月|Evening Moon at Izumizaki (Izaumizaki yagetsu), from the series Eight Views of the Ryūkyū Islands (Ryūkyū hakkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1832",
    "begin": 1822,
@@ -10693,7 +10693,7 @@
   },
   {
    "objectId": 49935,
-   "title": "琉球八景　中島蕉園|Banana Garden at Nakashima (Nakashima shōen), from the series Eight Views of the Ryūkyū Islands (Ryūkyū hakkei",
+   "title": "琉球八景　中島蕉園|Banana Garden at Nakashima (Nakashima shōen), from the series Eight Views of the Ryūkyū Islands (Ryūkyū hakkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1832",
    "begin": 1822,
@@ -10723,7 +10723,7 @@
   },
   {
    "objectId": 49938,
-   "title": "琉球八景　臨海潮（湖）聲|Sound of the Lake at Rinkai (Rinkai kosei), from the series Eight Views of the Ryūkyū Islands (Ryūkyū hakke",
+   "title": "琉球八景　臨海潮（湖）聲|Sound of the Lake at Rinkai (Rinkai kosei), from the series Eight Views of the Ryūkyū Islands (Ryūkyū hakkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1832",
    "begin": 1822,
@@ -10763,7 +10763,7 @@
   },
   {
    "objectId": 50916,
-   "title": "諸國名橋奇覧　東海道岡崎矢はぎのはし|Yahagi Bridge at Okazaki on the Tōkaidō (Tōkaidō Okazaki Yahagi no hashi), from the series Remarkable",
+   "title": "諸國名橋奇覧　東海道岡崎矢はぎのはし|Yahagi Bridge at Okazaki on the Tōkaidō (Tōkaidō Okazaki Yahagi no hashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1827–30",
    "begin": 1827,
@@ -10773,7 +10773,7 @@
   },
   {
    "objectId": 50924,
-   "title": "諸國名橋奇覧　ゑちぜんふくゐの橋|Fukui Bridge in Echizen Province (Echizen Fukui no hashi), from the series Remarkable Views of Bridges ",
+   "title": "諸國名橋奇覧　ゑちぜんふくゐの橋|Fukui Bridge in Echizen Province (Echizen Fukui no hashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1827–30",
    "begin": 1827,
@@ -10943,7 +10943,7 @@
   },
   {
    "objectId": 51996,
-   "title": "『雛形若菜初模様　四ツ目屋内　にしき木』|The Courtesan Nishikigi of the Yotsumeya Brothel, from the series “A Pattern Book of the Year’s Fir",
+   "title": "『雛形若菜初模様　四ツ目屋内　にしき木』|The Courtesan Nishikigi of the Yotsumeya Brothel, from the series “A Pattern Book of the Year’s First Designs, Fresh as Spring Herbs” (“Hinagata wakana hatsu moyō”)",
    "artist": "Isoda Koryūsai",
    "objectDate": "1776",
    "begin": 1776,
@@ -11033,7 +11033,7 @@
   },
   {
    "objectId": 53191,
-   "title": "諸國名橋奇覧　足利行道山くものかけはし|The Hanging-cloud Bridge at Mount Gyōdō near Ashikaga (Ashikaga Gyōdōzan kumo no kakehashi), from th",
+   "title": "諸國名橋奇覧　足利行道山くものかけはし|The Hanging-cloud Bridge at Mount Gyōdō near Ashikaga (Ashikaga Gyōdōzan kumo no kakehashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1760–1849",
    "begin": 1760,
@@ -11043,7 +11043,7 @@
   },
   {
    "objectId": 53192,
-   "title": "諸國名橋奇覧　飛越の堺つりはし|The Suspension Bridge on the Border of Hida and Etchū Provinces (Hietsu no sakai tsuribashi), from the s",
+   "title": "諸國名橋奇覧　飛越の堺つりはし|The Suspension Bridge on the Border of Hida and Etchū Provinces (Hietsu no sakai tsuribashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830",
    "begin": 1820,
@@ -11053,7 +11053,7 @@
   },
   {
    "objectId": 53193,
-   "title": "諸國名橋奇覧　摂洲天満橋|Tenman Bridge at Settsu Province (Sesshū  Tenmanbashi), from the series Remarkable Views of Bridges in Vari",
+   "title": "諸國名橋奇覧　摂洲天満橋|Tenman Bridge at Settsu Province (Sesshū  Tenmanbashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1760–1849",
    "begin": 1760,
@@ -11143,7 +11143,7 @@
   },
   {
    "objectId": 53654,
-   "title": "喜多川歌麿画   「美人気量競　五明楼　花扇」|“Hanaōgi of the Gomeirō,” from the series Comparing the Charms of Beauties (Bijin kiryō kurabe: ",
+   "title": "喜多川歌麿画   「美人気量競　五明楼　花扇」|“Hanaōgi of the Gomeirō,” from the series Comparing the Charms of Beauties (Bijin kiryō kurabe: Gomeirō Hanaōgi)",
    "artist": "Kitagawa Utamaro",
    "objectDate": "ca. 1794–95",
    "begin": 1794,
@@ -11153,7 +11153,7 @@
   },
   {
    "objectId": 53655,
-   "title": "鳥文斎栄之画 「風流略六哥仙　其の二」小野小町|Ono no Komachi: Number Two (Sono ni), from the series Stylish Parodies of the Six Poetic Immorta",
+   "title": "鳥文斎栄之画 「風流略六哥仙　其の二」小野小町|Ono no Komachi: Number Two (Sono ni), from the series Stylish Parodies of the Six Poetic Immortals (Fūryū yatsushi rokkasen)",
    "artist": "Chōbunsai Eishi",
    "objectDate": "1790s",
    "begin": 1790,
@@ -11173,7 +11173,7 @@
   },
   {
    "objectId": 53657,
-   "title": "鳥文斎栄之画 「青楼美撰合　初売座敷之図　扇屋滝川」|Takigawa of the Ōgiya Brothel: The First Reception Room Appointment of the New Year (Hatsu-ur",
+   "title": "鳥文斎栄之画 「青楼美撰合　初売座敷之図　扇屋滝川」|Takigawa of the Ōgiya Brothel: The First Reception Room Appointment of the New Year (Hatsu-uri zashiki no zu: Ōgiya Takigawa), from the series A Comparison of Selected Beauties of the Pleasure Quarters (Seirō bisen awase)",
    "artist": "Chōbunsai Eishi",
    "objectDate": "ca. 1794–95",
    "begin": 1794,
@@ -11273,7 +11273,7 @@
   },
   {
    "objectId": 53692,
-   "title": "冨嶽三十六景　江都駿河町三井見世略図|Mitsui Shop at Surugachō in Edo (Edo Surugachō Mitsui mise ryaku zu), from the series Thirty-six View",
+   "title": "冨嶽三十六景　江都駿河町三井見世略図|Mitsui Shop at Surugachō in Edo (Edo Surugachō Mitsui mise ryaku zu), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -11293,7 +11293,7 @@
   },
   {
    "objectId": 53698,
-   "title": "諸國名橋奇覧　かうつけ佐野ふなはしの古づ|Old View of the Boat-bridge at Sano in Kōzuke Province (Kōzuke Sano funabashi no kozu), from the se",
+   "title": "諸國名橋奇覧　かうつけ佐野ふなはしの古づ|Old View of the Boat-bridge at Sano in Kōzuke Province (Kōzuke Sano funabashi no kozu), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830",
    "begin": 1820,
@@ -11303,7 +11303,7 @@
   },
   {
    "objectId": 53699,
-   "title": "諸國名橋奇覧　かうつけ佐野ふなはしの古づ|Old View of the Boat-bridge at Sano in Kōzuke Province (Kōzuke Sano funabashi no kozu), from the se",
+   "title": "諸國名橋奇覧　かうつけ佐野ふなはしの古づ|Old View of the Boat-bridge at Sano in Kōzuke Province (Kōzuke Sano funabashi no kozu), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1827–30",
    "begin": 1827,
@@ -11313,7 +11313,7 @@
   },
   {
    "objectId": 53700,
-   "title": "「諸國名橋寄覧　東海道岡崎 矢はぎのはし」|Yahagi Bridge at Okazaki on the Tōkaidō (Tōkaidō Okazaki Yahagi no hashi), from the series Remarka",
+   "title": "「諸國名橋寄覧　東海道岡崎 矢はぎのはし」|Yahagi Bridge at Okazaki on the Tōkaidō (Tōkaidō Okazaki Yahagi no hashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1834",
    "begin": 1824,
@@ -11343,7 +11343,7 @@
   },
   {
    "objectId": 53710,
-   "title": "重陽後の月宴  十二月ノ内|Banquet of the Next Full Moon at the Chrysanthemum Festival, from the series The Twelve Months (Chōyō noch",
+   "title": "重陽後の月宴  十二月ノ内|Banquet of the Next Full Moon at the Chrysanthemum Festival, from the series The Twelve Months (Chōyō nochi no tsuki no en, Jūni tsuki no uchi)",
    "artist": "Utagawa Kunisada",
    "objectDate": "1854",
    "begin": 1854,
@@ -11423,7 +11423,7 @@
   },
   {
    "objectId": 53786,
-   "title": "諸國名橋奇覧　山城あらし山吐月橋　|Togetsu Bridge at Arashiyama in Yamashiro, from the series Remarkable Views of Bridges in Various Prov",
+   "title": "諸國名橋奇覧　山城あらし山吐月橋　|Togetsu Bridge at Arashiyama in Yamashiro, from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830",
    "begin": 1820,
@@ -11433,7 +11433,7 @@
   },
   {
    "objectId": 53787,
-   "title": "諸國名橋奇覧　かうつけ佐野ふなはしの古づ|Old View of the Boat-bridge at Sano in Kōzuke Province (Kōzuke Sano funabashi no kozu), from the se",
+   "title": "諸國名橋奇覧　かうつけ佐野ふなはしの古づ|Old View of the Boat-bridge at Sano in Kōzuke Province (Kōzuke Sano funabashi no kozu), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830",
    "begin": 1820,
@@ -11443,7 +11443,7 @@
   },
   {
    "objectId": 53788,
-   "title": "諸國名橋奇覧　足利行道山くものかけはし|The Hanging-cloud Bridge at Mount Gyōdō near Ashikaga (Ashikaga Gyōdōzan kumo no kakehashi), from th",
+   "title": "諸國名橋奇覧　足利行道山くものかけはし|The Hanging-cloud Bridge at Mount Gyōdō near Ashikaga (Ashikaga Gyōdōzan kumo no kakehashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830",
    "begin": 1820,
@@ -11453,7 +11453,7 @@
   },
   {
    "objectId": 53789,
-   "title": "諸國名橋奇覧　飛越の堺つりはし|The Suspension Bridge on the Border of Hida and Etchū Provinces (Hietsu no sakai tsuribashi), from the s",
+   "title": "諸國名橋奇覧　飛越の堺つりはし|The Suspension Bridge on the Border of Hida and Etchū Provinces (Hietsu no sakai tsuribashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830",
    "begin": 1820,
@@ -11463,7 +11463,7 @@
   },
   {
    "objectId": 53790,
-   "title": "諸國名橋奇覧　すほうの国きんたいはし|Kintai Bridge in Suō Province (Suō no kuni Kintaibashi), from the series Remarkable Views of Bridges ",
+   "title": "諸國名橋奇覧　すほうの国きんたいはし|Kintai Bridge in Suō Province (Suō no kuni Kintaibashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830",
    "begin": 1820,
@@ -11473,7 +11473,7 @@
   },
   {
    "objectId": 53791,
-   "title": "諸國名橋奇覧　東海道岡崎矢はぎのはし|Yahagi Bridge at Okazaki on the Tōkaidō (Tōkaidō Okazaki Yahagi no hashi), from the series Remarkable",
+   "title": "諸國名橋奇覧　東海道岡崎矢はぎのはし|Yahagi Bridge at Okazaki on the Tōkaidō (Tōkaidō Okazaki Yahagi no hashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830",
    "begin": 1820,
@@ -11483,7 +11483,7 @@
   },
   {
    "objectId": 53792,
-   "title": "諸國名橋奇覧　かめゐど天神たいこはし|The Arched Bridge at Kameido Tenjin Shrine (Kameido Tenjin Taikobashi), from the series Remarkable Vi",
+   "title": "諸國名橋奇覧　かめゐど天神たいこはし|The Arched Bridge at Kameido Tenjin Shrine (Kameido Tenjin Taikobashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830",
    "begin": 1820,
@@ -11493,7 +11493,7 @@
   },
   {
    "objectId": 53793,
-   "title": "諸國名橋奇覧　三河の八ツ橋の古図|Ancient View of Yatsuhashi in Mikawa Province (Mikawa no Yatsuhashi no kozu), from the series Remarkabl",
+   "title": "諸國名橋奇覧　三河の八ツ橋の古図|Ancient View of Yatsuhashi in Mikawa Province (Mikawa no Yatsuhashi no kozu), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830",
    "begin": 1820,
@@ -11523,7 +11523,7 @@
   },
   {
    "objectId": 53845,
-   "title": "冨嶽三十六景　御厩川岸より両国橋夕陽見|Viewing the Sunset over Ryōgoku Bridge from the Onmayagashi Embankment (Onmayagashi yori Ryōgokubash",
+   "title": "冨嶽三十六景　御厩川岸より両国橋夕陽見|Viewing the Sunset over Ryōgoku Bridge from the Onmayagashi Embankment (Onmayagashi yori Ryōgokubashi sekiyō o miru), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -11583,7 +11583,7 @@
   },
   {
    "objectId": 53920,
-   "title": "百人一首　うはかゑとき　源宗于朝臣|Poem by Minamoto no Muneyuki Ason, from the series One Hundred Poems Explained by the Nurse (Hyakunin ",
+   "title": "百人一首　うはかゑとき　源宗于朝臣|Poem by Minamoto no Muneyuki Ason, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1839",
    "begin": 1839,
@@ -12503,7 +12503,7 @@
   },
   {
    "objectId": 54065,
-   "title": "『鳥合』　桜草に雲雀|Skylarks and Primroses,” from the Series An Array of Birds (Tori awase), from Spring Rain Surimono Album (Har",
+   "title": "『鳥合』　桜草に雲雀|Skylarks and Primroses,” from the Series An Array of Birds (Tori awase), from Spring Rain Surimono Album (Harusame surimono-jō, vol. 3)",
    "artist": "Kubo Shunman",
    "objectDate": "ca. 1805–10",
    "begin": 1800,
@@ -12513,7 +12513,7 @@
   },
   {
    "objectId": 54066,
-   "title": "『鳥合』　桃花に目白|Japanese White-eyes on a Branch of Peach Tree,” from the Series An Array of Birds (Tori awase), from Spring R",
+   "title": "『鳥合』　桃花に目白|Japanese White-eyes on a Branch of Peach Tree,” from the Series An Array of Birds (Tori awase), from Spring Rain Surimono Album (Harusame surimono-jō, vol. 3)",
    "artist": "Kubo Shunman",
    "objectDate": "ca. 1805–10",
    "begin": 1800,
@@ -12533,7 +12533,7 @@
   },
   {
    "objectId": 54068,
-   "title": "鉢梅、懐中日時計、羅針盤|Bonsai Plum, Compass, and Pocket Sundial with Design of Calendar, from Spring Rain Surimono Album (Harusame",
+   "title": "鉢梅、懐中日時計、羅針盤|Bonsai Plum, Compass, and Pocket Sundial with Design of Calendar, from Spring Rain Surimono Album (Harusame surimono-jō, vol. 3)",
    "artist": "Ryūryūkyo Shinsai",
    "objectDate": "1806",
    "begin": 1806,
@@ -12543,7 +12543,7 @@
   },
   {
    "objectId": 54069,
-   "title": "『蝶揃・寵愛』帯と簪|Roll of Cloth for an Obi and Tortoise-shell Hair Ornaments (“Presents for One’s Beloved”), from the Butterfly",
+   "title": "『蝶揃・寵愛』帯と簪|Roll of Cloth for an Obi and Tortoise-shell Hair Ornaments (“Presents for One’s Beloved”), from the Butterfly Series, from Spring Rain Surimono Album (Harusame surimono-jō, vol. 3)",
    "artist": "Ryūryūkyo Shinsai",
    "objectDate": "ca. 1805–10",
    "begin": 1800,
@@ -12953,7 +12953,7 @@
   },
   {
    "objectId": 54122,
-   "title": "「牛和歌十二段矢矧長者」|Dance Robe and Koto (Zither) Representing the Wealthy Man of Yahagi from the Jōruri Play Ushiwaka (Minamoto",
+   "title": "「牛和歌十二段矢矧長者」|Dance Robe and Koto (Zither) Representing the Wealthy Man of Yahagi from the Jōruri Play Ushiwaka (Minamoto no Yoshitsune)",
    "artist": "Ryūryūkyo Shinsai",
    "objectDate": "probably 1810",
    "begin": 1810,
@@ -13083,7 +13083,7 @@
   },
   {
    "objectId": 54135,
-   "title": "印籠と牛根付『春雨集』　摺物帖|Lacquer Inrō with Waterbirds and Ox-shaped Netsuke in a BoxFrom the Spring Rain Collection (Harusame shū",
+   "title": "印籠と牛根付『春雨集』　摺物帖|Lacquer Inrō with Waterbirds and Ox-shaped Netsuke in a BoxFrom the Spring Rain Collection (Harusame shū), vol. 3",
    "artist": "Totoya Hokkei",
    "objectDate": "probably 1817",
    "begin": 1817,
@@ -13093,7 +13093,7 @@
   },
   {
    "objectId": 54136,
-   "title": "胴乱印籠と懐中時計根付『春雨集』　摺物帖|Dōran (Square Leather Box Used as an Inrō) with a Watch as a NetsukeFrom the Spring Rain Collection",
+   "title": "胴乱印籠と懐中時計根付『春雨集』　摺物帖|Dōran (Square Leather Box Used as an Inrō) with a Watch as a NetsukeFrom the Spring Rain Collection (Harusame shū), vol. 3",
    "artist": "Hokusen Taigaku",
    "objectDate": "probably 1817",
    "begin": 1817,
@@ -15033,7 +15033,7 @@
   },
   {
    "objectId": 54442,
-   "title": "『和歌三神』　柿本人麻呂|Kakinomoto no Hitomaro (ca. 662–710), One of the Three Gods of PoetryFrom the Spring Rain Collection (Harus",
+   "title": "『和歌三神』　柿本人麻呂|Kakinomoto no Hitomaro (ca. 662–710), One of the Three Gods of PoetryFrom the Spring Rain Collection (Harusame shū), vol. 1",
    "artist": "Yashima Gakutei",
    "objectDate": "ca. 1820s",
    "begin": 1820,
@@ -15043,7 +15043,7 @@
   },
   {
    "objectId": 54443,
-   "title": "八島岳亭画　『和歌三神』　衣通姫|Sotoori-hime (early 5th century), One of the Three Gods of PoetryFrom the Spring Rain Collection (Harus",
+   "title": "八島岳亭画　『和歌三神』　衣通姫|Sotoori-hime (early 5th century), One of the Three Gods of PoetryFrom the Spring Rain Collection (Harusame shū), vol. 1",
    "artist": "Yashima Gakutei",
    "objectDate": "ca. 1820s",
    "begin": 1820,
@@ -15053,7 +15053,7 @@
   },
   {
    "objectId": 54444,
-   "title": "八島岳亭画　『和歌三神』　山部赤人|Yamabe no Akahito (active 724–736), One of the Three Gods of PoetryFrom the Spring Rain Collection (Ha",
+   "title": "八島岳亭画　『和歌三神』　山部赤人|Yamabe no Akahito (active 724–736), One of the Three Gods of PoetryFrom the Spring Rain Collection (Harusame shū), vol. 1",
    "artist": "Yashima Gakutei",
    "objectDate": "ca. 1820s",
    "begin": 1820,
@@ -15603,7 +15603,7 @@
   },
   {
    "objectId": 54504,
-   "title": "「一陽連文房四友 硯 伯英」『春雨集』　摺物帖|The Chinese Calligrapher Boying (Japanese: Hakuei; also known as the “Sage of Cursive Script”); ",
+   "title": "「一陽連文房四友 硯 伯英」『春雨集』　摺物帖|The Chinese Calligrapher Boying (Japanese: Hakuei; also known as the “Sage of Cursive Script”); “Inkstone” (Suzuri), from Four Friends of the Writing Table for the Ichiyō Poetry Circle (Ichiyō-ren Bunbō shiyū)  From the Spring Rain Collection (Harusame shū), vol. 1",
    "artist": "Yashima Gakutei",
    "objectDate": "ca. 1827",
    "begin": 1817,
@@ -15643,7 +15643,7 @@
   },
   {
    "objectId": 54508,
-   "title": "「一陽連文房四友　筆　道風」『春雨集』　摺物帖|The Heian Court Calligrapher Ono no Tōfū (894–966); “Calligraphy Brush” (Fude), from Four Friend",
+   "title": "「一陽連文房四友　筆　道風」『春雨集』　摺物帖|The Heian Court Calligrapher Ono no Tōfū (894–966); “Calligraphy Brush” (Fude), from Four Friends of the Writing Table for the Ichiyō Poetry Circle (Ichiyō-ren Bunbō shiyū)From the Spring Rain Collection (Harusame shū), vol. 1",
    "artist": "Yashima Gakutei",
    "objectDate": "ca. 1827",
    "begin": 1817,
@@ -15653,7 +15653,7 @@
   },
   {
    "objectId": 54509,
-   "title": "「一陽連文房四友　紙　女凢」『春雨集』　摺物帖 |Nuji (Japanese: Joki; female attendant who compiled writings by Daoist sages); “Paper” (Kami), ",
+   "title": "「一陽連文房四友　紙　女凢」『春雨集』　摺物帖 |Nuji (Japanese: Joki; female attendant who compiled writings by Daoist sages); “Paper” (Kami), from Four Friends of the Writing Table for the Ichiyō Poetry Circle (Ichiyō-ren Bunbō shiyū)From the Spring Rain Collection (Harusame shū), vol. 1",
    "artist": "Yashima Gakutei",
    "objectDate": "ca. 1827",
    "begin": 1817,
@@ -15663,7 +15663,7 @@
   },
   {
    "objectId": 54510,
-   "title": "「一陽連文房四友　墨　玄宗皇帝」『春雨集』　摺物帖  |Emperor Xuanzong (Japanese: Gensō) and Daoist Magician Lo Gongyuan Arising from an Inkstone;",
+   "title": "「一陽連文房四友　墨　玄宗皇帝」『春雨集』　摺物帖  |Emperor Xuanzong (Japanese: Gensō) and Daoist Magician Lo Gongyuan Arising from an Inkstone; “Ink” (Sumi), from Four Friends of the Writing Table for the Ichiyō Poetry Circle (Ichiyō-ren Bunbō shiyū)From the Spring Rain Collection (Harusame shū), vol. 1",
    "artist": "Yashima Gakutei",
    "objectDate": "ca. 1827",
    "begin": 1817,
@@ -15683,7 +15683,7 @@
   },
   {
    "objectId": 54512,
-   "title": "鶏図衝立を見る鶏|Cock Eyeing a Free-standing Screen Painted with Cock, Hen, and Chicks, from Spring Rain Surimono Album (Harusam",
+   "title": "鶏図衝立を見る鶏|Cock Eyeing a Free-standing Screen Painted with Cock, Hen, and Chicks, from Spring Rain Surimono Album (Harusame surimono-jō), vol. 1",
    "artist": "Yanagawa Shigenobu",
    "objectDate": "probably 1813",
    "begin": 1813,
@@ -15713,7 +15713,7 @@
   },
   {
    "objectId": 54515,
-   "title": "衝立、虎図、文具一式|Desk Screen, Writing Set, Painting of Tiger, and Mounting Paraphernalia, from Spring Rain Surimono Album (Har",
+   "title": "衝立、虎図、文具一式|Desk Screen, Writing Set, Painting of Tiger, and Mounting Paraphernalia, from Spring Rain Surimono Album (Harusame surimono-jō, vol. 1)",
    "artist": "Ryūryūkyo Shinsai",
    "objectDate": "probably 1818",
    "begin": 1818,
@@ -17293,7 +17293,7 @@
   },
   {
    "objectId": 54801,
-   "title": "『春雨集』　摺物帖窪俊満画　『鎌倉志』　「影向石」|Spring Rain Collection (Harusame shū), vol. 1: “Offering Incense to the Deity of the Stone” (Y",
+   "title": "『春雨集』　摺物帖窪俊満画　『鎌倉志』　「影向石」|Spring Rain Collection (Harusame shū), vol. 1: “Offering Incense to the Deity of the Stone” (Yōgōishi), from the series History of Kamakura (Kamakura shi)",
    "artist": "Kubo Shunman",
    "objectDate": "early to mid-1810s",
    "begin": 1810,
@@ -17453,7 +17453,7 @@
   },
   {
    "objectId": 54817,
-   "title": "「文齊側五行火　花街細見合」|Courtesan by a Lantern, “Fire,” from the series Five Elements for the Bunsai Poetry Group, a Guide to the",
+   "title": "「文齊側五行火　花街細見合」|Courtesan by a Lantern, “Fire,” from the series Five Elements for the Bunsai Poetry Group, a Guide to the Yoshiwara Pleasure Quarters",
    "artist": "Totoya Hokkei",
    "objectDate": "ca. 1820",
    "begin": 1810,
@@ -17763,7 +17763,7 @@
   },
   {
    "objectId": 54849,
-   "title": "礫川亭永理 (鳥橋斎栄里)画　「畧六玉川　井出の山吹」|Mountain Roses of Ide (Ide no Yamabuki), from the series A Parodic Six Jewel Rivers (Yatsush",
+   "title": "礫川亭永理 (鳥橋斎栄里)画　「畧六玉川　井出の山吹」|Mountain Roses of Ide (Ide no Yamabuki), from the series A Parodic Six Jewel Rivers (Yatsushi Mu-Tamagawa)",
    "artist": "Rekisentei Eiri",
    "objectDate": "ca. 1795",
    "begin": 1785,
@@ -17883,7 +17883,7 @@
   },
   {
    "objectId": 54862,
-   "title": "喜多川歌麿画  「名取酒六家選 　兵庫屋華妻 　坂上の剣菱」|\"Hanazuma of Hyōgoya, Kenbishi of Sakagami” from the series The Peers of Saké Likened to ",
+   "title": "喜多川歌麿画  「名取酒六家選 　兵庫屋華妻 　坂上の剣菱」|\"Hanazuma of Hyōgoya, Kenbishi of Sakagami” from the series The Peers of Saké Likened to Select Denizens of Six Houses (Natori zake rokkasen: Hyōgoya Hanazuma, Sakagami no Kenbishi)",
    "artist": "Kitagawa Utamaro",
    "objectDate": "ca. 1794",
    "begin": 1784,
@@ -17943,7 +17943,7 @@
   },
   {
    "objectId": 54868,
-   "title": "冨嶽三十六景　甲州三坂水面|Reflection in Lake at Misaka in Kai Province (Kōshū Misaka suimen), from the series Thirty-six Views of Mo",
+   "title": "冨嶽三十六景　甲州三坂水面|Reflection in Lake at Misaka in Kai Province (Kōshū Misaka suimen), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -17963,7 +17963,7 @@
   },
   {
    "objectId": 54870,
-   "title": "喜多川歌麿画  絵兄弟娘道成寺  見立猿廻し  「絵兄弟」|A Woman Dressing a Girl for a the Kabuki Dance “Musume Dojōji,” with “Brother Picture” (E-",
+   "title": "喜多川歌麿画  絵兄弟娘道成寺  見立猿廻し  「絵兄弟」|A Woman Dressing a Girl for a the Kabuki Dance “Musume Dojōji,” with “Brother Picture” (E-kyōdai) of a Monkey Trainer",
    "artist": "Kitagawa Utamaro",
    "objectDate": "ca. 1795–96",
    "begin": 1795,
@@ -18153,7 +18153,7 @@
   },
   {
    "objectId": 54889,
-   "title": "百人一首　乳母かえ説　元良親王|Poem by Motoyoshi Shinnō, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba g",
+   "title": "百人一首　乳母かえ説　元良親王|Poem by Motoyoshi Shinnō, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1839",
    "begin": 1829,
@@ -18463,7 +18463,7 @@
   },
   {
    "objectId": 54930,
-   "title": "富士三十六景　伊豆の山中|View of Fuji san from the Mountains in the Province of Izu (Izu no Sanchu), from the series Thirty-six View",
+   "title": "富士三十六景　伊豆の山中|View of Fuji san from the Mountains in the Province of Izu (Izu no Sanchu), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "1858",
    "begin": 1858,
@@ -19033,7 +19033,7 @@
   },
   {
    "objectId": 54994,
-   "title": "『浅草側いせ暦』　節分の悪霊ばらい『春雨集』　摺物帖 |“Beans for Tossing During Setsubun Exorcism Ceremony,” from the series Ise Calendars for the",
+   "title": "『浅草側いせ暦』　節分の悪霊ばらい『春雨集』　摺物帖 |“Beans for Tossing During Setsubun Exorcism Ceremony,” from the series Ise Calendars for the Asakusa Group (Asakusa-gawa Ise goyomi)From the Spring Rain Collection (Harusame shū), vol. 2",
    "artist": "Kubo Shunman",
    "objectDate": "1810s",
    "begin": 1810,
@@ -19043,7 +19043,7 @@
   },
   {
    "objectId": 54995,
-   "title": "『浅草側いせ暦』　文房具と梅熨斗『春雨集』　摺物帖 |“Desk with Writing Set and Plum Flowers,” from the series Ise Calendars for the Asakusa Group",
+   "title": "『浅草側いせ暦』　文房具と梅熨斗『春雨集』　摺物帖 |“Desk with Writing Set and Plum Flowers,” from the series Ise Calendars for the Asakusa Group (Asakusa-gawa Ise goyomi)From the Spring Rain Collection (Harusame shū), vol. 2",
    "artist": "Kubo Shunman",
    "objectDate": "probably 1814 (Year of the Dog)",
    "begin": 1814,
@@ -19053,7 +19053,7 @@
   },
   {
    "objectId": 54996,
-   "title": "『名物革仝印籠仝根付』 人形手金唐革　菖蒲革『春雨集』　摺物帖|“Gold-decorated Leather with Figure of a Chinese Boy” and “Patterned Leather,” from the ",
+   "title": "『名物革仝印籠仝根付』 人形手金唐革　菖蒲革『春雨集』　摺物帖|“Gold-decorated Leather with Figure of a Chinese Boy” and “Patterned Leather,” from the series Famous Leathers, Inrō, and Netsuke Meibutsu kawa, inrō, netsuke)From the Spring Rain Collection (Harusame shū), vol. 2",
    "artist": "Kubo Shunman",
    "objectDate": "1810s",
    "begin": 1810,
@@ -19063,7 +19063,7 @@
   },
   {
    "objectId": 54997,
-   "title": "『名物革仝印籠仝根付』 印籠根付『春雨集』　摺物帖|“Inrō and Netsuke,” from the series Famous Leathers, Inrō, and Netsuke (Meibutsu kawa, inrō, n",
+   "title": "『名物革仝印籠仝根付』 印籠根付『春雨集』　摺物帖|“Inrō and Netsuke,” from the series Famous Leathers, Inrō, and Netsuke (Meibutsu kawa, inrō, netsuke)From the Spring Rain Collection (Harusame shū), vol. 2",
    "artist": "Kubo Shunman",
    "objectDate": "1810s",
    "begin": 1810,
@@ -19073,7 +19073,7 @@
   },
   {
    "objectId": 54998,
-   "title": "『浅草側いせ暦』　弓道具『春雨集』　摺物帖|“Bow, Arrows, Target, and Other Outfits for Archery,” from the series Ise Calendars for the Asakus",
+   "title": "『浅草側いせ暦』　弓道具『春雨集』　摺物帖|“Bow, Arrows, Target, and Other Outfits for Archery,” from the series Ise Calendars for the Asakusa Group (Asakusa-gawa Ise goyomi)From the Spring Rain Collection (Harusame shū), vol. 2",
    "artist": "Kubo Shunman",
    "objectDate": "ca. 1814",
    "begin": 1804,
@@ -19233,7 +19233,7 @@
   },
   {
    "objectId": 55019,
-   "title": "諸國瀧廻リ　下野黒髪山 きりふりの滝|Kirifuri Waterfall at Kurokami Mountain in Shimotsuke (Shimotsuke Kurokamiyama Kirifuri no taki), fro",
+   "title": "諸國瀧廻リ　下野黒髪山 きりふりの滝|Kirifuri Waterfall at Kurokami Mountain in Shimotsuke (Shimotsuke Kurokamiyama Kirifuri no taki), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1832",
    "begin": 1822,
@@ -19243,7 +19243,7 @@
   },
   {
    "objectId": 55020,
-   "title": "諸國瀧廻リ　木曾海道小野ノ瀑布|Ono Waterfall on the Kisokaidō (Kisokaidō Ono no bakufu), from the series A Tour of Waterfalls in Variou",
+   "title": "諸國瀧廻リ　木曾海道小野ノ瀑布|Ono Waterfall on the Kisokaidō (Kisokaidō Ono no bakufu), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1832",
    "begin": 1822,
@@ -19253,7 +19253,7 @@
   },
   {
    "objectId": 55021,
-   "title": "諸國瀧廻リ　東海道坂ノ下 清瀧くわんおん|Kiyotaki Kannon Waterfall at Sakanoshita on the Tōkaidō (Tōkaidō Sakanoshita Kiyotaki kannon), from",
+   "title": "諸國瀧廻リ　東海道坂ノ下 清瀧くわんおん|Kiyotaki Kannon Waterfall at Sakanoshita on the Tōkaidō (Tōkaidō Sakanoshita Kiyotaki kannon), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1832",
    "begin": 1822,
@@ -19263,7 +19263,7 @@
   },
   {
    "objectId": 55022,
-   "title": "諸國瀧廻リ　木曽路ノ奥 阿彌陀ヶ瀧|The Amida Falls in the Far Reaches of the Kisokaidō Road (Kisoji no oku Amida-ga-taki), from the serie",
+   "title": "諸國瀧廻リ　木曽路ノ奥 阿彌陀ヶ瀧|The Amida Falls in the Far Reaches of the Kisokaidō Road (Kisoji no oku Amida-ga-taki), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1827",
    "begin": 1817,
@@ -19283,7 +19283,7 @@
   },
   {
    "objectId": 55024,
-   "title": "諸國瀧廻リ　相州大山ろうべんの瀧|Rōben Waterfall at Ōyama in Sagami Province (Sōshū Ōyama Rōben no taki), from the series A Tour of Wate",
+   "title": "諸國瀧廻リ　相州大山ろうべんの瀧|Rōben Waterfall at Ōyama in Sagami Province (Sōshū Ōyama Rōben no taki), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1827",
    "begin": 1817,
@@ -19293,7 +19293,7 @@
   },
   {
    "objectId": 55025,
-   "title": "諸國瀧廻リ　美濃ノ国養老の滝|Yōrō Waterfall in Mino Province (Mino no Yōrō no taki), from the series A Tour of Waterfalls in Various P",
+   "title": "諸國瀧廻リ　美濃ノ国養老の滝|Yōrō Waterfall in Mino Province (Mino no Yōrō no taki), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1827",
    "begin": 1817,
@@ -19443,7 +19443,7 @@
   },
   {
    "objectId": 55044,
-   "title": "「青楼美人六花仙　扇屋花扇」|The Courtesan Hanaōgi of the Ōgiya Brothel (Ōgiya Hanaōgi), from the series Beauties of the Pleasure Quar",
+   "title": "「青楼美人六花仙　扇屋花扇」|The Courtesan Hanaōgi of the Ōgiya Brothel (Ōgiya Hanaōgi), from the series Beauties of the Pleasure Quarters as Six Floral Immortals (Seirō bijin rokkasen)",
    "artist": "Chōbunsai Eishi 鳥文斎栄之",
    "objectDate": "ca. 1794 (Kansei 6)",
    "begin": 1784,
@@ -19573,7 +19573,7 @@
   },
   {
    "objectId": 55058,
-   "title": "『春雨集』　摺物帖柳々居辰斎画　鎌倉の鶴岡八幡宮に鶴|Spring Rain Collection (Harusame shū), vol. 2: Cranes at Tsurugaoka Hachimangō Shrine in Kama",
+   "title": "『春雨集』　摺物帖柳々居辰斎画　鎌倉の鶴岡八幡宮に鶴|Spring Rain Collection (Harusame shū), vol. 2: Cranes at Tsurugaoka Hachimangō Shrine in Kamakura",
    "artist": "Ryūryūkyo Shinsai",
    "objectDate": "1810s",
    "begin": 1810,
@@ -19593,7 +19593,7 @@
   },
   {
    "objectId": 55060,
-   "title": "『春雨集』　摺物帖柳々居辰斎画　若松|Spring Rain Collection (Harusame shū), vol. 2: Pine Shoots and Accoutrements for New Year’s Celebrati",
+   "title": "『春雨集』　摺物帖柳々居辰斎画　若松|Spring Rain Collection (Harusame shū), vol. 2: Pine Shoots and Accoutrements for New Year’s Celebrations",
    "artist": "Ryūryūkyo Shinsai",
    "objectDate": "19th century",
    "begin": 1800,
@@ -19613,7 +19613,7 @@
   },
   {
    "objectId": 55062,
-   "title": "『春雨集』　摺物帖窪俊満画　クサボタン、萩、シャ  ガ、ツバキ、モチツバキ|Spring Rain Collection (Harusame shū), vol. 2: Cut Flowers: Clematis, Bush Clover,",
+   "title": "『春雨集』　摺物帖窪俊満画　クサボタン、萩、シャ  ガ、ツバキ、モチツバキ|Spring Rain Collection (Harusame shū), vol. 2: Cut Flowers: Clematis, Bush Clover, Iris, Camellia, and Azalea",
    "artist": "Kubo Shunman",
    "objectDate": "1815 (Year of the Ox)",
    "begin": 1815,
@@ -19933,7 +19933,7 @@
   },
   {
    "objectId": 55096,
-   "title": "富士三十六景　相州三浦の海上|Fuji from Miura, Sagami (Soshu Miura no Kaijo), from the series Thirty-six Views of Mount Fuji (Fugaku sa",
+   "title": "富士三十六景　相州三浦の海上|Fuji from Miura, Sagami (Soshu Miura no Kaijo), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "1858",
    "begin": 1858,
@@ -20313,7 +20313,7 @@
   },
   {
    "objectId": 55138,
-   "title": "『青楼七小町』 「玉屋内花紫」|“Hanamurasaki of the Tamaya,” from the series Seven Komachi of the Pleasure Quarters (Seirō Nana Komachi",
+   "title": "『青楼七小町』 「玉屋内花紫」|“Hanamurasaki of the Tamaya,” from the series Seven Komachi of the Pleasure Quarters (Seirō Nana Komachi)",
    "artist": "Kitagawa Utamaro",
    "objectDate": "ca. 1790",
    "begin": 1780,
@@ -20683,7 +20683,7 @@
   },
   {
    "objectId": 55182,
-   "title": "『東風俗福づくし　大 礼ふく』|“Ceremonial Attire” from the series An Array of Auspicious Customs of Eastern Japan (Azuma fūzoku, fukuz",
+   "title": "『東風俗福づくし　大 礼ふく』|“Ceremonial Attire” from the series An Array of Auspicious Customs of Eastern Japan (Azuma fūzoku, fukuzukushi: Tairei fuku)",
    "artist": "Yōshū (Hashimoto) Chikanobu",
    "objectDate": "ca. 1889",
    "begin": 1879,
@@ -20713,7 +20713,7 @@
   },
   {
    "objectId": 55185,
-   "title": "『東風俗福づくし　洋 ふく』|Western Clothing from the series An Array of Auspicious Customs of Eastern Japan (Azuma fūzoku, fukuzukus",
+   "title": "『東風俗福づくし　洋 ふく』|Western Clothing from the series An Array of Auspicious Customs of Eastern Japan (Azuma fūzoku, fukuzukushi-Yōfuku)",
    "artist": "Yōshū (Hashimoto) Chikanobu",
    "objectDate": "1889",
    "begin": 1889,
@@ -21043,7 +21043,7 @@
   },
   {
    "objectId": 55223,
-   "title": "冨嶽三十六景　東海道品川御殿山の不二|Fuji from Gotenyama on the Tōkaidō at Shinagawa (Tōkaidō Shinagawa Gotenyama no Fuji), from the serie",
+   "title": "冨嶽三十六景　東海道品川御殿山の不二|Fuji from Gotenyama on the Tōkaidō at Shinagawa (Tōkaidō Shinagawa Gotenyama no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21093,7 +21093,7 @@
   },
   {
    "objectId": 55228,
-   "title": "冨嶽三十六景　東海道江尻田子の浦略図|Tago Bay near Ejiri on the Tōkaidō (Tōkaidō Ejiri Tago no ura ryaku zu), from the series Thirty-six V",
+   "title": "冨嶽三十六景　東海道江尻田子の浦略図|Tago Bay near Ejiri on the Tōkaidō (Tōkaidō Ejiri Tago no ura ryaku zu), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21133,7 +21133,7 @@
   },
   {
    "objectId": 55232,
-   "title": "新皇居於テ正殿憲法発布式之図|Illustration of the Issuing of the State Constitution in the State Chamber of the New Imperial Palace (Sh",
+   "title": "新皇居於テ正殿憲法発布式之図|Illustration of the Issuing of the State Constitution in the State Chamber of the New Imperial Palace (Shin kōkyo ni oite seiden kenpō happushiki no zu)",
    "artist": "Adachi Ginkō",
    "objectDate": "March 14, 1889",
    "begin": 1889,
@@ -21173,7 +21173,7 @@
   },
   {
    "objectId": 55236,
-   "title": "冨嶽三十六景　東海道金谷の不二|Fuji Seen from Kanaya on the Tōkaidō (Tōkaidō Kanaya no Fuji), from the series Thirty-six Views of Mount",
+   "title": "冨嶽三十六景　東海道金谷の不二|Fuji Seen from Kanaya on the Tōkaidō (Tōkaidō Kanaya no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21193,7 +21193,7 @@
   },
   {
    "objectId": 55238,
-   "title": "冨嶽三十六景　江都駿河町三井見世略図|Mitsui Shop at Surugachō in Edo (Edo Surugachō Mitsui mise ryaku zu), from the series Thirty-six View",
+   "title": "冨嶽三十六景　江都駿河町三井見世略図|Mitsui Shop at Surugachō in Edo (Edo Surugachō Mitsui mise ryaku zu), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21263,7 +21263,7 @@
   },
   {
    "objectId": 55246,
-   "title": "Shinkokyo Oite Seiden Kempo Happu no zu|View of the Issuance of the State Constitution in the State Chamber of the New I",
+   "title": "Shinkokyo Oite Seiden Kempo Happu no zu|View of the Issuance of the State Constitution in the State Chamber of the New Imperial Palace",
    "artist": "Adachi Ginkō",
    "objectDate": "March 2, 1889 (Meiji 22)",
    "begin": 1889,
@@ -21273,7 +21273,7 @@
   },
   {
    "objectId": 55247,
-   "title": "Shinkokyo Oite Seiden Kempo Happu no zu|View of the Issuance of the State Constitution in the State Chamber of the New I",
+   "title": "Shinkokyo Oite Seiden Kempo Happu no zu|View of the Issuance of the State Constitution in the State Chamber of the New Imperial Palace",
    "artist": "Adachi Ginkō",
    "objectDate": "March 2, 1889 (Meiji 22)",
    "begin": 1889,
@@ -21403,7 +21403,7 @@
   },
   {
    "objectId": 55261,
-   "title": "『鹿児島賊徒鎮静依諸将 天杯頂戴之図』|Leaders of the Pacification of the Kagoshima Rebels Celebrating with Cups of Wine from the Emperor (",
+   "title": "『鹿児島賊徒鎮静依諸将 天杯頂戴之図』|Leaders of the Pacification of the Kagoshima Rebels Celebrating with Cups of Wine from the Emperor (Kagoshima zokuto chinsei ni yotte shoshō tenhai chōdai no zu)",
    "artist": "Yōshū (Hashimoto) Chikanobu",
    "objectDate": "September 20th, 1877",
    "begin": 1877,
@@ -21433,7 +21433,7 @@
   },
   {
    "objectId": 55264,
-   "title": "『上野第三回内国勧業 博覧会御幸之図』|Visit of the Empress to the Third National Industrial Promotional Exhibition at Ueno Park  (Ueno dai",
+   "title": "『上野第三回内国勧業 博覧会御幸之図』|Visit of the Empress to the Third National Industrial Promotional Exhibition at Ueno Park  (Ueno dai sankai  naikoku kangyō hakuran kai gyokō no zu)",
    "artist": "Yōshū (Hashimoto) Chikanobu",
    "objectDate": "1889",
    "begin": 1889,
@@ -21473,7 +21473,7 @@
   },
   {
    "objectId": 55268,
-   "title": "「摂府真助」「市川子團次」「岸野年秋　市川左團次」 「西条高盛　市川團十郎」 「倉田進八郎 尾上菊五郎」「正太郎 中村仲太郎」「孫市 尾上菊之介」「徳丸 市川幸作」西南雲晴朝東風|Ichikawa Kodanji as Seppu Shin",
+   "title": "「摂府真助」「市川子團次」「岸野年秋　市川左團次」 「西条高盛　市川團十郎」 「倉田進八郎 尾上菊五郎」「正太郎 中村仲太郎」「孫市 尾上菊之介」「徳丸 市川幸作」西南雲晴朝東風|Ichikawa Kodanji as Seppu Shinsuke, Ichikawa Sadanji as Kishino Toshiaki, Ichikawa Danjūrō as Saijō Takamori, Onoe Kikugorō as Kurata Shinpachirō, Nakamura Chūtarō as Shōtarō, Onoe Kikunosuke as Magoichi, and Ichikawa Kōsaku as Tokumaru in the play Okige no kumo harau asa gochi",
    "artist": "Toyohara Kunichika",
    "objectDate": "March, 1878",
    "begin": 1878,
@@ -21503,7 +21503,7 @@
   },
   {
    "objectId": 55272,
-   "title": "凱旋新橋ステーション御着之図|Illustration of the Arrival of the Emperor at Shinbashi Station Following a Victory (Gaisen Shinbashi stē",
+   "title": "凱旋新橋ステーション御着之図|Illustration of the Arrival of the Emperor at Shinbashi Station Following a Victory (Gaisen Shinbashi stēshon gochaku no zu)",
    "artist": "Kobayashi Kiyochika",
    "objectDate": "1895",
    "begin": 1895,
@@ -21523,7 +21523,7 @@
   },
   {
    "objectId": 55274,
-   "title": "三代歌川広重画　『東京名所　従上野公園　不忍池中嶋弁天之景』|View of Benten Shrine on Nakanoshima Island in Shinobazu Pond, Ueno Park, from the series",
+   "title": "三代歌川広重画　『東京名所　従上野公園　不忍池中嶋弁天之景』|View of Benten Shrine on Nakanoshima Island in Shinobazu Pond, Ueno Park, from the series Famous Views of Tokyo (Tōkyō Tokyo meisho yori Ueno kōen Shinobazu no ike Nakanoshima Benten no kei)",
    "artist": "Utagawa Hiroshige III",
    "objectDate": "May, 1881",
    "begin": 1881,
@@ -21593,7 +21593,7 @@
   },
   {
    "objectId": 55281,
-   "title": "冨嶽三十六景　諸人登山|Groups of Mountain Climbers (Shojin tozan), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokk",
+   "title": "冨嶽三十六景　諸人登山|Groups of Mountain Climbers (Shojin tozan), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21603,7 +21603,7 @@
   },
   {
    "objectId": 55282,
-   "title": "冨嶽三十六景　東都浅草本願寺|Honganji at Asakusa in Edo (Tōto Asakusa Honganji), from the series Thirty-six Views of Mount Fuji (Fugak",
+   "title": "冨嶽三十六景　東都浅草本願寺|Honganji at Asakusa in Edo (Tōto Asakusa Honganji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21613,7 +21613,7 @@
   },
   {
    "objectId": 55283,
-   "title": "冨嶽三十六景　東海道吉田|Yoshida on the Tōkaidō (Tōkaidō Yoshida), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokke",
+   "title": "冨嶽三十六景　東海道吉田|Yoshida on the Tōkaidō (Tōkaidō Yoshida), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -21623,7 +21623,7 @@
   },
   {
    "objectId": 55284,
-   "title": "冨嶽三十六景　相州仲原|Nakahara in Sagami Province (Sōshū Nakahara), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūro",
+   "title": "冨嶽三十六景　相州仲原|Nakahara in Sagami Province (Sōshū Nakahara), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21633,7 +21633,7 @@
   },
   {
    "objectId": 55285,
-   "title": "冨嶽三十六景　従千住花街眺望の不二|Fuji Seen in the Distance from Senju Pleasure Quarter (Senju kagai yori chōbō no Fuji), from the serie",
+   "title": "冨嶽三十六景　従千住花街眺望の不二|Fuji Seen in the Distance from Senju Pleasure Quarter (Senju kagai yori chōbō no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21643,7 +21643,7 @@
   },
   {
    "objectId": 55286,
-   "title": "冨嶽三十六景　甲州伊沢暁|Dawn at Isawa in Kai Province (Kōshū Isawa no akatsuki), from the series Thirty-six Views of Mount Fuji (Fu",
+   "title": "冨嶽三十六景　甲州伊沢暁|Dawn at Isawa in Kai Province (Kōshū Isawa no akatsuki), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21653,7 +21653,7 @@
   },
   {
    "objectId": 55287,
-   "title": "冨嶽三十六景　江都駿河町三井見世略図|Mitsui Shop at Surugachō in Edo (Edo Surugachō Mitsui mise ryaku zu), from the series Thirty-six View",
+   "title": "冨嶽三十六景　江都駿河町三井見世略図|Mitsui Shop at Surugachō in Edo (Edo Surugachō Mitsui mise ryaku zu), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21663,7 +21663,7 @@
   },
   {
    "objectId": 55288,
-   "title": "冨嶽三十六景　礫川雪の旦|Morning after the Snow at Koishikawa in Edo (Koishikawa yuki no ashita),  from the series Thirty-six Views ",
+   "title": "冨嶽三十六景　礫川雪の旦|Morning after the Snow at Koishikawa in Edo (Koishikawa yuki no ashita),  from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21673,7 +21673,7 @@
   },
   {
    "objectId": 55289,
-   "title": "葛飾北斎画　冨嶽三十六景　深川万年橋下|Under the Mannen Bridge at Fukagawa (Fukagawa Mannenbashi shita), from the series Thirty-six Views o",
+   "title": "葛飾北斎画　冨嶽三十六景　深川万年橋下|Under the Mannen Bridge at Fukagawa (Fukagawa Mannenbashi shita), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21683,7 +21683,7 @@
   },
   {
    "objectId": 55290,
-   "title": "冨嶽三十六景　駿州片倉茶園の不二|Fuji from the Katakura Tea Fields in Suruga (Sunshū Katakura chaen no Fuji), from the series Thirty-six",
+   "title": "冨嶽三十六景　駿州片倉茶園の不二|Fuji from the Katakura Tea Fields in Suruga (Sunshū Katakura chaen no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21693,7 +21693,7 @@
   },
   {
    "objectId": 55291,
-   "title": "冨嶽三十六景　隅田川関屋の里|Sekiya Village on the Sumida River (Sumidagawa Sekiya no sato), from the series Thirty-six Views of Mount",
+   "title": "冨嶽三十六景　隅田川関屋の里|Sekiya Village on the Sumida River (Sumidagawa Sekiya no sato), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -21703,7 +21703,7 @@
   },
   {
    "objectId": 55306,
-   "title": "百人一首　うはかゑとき　天智天皇|Poem by Tenchi Tennō, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga e",
+   "title": "百人一首　うはかゑとき　天智天皇|Poem by Tenchi Tennō, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1839",
    "begin": 1839,
@@ -21803,7 +21803,7 @@
   },
   {
    "objectId": 55318,
-   "title": "『北国五色墨』「おいらん」|“High-Ranking Courtesan” (Oiran), from the series Five Shades of Ink in the Northern Quarter (Hokkoku gosh",
+   "title": "『北国五色墨』「おいらん」|“High-Ranking Courtesan” (Oiran), from the series Five Shades of Ink in the Northern Quarter (Hokkoku goshiki-zumi),",
    "artist": "Kitagawa Utamaro",
    "objectDate": "1794–95",
    "begin": 1794,
@@ -21813,7 +21813,7 @@
   },
   {
    "objectId": 55319,
-   "title": "喜多川歌麿画  「婦女人相十品」　日傘を差す女|“Woman Holding Up a Parasol” from the series Ten Classes of Women’s Physiognomy (Fujo ninsō jupp",
+   "title": "喜多川歌麿画  「婦女人相十品」　日傘を差す女|“Woman Holding Up a Parasol” from the series Ten Classes of Women’s Physiognomy (Fujo ninsō juppen: Higasa o sasu onna)",
    "artist": "Kitagawa Utamaro",
    "objectDate": "ca. 1792–93",
    "begin": 1792,
@@ -21843,7 +21843,7 @@
   },
   {
    "objectId": 55323,
-   "title": "西国鎮静撫諸将天杯賜之図|Illustration of the Commanders who Pacified Western Japan, Receiving the Emperor's Gift Cups (Saigoku chinb",
+   "title": "西国鎮静撫諸将天杯賜之図|Illustration of the Commanders who Pacified Western Japan, Receiving the Emperor's Gift Cups (Saigoku chinbu shoshō tenpai o tamau no zu)",
    "artist": "Yōshū (Hashimoto) Chikanobu",
    "objectDate": "July, 1877",
    "begin": 1877,
@@ -21853,7 +21853,7 @@
   },
   {
    "objectId": 55325,
-   "title": "参謀本部行啓之図|Illustration of the  Empress Visiting the General Staff Headquarters [to present a tray of bandages]  (Sanbō ho",
+   "title": "参謀本部行啓之図|Illustration of the  Empress Visiting the General Staff Headquarters [to present a tray of bandages]  (Sanbō honbu gyōkei no zu)",
    "artist": "Kobayashi Kiyochika",
    "objectDate": "1895",
    "begin": 1895,
@@ -21873,7 +21873,7 @@
   },
   {
    "objectId": 55327,
-   "title": "東京名所 上野公園内国勧業第二博覧会美術館図|Illustration of the Museum at the Second National Industrial Exhibition in Ueno, from the series ",
+   "title": "東京名所 上野公園内国勧業第二博覧会美術館図|Illustration of the Museum at the Second National Industrial Exhibition in Ueno, from the series Famous Places in Tokyo (Tokyo meisho-Ueno kōen naikoku kangyō daini hakurankai bijutsukan zu)",
    "artist": "Utagawa Hiroshige III",
    "objectDate": "1881",
    "begin": 1881,
@@ -22003,7 +22003,7 @@
   },
   {
    "objectId": 55340,
-   "title": "東京高輪鉄道蒸気車走行之図|Illustration of a Steam Locomotive Running on the Takanawa Railroad in Tokyo (Tōkyō takanawa tetsudō jōkis",
+   "title": "東京高輪鉄道蒸気車走行之図|Illustration of a Steam Locomotive Running on the Takanawa Railroad in Tokyo (Tōkyō takanawa tetsudō jōkisha sōkō no zu)",
    "artist": "Utagawa Kuniteru",
    "objectDate": "ca. 1873",
    "begin": 1863,
@@ -22193,7 +22193,7 @@
   },
   {
    "objectId": 55369,
-   "title": "冨嶽三十六景　東海道保土ケ谷|Hodogaya on the Tōkaidō (Tōkaidō Hodogaya), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūr",
+   "title": "冨嶽三十六景　東海道保土ケ谷|Hodogaya on the Tōkaidō (Tōkaidō Hodogaya), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -22303,7 +22303,7 @@
   },
   {
    "objectId": 55397,
-   "title": "『祇園神輿洗　ねり物姿』「いろは歌の売」|“The Geisha To’e as a Vendor of Poems,” from the series Gion Festival Costume Parade (Gion mikoshi ",
+   "title": "『祇園神輿洗　ねり物姿』「いろは歌の売」|“The Geisha To’e as a Vendor of Poems,” from the series Gion Festival Costume Parade (Gion mikoshi arai nerimono sugata)",
    "artist": "Utagawa Toyokuni I",
    "objectDate": "ca. 1795",
    "begin": 1785,
@@ -22433,7 +22433,7 @@
   },
   {
    "objectId": 55411,
-   "title": "九段坂上靖国神社庭内真図|True View of the Courtyard of Yasukuni Shrine at Kudan Sakaue  (Kudan Sakaue Yasukuni jinsha teinai shin zu",
+   "title": "九段坂上靖国神社庭内真図|True View of the Courtyard of Yasukuni Shrine at Kudan Sakaue  (Kudan Sakaue Yasukuni jinsha teinai shin zu)",
    "artist": "Inoue Yasuji",
    "objectDate": "1888",
    "begin": 1888,
@@ -22573,7 +22573,7 @@
   },
   {
    "objectId": 55433,
-   "title": "Ōhashi Atake no yūdachi|名所江戸百景　大はしあたけの夕立|Sudden Shower over Shin-Ōhashi Bridge and Atake (Ōhashi Atake no yūdachi), from",
+   "title": "Ōhashi Atake no yūdachi|名所江戸百景　大はしあたけの夕立|Sudden Shower over Shin-Ōhashi Bridge and Atake (Ōhashi Atake no yūdachi), from the series One Hundred Famous Views of Edo (Meisho Edo hyakkei)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "1857",
    "begin": 1857,
@@ -22743,7 +22743,7 @@
   },
   {
    "objectId": 55454,
-   "title": "百人一首　乳母か縁説　在原業平|Poem by Ariwara no Narihira, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu ub",
+   "title": "百人一首　乳母か縁説　在原業平|Poem by Ariwara no Narihira, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1839",
    "begin": 1839,
@@ -22753,7 +22753,7 @@
   },
   {
    "objectId": 55455,
-   "title": "浅草観音境内ニ於イテ興行仕候 佛蘭西曲馬|French Equestrian Circus on the grounds of Asakusa Kannon temple  (Asakusa kannon keidai ni oite kō",
+   "title": "浅草観音境内ニ於イテ興行仕候 佛蘭西曲馬|French Equestrian Circus on the grounds of Asakusa Kannon temple  (Asakusa kannon keidai ni oite kōgyō tsukawashi sōrō-Furansu kyokuba)",
    "artist": "Utagawa Kuniteru",
    "objectDate": "1871",
    "begin": 1871,
@@ -22763,7 +22763,7 @@
   },
   {
    "objectId": 55456,
-   "title": "冨嶽三十六景　甲州犬目峠|The Inume Pass in Kai Province (Kōshū Inume tōge), from the series Thirty-six Views of Mount Fuji (Fugaku s",
+   "title": "冨嶽三十六景　甲州犬目峠|The Inume Pass in Kai Province (Kōshū Inume tōge), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -22783,7 +22783,7 @@
   },
   {
    "objectId": 55458,
-   "title": "冨嶽三十六景　東海道保土ケ谷|Hodogaya on the Tōkaidō (Tōkaidō Hodogaya), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūr",
+   "title": "冨嶽三十六景　東海道保土ケ谷|Hodogaya on the Tōkaidō (Tōkaidō Hodogaya), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -22803,7 +22803,7 @@
   },
   {
    "objectId": 55461,
-   "title": "諸國瀧廻リ　東海道坂ノ下 清瀧くわんおん|Kiyotaki Kannon Waterfall at Sakanoshita on the Tōkaidō (Tōkaidō Sakanoshita Kiyotaki kannon), from",
+   "title": "諸國瀧廻リ　東海道坂ノ下 清瀧くわんおん|Kiyotaki Kannon Waterfall at Sakanoshita on the Tōkaidō (Tōkaidō Sakanoshita Kiyotaki kannon), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1832",
    "begin": 1822,
@@ -23193,7 +23193,7 @@
   },
   {
    "objectId": 55503,
-   "title": "冨嶽三十六景　駿州大野新田|The New Fields at Ōno in Suruga Province (Sunshū Ōno shinden), from the series Thirty-six Views of Mount F",
+   "title": "冨嶽三十六景　駿州大野新田|The New Fields at Ōno in Suruga Province (Sunshū Ōno shinden), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -23213,7 +23213,7 @@
   },
   {
    "objectId": 55505,
-   "title": "諸國名橋奇覧　摂洲阿治川口天保山|Tenpōzan at the Mouth of the Aji River in Settsu Province (Sesshū Ajikawaguchi Tenpōzan), from the seri",
+   "title": "諸國名橋奇覧　摂洲阿治川口天保山|Tenpōzan at the Mouth of the Aji River in Settsu Province (Sesshū Ajikawaguchi Tenpōzan), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1827–30",
    "begin": 1827,
@@ -23393,7 +23393,7 @@
   },
   {
    "objectId": 55525,
-   "title": "見立三国志 牛若の源治|Ichimura Kakitsu IV as Ushiwaka no Genji in the Kabuki play A Parody of the Romance of the Three Kingdoms (M",
+   "title": "見立三国志 牛若の源治|Ichimura Kakitsu IV as Ushiwaka no Genji in the Kabuki play A Parody of the Romance of the Three Kingdoms (Mitate Sangokushi-Ushiwaka no Genji)",
    "artist": "Toyohara Kunichika",
    "objectDate": "4th month, 1868",
    "begin": 1868,
@@ -23413,7 +23413,7 @@
   },
   {
    "objectId": 55527,
-   "title": "当世好男子伝」松　「九紋竜支進に比すのざらし語助」三代目市川市蔵|The Actor Ichikawa Ichizō III as Nozarashi Gosuke, likened to Shi Jin the Nine Dragoned",
+   "title": "当世好男子伝」松　「九紋竜支進に比すのざらし語助」三代目市川市蔵|The Actor Ichikawa Ichizō III as Nozarashi Gosuke, likened to Shi Jin the Nine Dragoned (Kyūmonryū Shishin ni hisu), from the “Pine” triptych of the series A Modern Water Margin (Tōsei suikoden)",
    "artist": "Utagawa Kunisada 歌川国貞",
    "objectDate": "1854, 7th month)",
    "begin": 1854,
@@ -23423,7 +23423,7 @@
   },
   {
    "objectId": 55528,
-   "title": "当世好男子伝」松　「花和尚魯智深に比す朝比奈藤兵衛」|The Actor Nakamura Fukusuke I as Asahina Tōbei, likened to Lu Zhishen the Tattooed Priest (Ka",
+   "title": "当世好男子伝」松　「花和尚魯智深に比す朝比奈藤兵衛」|The Actor Nakamura Fukusuke I as Asahina Tōbei, likened to Lu Zhishen the Tattooed Priest (Kaoshō Rochishin ni hisu), from the “Pine” triptych of the series A Modern Water Margin (Tōsei suikoden)",
    "artist": "Utagawa Kunisada 歌川国貞",
    "objectDate": "1854, 7th month)",
    "begin": 1854,
@@ -23433,7 +23433,7 @@
   },
   {
    "objectId": 55529,
-   "title": "「当世好男子伝」松　「行者武松に比す腕の喜三郎」　初代河原崎権十郎|The Actor Kawarazaki Gonjūrō I as Ude no Kisaburō, likened to Wu Song the Ascetic (Gyō",
+   "title": "「当世好男子伝」松　「行者武松に比す腕の喜三郎」　初代河原崎権十郎|The Actor Kawarazaki Gonjūrō I as Ude no Kisaburō, likened to Wu Song the Ascetic (Gyōja Bushō ni hisu), from the “Pine” triptych of the series A Modern Water Margin (Tōsei suikoden)",
    "artist": "Utagawa Kunisada 歌川国貞",
    "objectDate": "1854, 7th month)",
    "begin": 1854,
@@ -23633,7 +23633,7 @@
   },
   {
    "objectId": 55556,
-   "title": "諸国名所図会内　西京東山一覧|A Glimpse of Higayashiyama the Western Capital, from the series Famous Places in the Nation (Shokoku meis",
+   "title": "諸国名所図会内　西京東山一覧|A Glimpse of Higayashiyama the Western Capital, from the series Famous Places in the Nation (Shokoku meisho zukai no uchi-Saikyō Higashiyama ichiran)",
    "artist": "Utagawa Hiroshige III",
    "objectDate": "May, 1880",
    "begin": 1880,
@@ -23663,7 +23663,7 @@
   },
   {
    "objectId": 55559,
-   "title": "西国諸将鎮静天杯賜ル之図|Illustration of the Commanders who Pacified Western Japan, Receiving the Emperor's Gift Cups (Saigoku chins",
+   "title": "西国諸将鎮静天杯賜ル之図|Illustration of the Commanders who Pacified Western Japan, Receiving the Emperor's Gift Cups (Saigoku chinsei shoshō tenpai o tamawaru no zu)",
    "artist": "Yōshū (Hashimoto) Chikanobu",
    "objectDate": "September, 1887",
    "begin": 1887,
@@ -23983,7 +23983,7 @@
   },
   {
    "objectId": 55596,
-   "title": "『雛形若菜の初模様　扇屋内　からうた』|The Courtesan Karauta of the Ōgiya Brothel, from the series “A Pattern Book of the Year’s First Desi",
+   "title": "『雛形若菜の初模様　扇屋内　からうた』|The Courtesan Karauta of the Ōgiya Brothel, from the series “A Pattern Book of the Year’s First Designs, Fresh as Spring Herbs” (“Hinagata wakana no hatsu moyō”)",
    "artist": "Isoda Koryūsai",
    "objectDate": "1777–78",
    "begin": 1777,
@@ -24603,7 +24603,7 @@
   },
   {
    "objectId": 55734,
-   "title": "百人一首　乳母か絵とき　参議篁|Poem by Sangi no Takamura (Ono no Takamura), from the series One Hundred Poems Explained by the Nurse (H",
+   "title": "百人一首　乳母か絵とき　参議篁|Poem by Sangi no Takamura (Ono no Takamura), from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1835",
    "begin": 1825,
@@ -24623,7 +24623,7 @@
   },
   {
    "objectId": 55736,
-   "title": "冨嶽三十六景　凱風快晴|South Wind, Clear Sky (Gaifū kaisei), also known as Red Fuji, from the series Thirty-six Views of Mount Fuji",
+   "title": "冨嶽三十六景　凱風快晴|South Wind, Clear Sky (Gaifū kaisei), also known as Red Fuji, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -24633,7 +24633,7 @@
   },
   {
    "objectId": 55737,
-   "title": "冨嶽三十六景　相州七里浜|Shichirigahama in Sagami Province (Sōshū Shichirigahama), from the series Thirty-six Views of Mount Fuji (F",
+   "title": "冨嶽三十六景　相州七里浜|Shichirigahama in Sagami Province (Sōshū Shichirigahama), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -24643,7 +24643,7 @@
   },
   {
    "objectId": 55738,
-   "title": "冨嶽三十六景　相州梅沢左|Umezawa Manor in Sagami Province (Sōshū Umezawa zai),  from the series Thirty-six Views of Mount Fuji (Fuga",
+   "title": "冨嶽三十六景　相州梅沢左|Umezawa Manor in Sagami Province (Sōshū Umezawa zai),  from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -24663,7 +24663,7 @@
   },
   {
    "objectId": 55740,
-   "title": "冨嶽三十六景　五百らかん寺さざゐどう|Sazai Hall at the Temple of the Five Hundred Arhats (Gohyaku Rakanji Sazaidō), from the series Thirty",
+   "title": "冨嶽三十六景　五百らかん寺さざゐどう|Sazai Hall at the Temple of the Five Hundred Arhats (Gohyaku Rakanji Sazaidō), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -24673,7 +24673,7 @@
   },
   {
    "objectId": 55741,
-   "title": "冨嶽三十六景　武陽佃島|Tsukudajima in Musashi Province (Buyō Tsukudajima), from the series Thirty-six Views of Mount Fuji (Fugaku s",
+   "title": "冨嶽三十六景　武陽佃島|Tsukudajima in Musashi Province (Buyō Tsukudajima), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -24683,7 +24683,7 @@
   },
   {
    "objectId": 55742,
-   "title": "冨嶽三十六景　隅田川関屋の里|Sekiya Village on the Sumida River (Sumidagawa Sekiya no sato), from the series Thirty-six Views of Mount",
+   "title": "冨嶽三十六景　隅田川関屋の里|Sekiya Village on the Sumida River (Sumidagawa Sekiya no sato), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -25563,7 +25563,7 @@
   },
   {
    "objectId": 55859,
-   "title": "楊洲周延画　「千代田之大奥　おたち退」|“Evacuation of the Ladies,” from the series The Inner Precincts of Chiyoda Castle (Chiyoda no Ōoku, ",
+   "title": "楊洲周延画　「千代田之大奥　おたち退」|“Evacuation of the Ladies,” from the series The Inner Precincts of Chiyoda Castle (Chiyoda no Ōoku, Otachinoki)",
    "artist": "Yōshū (Hashimoto) Chikanobu",
    "objectDate": "1896 (Meiji 29)",
    "begin": 1896,
@@ -26103,7 +26103,7 @@
   },
   {
    "objectId": 55914,
-   "title": "歌川国貞（三代歌川豊国）画 「源氏後集余情  五十のまき / あづまや」|Parody of the Third Princess and Kashiwagi: “Chapter 50: A Hut in the Eastern Provi",
+   "title": "歌川国貞（三代歌川豊国）画 「源氏後集余情  五十のまき / あづまや」|Parody of the Third Princess and Kashiwagi: “Chapter 50: A Hut in the Eastern Provinces”",
    "artist": "Utagawa Kunisada",
    "objectDate": "1858, second month",
    "begin": 1858,
@@ -26173,7 +26173,7 @@
   },
   {
    "objectId": 55921,
-   "title": "東海寄談音児館|Onoe Kikugorō V as Otowake Neko no ke (Right), Bandō  Mitsugorō  IV as Aishō Michinoku (Center), Onoe Kikugorō V",
+   "title": "東海寄談音児館|Onoe Kikugorō V as Otowake Neko no ke (Right), Bandō  Mitsugorō  IV as Aishō Michinoku (Center), Onoe Kikugorō V as Isogai Mibunosuke (Left) in the Kabuki play Tōkai Kidan Nekomata Yashiki",
    "artist": "Toyohara Kunichika",
    "objectDate": "1870",
    "begin": 1870,
@@ -26323,7 +26323,7 @@
   },
   {
    "objectId": 55944,
-   "title": "『雛形若菜初模様　玉や内　しら玉』|The Courtesan Shiratama of the Tamaya Brothel, from the series “A Pat-tern Book of the Year’s First De",
+   "title": "『雛形若菜初模様　玉や内　しら玉』|The Courtesan Shiratama of the Tamaya Brothel, from the series “A Pat-tern Book of the Year’s First Designs, Fresh as Spring Herbs” (“Hinagata wakana hatsu moyō”)",
    "artist": "Isoda Koryūsai",
    "objectDate": "1777–78",
    "begin": 1777,
@@ -26503,7 +26503,7 @@
   },
   {
    "objectId": 55981,
-   "title": "源琦　梅下美人図|Chinese Beauty Beside a Plum Tree, leaf from the album “A Contest of Beauties from the Near and Distant Past” (",
+   "title": "源琦　梅下美人図|Chinese Beauty Beside a Plum Tree, leaf from the album “A Contest of Beauties from the Near and Distant Past” (Chūko shomeika bijin kurabe)",
    "artist": "Genki (Komai Ki)",
    "objectDate": "1895",
    "begin": 1895,
@@ -26583,7 +26583,7 @@
   },
   {
    "objectId": 55993,
-   "title": "Nissaka-sayo no Naka Yama|東海道五十三次之内　日坂　佐夜の中山|Station Twenty-six: Nissaka, Sayo no Nakayama, from the Fifty-three Station",
+   "title": "Nissaka-sayo no Naka Yama|東海道五十三次之内　日坂　佐夜の中山|Station Twenty-six: Nissaka, Sayo no Nakayama, from the Fifty-three Stations of the Tokaido",
    "artist": "Utagawa Hiroshige",
    "objectDate": "ca. 1833–34",
    "begin": 1833,
@@ -27923,7 +27923,7 @@
   },
   {
    "objectId": 56131,
-   "title": "冨嶽三十六景　隠田の水車|The Waterwheel at Onden (Onden no suisha), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokk",
+   "title": "冨嶽三十六景　隠田の水車|The Waterwheel at Onden (Onden no suisha), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -27933,7 +27933,7 @@
   },
   {
    "objectId": 56132,
-   "title": "冨嶽三十六景　常州牛掘|Ushibori in Hitachi Province (Jōshū Ushibori), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūr",
+   "title": "冨嶽三十六景　常州牛掘|Ushibori in Hitachi Province (Jōshū Ushibori), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -27943,7 +27943,7 @@
   },
   {
    "objectId": 56133,
-   "title": "冨嶽三十六景　信州諏訪湖|Lake Suwa in Shinano Province (Shinshū Suwako), from the series Thirty-six Views of Mount Fuji (Fugaku sanj",
+   "title": "冨嶽三十六景　信州諏訪湖|Lake Suwa in Shinano Province (Shinshū Suwako), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -27953,7 +27953,7 @@
   },
   {
    "objectId": 56135,
-   "title": "冨嶽三十六景　東海道品川御殿山の不二|Fuji from Gotenyama at Shinagawa on the Tōkaidō (Tōkaidō Shinagawa Gotenyama no Fuji), from the serie",
+   "title": "冨嶽三十六景　東海道品川御殿山の不二|Fuji from Gotenyama at Shinagawa on the Tōkaidō (Tōkaidō Shinagawa Gotenyama no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -27963,7 +27963,7 @@
   },
   {
    "objectId": 56136,
-   "title": "百人一首　乳母かゑとき　猿丸太夫|Poem by Sarumaru Dayū, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga ",
+   "title": "百人一首　乳母かゑとき　猿丸太夫|Poem by Sarumaru Dayū, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1839",
    "begin": 1839,
@@ -27993,7 +27993,7 @@
   },
   {
    "objectId": 56139,
-   "title": "諸國瀧廻リ　下野黒髪山 きりふりの滝|Kirifuri Waterfall at Kurokami Mountain in Shimotsuke (Shimotsuke Kurokamiyama Kirifuri no taki), fro",
+   "title": "諸國瀧廻リ　下野黒髪山 きりふりの滝|Kirifuri Waterfall at Kurokami Mountain in Shimotsuke (Shimotsuke Kurokamiyama Kirifuri no taki), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1832",
    "begin": 1827,
@@ -28003,7 +28003,7 @@
   },
   {
    "objectId": 56140,
-   "title": "諸國瀧廻リ　木曾海道小野ノ瀑布|Ono Waterfall on the Kisokaidō (Kisokaidō Ono no bakufu), from the series A Tour of Waterfalls in Variou",
+   "title": "諸國瀧廻リ　木曾海道小野ノ瀑布|Ono Waterfall on the Kisokaidō (Kisokaidō Ono no bakufu), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1833",
    "begin": 1823,
@@ -28013,7 +28013,7 @@
   },
   {
    "objectId": 56141,
-   "title": "諸國瀧廻リ　東海道坂ノ下 清瀧くわんおん|Kiyotaki Kannon Waterfall at Sakanoshita on the Tōkaidō (Tōkaidō Sakanoshita Kiyotaki kannon), from",
+   "title": "諸國瀧廻リ　東海道坂ノ下 清瀧くわんおん|Kiyotaki Kannon Waterfall at Sakanoshita on the Tōkaidō (Tōkaidō Sakanoshita Kiyotaki kannon), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1832",
    "begin": 1822,
@@ -28023,7 +28023,7 @@
   },
   {
    "objectId": 56142,
-   "title": "葛飾北斎画　「諸國瀧廻リ　和州吉野義経馬洗滝」|“The Waterfall Where Yoshitsune Washed His Horse at Yoshino in Yamato Province,” from the series",
+   "title": "葛飾北斎画　「諸國瀧廻リ　和州吉野義経馬洗滝」|“The Waterfall Where Yoshitsune Washed His Horse at Yoshino in Yamato Province,” from the series A Tour of Waterfalls in Various Provinces",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1832",
    "begin": 1822,
@@ -28033,7 +28033,7 @@
   },
   {
    "objectId": 56143,
-   "title": "諸國瀧廻リ　木曽路ノ奥 阿彌陀ヶ瀧|The Amida Falls in the Far Reaches of the Kisokaidō Road (Kisoji no oku Amida-ga-taki), from the serie",
+   "title": "諸國瀧廻リ　木曽路ノ奥 阿彌陀ヶ瀧|The Amida Falls in the Far Reaches of the Kisokaidō Road (Kisoji no oku Amida-ga-taki), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1832",
    "begin": 1830,
@@ -28043,7 +28043,7 @@
   },
   {
    "objectId": 56144,
-   "title": "諸國瀧廻　東都葵ヶ岡の瀧|The Falls at Aoigaoka in the Eastern Capital (Tōto Aoigaoka no taki), from the series A Tour of Waterfalls ",
+   "title": "諸國瀧廻　東都葵ヶ岡の瀧|The Falls at Aoigaoka in the Eastern Capital (Tōto Aoigaoka no taki), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "",
    "begin": 1760,
@@ -28053,7 +28053,7 @@
   },
   {
    "objectId": 56145,
-   "title": "諸國瀧廻リ　相州大山ろうべんの瀧|Rōben Waterfall at Ōyama in Sagami Province (Sōshū Ōyama Rōben no taki), from the series A Tour of Wate",
+   "title": "諸國瀧廻リ　相州大山ろうべんの瀧|Rōben Waterfall at Ōyama in Sagami Province (Sōshū Ōyama Rōben no taki), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1760–1849",
    "begin": 1760,
@@ -28063,7 +28063,7 @@
   },
   {
    "objectId": 56146,
-   "title": "諸國瀧廻リ　美濃ノ国養老の滝|Yōrō Waterfall in Mino Province (Mino no Yōrō no taki), from the series A Tour of Waterfalls in Various P",
+   "title": "諸國瀧廻リ　美濃ノ国養老の滝|Yōrō Waterfall in Mino Province (Mino no Yōrō no taki), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1832",
    "begin": 1822,
@@ -28073,7 +28073,7 @@
   },
   {
    "objectId": 56147,
-   "title": "百人一首　宇波か縁説　参儀等|Poem by Sangi Hitoshi (Minamoto no Hitoshi), from the series One Hundred Poems Explained by the Nurse (Hy",
+   "title": "百人一首　宇波か縁説　参儀等|Poem by Sangi Hitoshi (Minamoto no Hitoshi), from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1760–1849",
    "begin": 1760,
@@ -28083,7 +28083,7 @@
   },
   {
    "objectId": 56148,
-   "title": "百人一首　乳母かゑとき　柿の本人麿|Poem by Kakinomoto Hitomaro, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu ",
+   "title": "百人一首　乳母かゑとき　柿の本人麿|Poem by Kakinomoto Hitomaro, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1760–1849",
    "begin": 1760,
@@ -28093,7 +28093,7 @@
   },
   {
    "objectId": 56149,
-   "title": "百人一首　乳母か縁説　中納言家持|Poem by Chūnagon Yakamochi (Ōtomo no Yakamochi), from the series One Hundred Poems Explained by the Nur",
+   "title": "百人一首　乳母か縁説　中納言家持|Poem by Chūnagon Yakamochi (Ōtomo no Yakamochi), from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1760–1849",
    "begin": 1760,
@@ -28103,7 +28103,7 @@
   },
   {
    "objectId": 56150,
-   "title": "百人一首　うはかゑとき　源宗于朝臣|Poem by Minamoto no Muneyuki Ason, from the series One Hundred poems Explained by the Nurse (Hyakunin ",
+   "title": "百人一首　うはかゑとき　源宗于朝臣|Poem by Minamoto no Muneyuki Ason, from the series One Hundred poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1835",
    "begin": 1825,
@@ -28113,7 +28113,7 @@
   },
   {
    "objectId": 56151,
-   "title": "百人一首　宇波か縁説　藤原道信朝臣|Poem by Fujiwara no Michinobu Ason, from the series One Hundred Poems Explained by the Nurse (Hyakunin",
+   "title": "百人一首　宇波か縁説　藤原道信朝臣|Poem by Fujiwara no Michinobu Ason, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1760–1845",
    "begin": 1760,
@@ -28123,7 +28123,7 @@
   },
   {
    "objectId": 56157,
-   "title": "百人一首　宇波か縁説　権中納言定家|Poem by Gon-Chūnagon Sadaie, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu ",
+   "title": "百人一首　宇波か縁説　権中納言定家|Poem by Gon-Chūnagon Sadaie, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1760–1849",
    "begin": 1760,
@@ -28133,7 +28133,7 @@
   },
   {
    "objectId": 56171,
-   "title": "百人一首　うはかゑとき　文屋朝康|Poem by Funya no Asayasu, from the series One Hundred Poems Explained by a Nurse (Hyakunin isshu ubaga ",
+   "title": "百人一首　うはかゑとき　文屋朝康|Poem by Funya no Asayasu, from the series One Hundred Poems Explained by a Nurse (Hyakunin isshu ubaga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1760–1849",
    "begin": 1760,
@@ -28153,7 +28153,7 @@
   },
   {
    "objectId": 56175,
-   "title": "百人一首　宇波かゑとき　安部仲麿|Poem by Abe no Nakamaro, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba g",
+   "title": "百人一首　宇波かゑとき　安部仲麿|Poem by Abe no Nakamaro, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1760–1849",
    "begin": 1760,
@@ -28253,7 +28253,7 @@
   },
   {
    "objectId": 56202,
-   "title": "諸國名橋奇覧　摂洲阿治川口天保山|Tenpōzan at the Mouth of the Aji River in Settsu Province (Sesshū Ajikawaguchi Tenpōzan), from the seri",
+   "title": "諸國名橋奇覧　摂洲阿治川口天保山|Tenpōzan at the Mouth of the Aji River in Settsu Province (Sesshū Ajikawaguchi Tenpōzan), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1760–1849",
    "begin": 1760,
@@ -28263,7 +28263,7 @@
   },
   {
    "objectId": 56210,
-   "title": "諸國名橋奇覧  ゑちぜんふくゐの橋|Fukui Bridge in Echizen Province (Echizen Fukui no hashi), from the series Remarkable Views of Bridges",
+   "title": "諸國名橋奇覧  ゑちぜんふくゐの橋|Fukui Bridge in Echizen Province (Echizen Fukui no hashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830",
    "begin": 1820,
@@ -28273,7 +28273,7 @@
   },
   {
    "objectId": 56212,
-   "title": "冨嶽三十六景　駿州大野新田|The New Fields at Ōno in Suruga Province (Sunshū Ōno shinden), from the series Thirty-six Views of Mount F",
+   "title": "冨嶽三十六景　駿州大野新田|The New Fields at Ōno in Suruga Province (Sunshū Ōno shinden), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28283,7 +28283,7 @@
   },
   {
    "objectId": 56213,
-   "title": "冨嶽三十六景　駿州片倉茶園の不二|Fuji from the Katakura Tea Fields in Suruga (Sunshū Katakura chaen no Fuji), from the series Thirty-six",
+   "title": "冨嶽三十六景　駿州片倉茶園の不二|Fuji from the Katakura Tea Fields in Suruga (Sunshū Katakura chaen no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28293,7 +28293,7 @@
   },
   {
    "objectId": 56214,
-   "title": "冨嶽三十六景　尾州不二見原|Fujimigahara in Owari Province (Bishū Fujimigahara), from the series Thirty-six Views of Mount Fuji (Fugak",
+   "title": "冨嶽三十六景　尾州不二見原|Fujimigahara in Owari Province (Bishū Fujimigahara), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -28303,7 +28303,7 @@
   },
   {
    "objectId": 56215,
-   "title": "冨嶽三十六景　礫川雪の旦|Morning after the Snow at Koishikawa in Edo (Koishikawa yuki no ashita), from the series Thirty-six Views o",
+   "title": "冨嶽三十六景　礫川雪の旦|Morning after the Snow at Koishikawa in Edo (Koishikawa yuki no ashita), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28323,7 +28323,7 @@
   },
   {
    "objectId": 56217,
-   "title": "冨嶽三十六景　身延川裏不二|View from the Other Side of Fuji from the Minobu River (Minobugawa ura Fuji), from the series Thirty-six V",
+   "title": "冨嶽三十六景　身延川裏不二|View from the Other Side of Fuji from the Minobu River (Minobugawa ura Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28333,7 +28333,7 @@
   },
   {
    "objectId": 56229,
-   "title": "冨嶽三十六景　山下白雨|Storm below Mount Fuji (Sanka no haku u), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei",
+   "title": "冨嶽三十六景　山下白雨|Storm below Mount Fuji (Sanka no haku u), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -28343,7 +28343,7 @@
   },
   {
    "objectId": 56235,
-   "title": "冨嶽三十六景　諸人登山|Groups of Mountain Climbers (Shojin tozan), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokk",
+   "title": "冨嶽三十六景　諸人登山|Groups of Mountain Climbers (Shojin tozan), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -28363,7 +28363,7 @@
   },
   {
    "objectId": 56239,
-   "title": "冨嶽三十六景　常州牛掘|Ushibori in Hitachi Province (Jōshū Ushibori), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūr",
+   "title": "冨嶽三十六景　常州牛掘|Ushibori in Hitachi Province (Jōshū Ushibori), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28373,7 +28373,7 @@
   },
   {
    "objectId": 56240,
-   "title": "冨嶽三十六景　信州諏訪湖|Lake Suwa in Shinano Province (Shinshū Suwako), from the series Thirty-six Views of Mount Fuji (Fugaku sanj",
+   "title": "冨嶽三十六景　信州諏訪湖|Lake Suwa in Shinano Province (Shinshū Suwako), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28383,7 +28383,7 @@
   },
   {
    "objectId": 56241,
-   "title": "冨嶽三十六景　遠江山中|In the Mountains of Tōtomi Province (Tōtomi sanchū), from the series Thirty-six Views of Mount Fuji (Fugaku ",
+   "title": "冨嶽三十六景　遠江山中|In the Mountains of Tōtomi Province (Tōtomi sanchū), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28393,7 +28393,7 @@
   },
   {
    "objectId": 56242,
-   "title": "冨嶽三十六景　隠田の水車|The Waterwheel at Onden (Onden no suisha), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokk",
+   "title": "冨嶽三十六景　隠田の水車|The Waterwheel at Onden (Onden no suisha), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28443,7 +28443,7 @@
   },
   {
    "objectId": 56346,
-   "title": "冨嶽三十六景　甲州三島越|Mishima Pass in Kai Province (Kōshū Mishima goe), from the series Thirty-six Views of Mount Fuji (Fugaku sa",
+   "title": "冨嶽三十六景　甲州三島越|Mishima Pass in Kai Province (Kōshū Mishima goe), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -28453,7 +28453,7 @@
   },
   {
    "objectId": 56349,
-   "title": "冨嶽三十六景　甲州伊沢暁|Dawn at Isawa in Kai Province (Kōshū Isawa no akatsuki), from the series Thirty-six Views of Mount Fuji (Fu",
+   "title": "冨嶽三十六景　甲州伊沢暁|Dawn at Isawa in Kai Province (Kōshū Isawa no akatsuki), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28463,7 +28463,7 @@
   },
   {
    "objectId": 56353,
-   "title": "葛飾北斎画　冨嶽三十六景　神奈川沖浪裏|Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series T",
+   "title": "葛飾北斎画　冨嶽三十六景　神奈川沖浪裏|Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28473,7 +28473,7 @@
   },
   {
    "objectId": 56357,
-   "title": "冨嶽三十六景　東海道保土ケ谷|Hodogaya on the Tōkaidō (Tōkaidō Hodogaya), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūr",
+   "title": "冨嶽三十六景　東海道保土ケ谷|Hodogaya on the Tōkaidō (Tōkaidō Hodogaya), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28483,7 +28483,7 @@
   },
   {
    "objectId": 56360,
-   "title": "冨嶽三十六景　東海道吉田|Yoshida on the Tōkaidō (Tōkaidō Yoshida), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokke",
+   "title": "冨嶽三十六景　東海道吉田|Yoshida on the Tōkaidō (Tōkaidō Yoshida), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28493,7 +28493,7 @@
   },
   {
    "objectId": 56365,
-   "title": "葛飾北斎画　冨嶽三十六景　 東海道金谷の不二|Fuji Seen from Kanaya on the Tōkaidō (Tōkaidō Kanaya no Fuji), from the series Thirty-six Views o",
+   "title": "葛飾北斎画　冨嶽三十六景　 東海道金谷の不二|Fuji Seen from Kanaya on the Tōkaidō (Tōkaidō Kanaya no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -28503,7 +28503,7 @@
   },
   {
    "objectId": 56373,
-   "title": "冨嶽三十六景　東海道江尻田子の浦略図|Tago Bay near Ejiri on the Tōkaidō (Tōkaidō Ejiri Tago no ura ryaku zu), from the series Thirty-six V",
+   "title": "冨嶽三十六景　東海道江尻田子の浦略図|Tago Bay near Ejiri on the Tōkaidō (Tōkaidō Ejiri Tago no ura ryaku zu), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -28513,7 +28513,7 @@
   },
   {
    "objectId": 56376,
-   "title": "冨嶽三十六景　相州江の島|Enoshima in Sagami Province (Sōshū Enoshima), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūr",
+   "title": "冨嶽三十六景　相州江の島|Enoshima in Sagami Province (Sōshū Enoshima), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28523,7 +28523,7 @@
   },
   {
    "objectId": 56384,
-   "title": "冨嶽三十六景　相州仲原|Nakahara in Sagami Province (Sōshū Nakahara), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūro",
+   "title": "冨嶽三十六景　相州仲原|Nakahara in Sagami Province (Sōshū Nakahara), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -28533,7 +28533,7 @@
   },
   {
    "objectId": 56385,
-   "title": "冨嶽三十六景　相州箱根湖水|The Lake at Hakone in Sagami Province (Sōshū Hakone kosui), from the series Thirty-six Views of Mount Fuji",
+   "title": "冨嶽三十六景　相州箱根湖水|The Lake at Hakone in Sagami Province (Sōshū Hakone kosui), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28553,7 +28553,7 @@
   },
   {
    "objectId": 56387,
-   "title": "冨嶽三十六景　深川万年橋下|Under the Mannen Bridge at Fukagawa (Fukagawa Mannenbashi shita), from the series Thirty-six Views of Moun",
+   "title": "冨嶽三十六景　深川万年橋下|Under the Mannen Bridge at Fukagawa (Fukagawa Mannenbashi shita), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -28563,7 +28563,7 @@
   },
   {
    "objectId": 56388,
-   "title": "冨嶽三十六景　青山円座松|Cushion Pine at Aoyama (Aoyama enza no matsu), from the series Thirty-six Views of Mount Fuji (Fugaku sanjū",
+   "title": "冨嶽三十六景　青山円座松|Cushion Pine at Aoyama (Aoyama enza no matsu), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28593,7 +28593,7 @@
   },
   {
    "objectId": 56391,
-   "title": "冨嶽三十六景　従千住花街眺望の不二|Fuji Seen in the Distance from Senju Pleasure Quarter (Senju kagai yori chōbō no Fuji), from the serie",
+   "title": "冨嶽三十六景　従千住花街眺望の不二|Fuji Seen in the Distance from Senju Pleasure Quarter (Senju kagai yori chōbō no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28603,7 +28603,7 @@
   },
   {
    "objectId": 56392,
-   "title": "葛飾北斎画　冨嶽三十六景　武州玉川|Tama River in Musashi Province (Bushū Tamagawa), from the series Thirty-six Views of Mount Fuji (Fugak",
+   "title": "葛飾北斎画　冨嶽三十六景　武州玉川|Tama River in Musashi Province (Bushū Tamagawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28613,7 +28613,7 @@
   },
   {
    "objectId": 56393,
-   "title": "冨嶽三十六景　東海道品川御殿山の不二|Fuji from Gotenyama at Shinagawa on the Tōkaidō (Tōkaidō Shinagawa Gotenyama no Fuji), from the serie",
+   "title": "冨嶽三十六景　東海道品川御殿山の不二|Fuji from Gotenyama at Shinagawa on the Tōkaidō (Tōkaidō Shinagawa Gotenyama no Fuji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28643,7 +28643,7 @@
   },
   {
    "objectId": 56396,
-   "title": "冨嶽三十六景　東都浅草本願寺|Honganji at Asakusa in Edo (Tōto Asakusa Honganji), from the series Thirty-six Views of Mount Fuji (Fugak",
+   "title": "冨嶽三十六景　東都浅草本願寺|Honganji at Asakusa in Edo (Tōto Asakusa Honganji), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -28683,7 +28683,7 @@
   },
   {
    "objectId": 56418,
-   "title": "六玉川　「千鳥の玉川　陸奥名所」|“The Jewel River of Plovers, a Famous Place in Mutsu Province,” from the series Six Jewel Rivers (Mu Ta",
+   "title": "六玉川　「千鳥の玉川　陸奥名所」|“The Jewel River of Plovers, a Famous Place in Mutsu Province,” from the series Six Jewel Rivers (Mu Tamagawa: Chidori no Tamagawa, Mutsu meisho)",
    "artist": "Suzuki Harunobu",
    "objectDate": "",
    "begin": 1725,
@@ -28693,7 +28693,7 @@
   },
   {
    "objectId": 56419,
-   "title": "鈴木春信画　六玉川　「壔衣の玉川　摂津の名所」|Kōromō Uchi Tamagawa|The Cloth-Fulling Jewel River, a Famous Place in Settsu Province (Tōi no Ta",
+   "title": "鈴木春信画　六玉川　「壔衣の玉川　摂津の名所」|Kōromō Uchi Tamagawa|The Cloth-Fulling Jewel River, a Famous Place in Settsu Province (Tōi no Tamagawa, Settsu no meisho), from an untitled series of Six Jewel Rivers (Mu Tamagawa)",
    "artist": "Suzuki Harunobu",
    "objectDate": "ca. 1766–67",
    "begin": 1766,
@@ -28723,7 +28723,7 @@
   },
   {
    "objectId": 56422,
-   "title": "鈴木春信画　覗き絡繰り・「高野の玉川　弘法大師」|A Teenage Boy and Girl with a Viewer for an Optique Picture (Nozoki-karakuri); Kōbō Daishi’s Po",
+   "title": "鈴木春信画　覗き絡繰り・「高野の玉川　弘法大師」|A Teenage Boy and Girl with a Viewer for an Optique Picture (Nozoki-karakuri); Kōbō Daishi’s Poem on the Jewel River of Kōya (Kōya no Tamagawa: Kōbō Daishi)",
    "artist": "Suzuki Harunobu",
    "objectDate": "ca. 1788",
    "begin": 1778,
@@ -29003,7 +29003,7 @@
   },
   {
    "objectId": 56534,
-   "title": "浮絵　「紋尽名古屋曽我」|Perpsective View (uki-e) of a Kabuki Theatre, with a Performance of  The Crest Patterns of the Soga Brother",
+   "title": "浮絵　「紋尽名古屋曽我」|Perpsective View (uki-e) of a Kabuki Theatre, with a Performance of  The Crest Patterns of the Soga Brothers and Nagoya Sanza (Mon-zukushi Nagoya Soga)",
    "artist": "Okumura Masanobu",
    "objectDate": "1748 (Enkyō 5), first month",
    "begin": 1748,
@@ -29763,7 +29763,7 @@
   },
   {
    "objectId": 56727,
-   "title": "冨嶽三十六景　甲州石班沢|Kajikazawa in Kai Province (Kōshū Kajikazawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjū",
+   "title": "冨嶽三十六景　甲州石班沢|Kajikazawa in Kai Province (Kōshū Kajikazawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1830,
@@ -29953,7 +29953,7 @@
   },
   {
    "objectId": 56751,
-   "title": "「風俗東之錦」　 武家の息女と侍女と若党 |A Lady from a Samurai Household with Three Attendants, from the series A Brocade of Eastern Manner",
+   "title": "「風俗東之錦」　 武家の息女と侍女と若党 |A Lady from a Samurai Household with Three Attendants, from the series A Brocade of Eastern Manners (Fūzoku Azuma no nishiki)",
    "artist": "Torii Kiyonaga",
    "objectDate": "ca. 1820",
    "begin": 1810,
@@ -30013,7 +30013,7 @@
   },
   {
    "objectId": 56757,
-   "title": "鳥居清長画　「雛形若菜の初模様　丁子屋の若草・ あさの・みどり」|The Courtesan Wakakusa of the Chōjiya Brothel, and Attendants Asano and Midori, from th",
+   "title": "鳥居清長画　「雛形若菜の初模様　丁子屋の若草・ あさの・みどり」|The Courtesan Wakakusa of the Chōjiya Brothel, and Attendants Asano and Midori, from the series “A Pattern Book of the Year’s First Designs, Fresh as Spring Herbs” (Hinagata wakana no hatsumoyō)",
    "artist": "Torii Kiyonaga",
    "objectDate": "ca. 1783",
    "begin": 1773,
@@ -30133,7 +30133,7 @@
   },
   {
    "objectId": 56776,
-   "title": "礒田湖竜斎画「雛形若菜初模様　四ツ目屋内　さよぎぬ」|The Courtesan Sayoginu of the Yotsumeya Brothel, from the series “A Pattern Book of the Year’",
+   "title": "礒田湖竜斎画「雛形若菜初模様　四ツ目屋内　さよぎぬ」|The Courtesan Sayoginu of the Yotsumeya Brothel, from the series “A Pattern Book of the Year’s First Designs, Fresh as Spring Herbs” (Hinagata wakana hatsu moyō)",
    "artist": "Isoda Koryūsai",
    "objectDate": "1776",
    "begin": 1776,
@@ -30143,7 +30143,7 @@
   },
   {
    "objectId": 56777,
-   "title": "『雛形若菜の初模様　つたや内　人まち』|The Courtesan Hitomachi of the Tsutaya Brothel, from the series “A Pat-tern Book of the Year’s First",
+   "title": "『雛形若菜の初模様　つたや内　人まち』|The Courtesan Hitomachi of the Tsutaya Brothel, from the series “A Pat-tern Book of the Year’s First Designs, Fresh as Spring Herbs” (“Hinagata wakana no hatsu moyō”)",
    "artist": "Isoda Koryūsai",
    "objectDate": "1777–78",
    "begin": 1777,
@@ -30203,7 +30203,7 @@
   },
   {
    "objectId": 56785,
-   "title": "冨嶽三十六景　常州牛掘|Ushibori in Hitachi Province (Jōshū Ushibori), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūr",
+   "title": "冨嶽三十六景　常州牛掘|Ushibori in Hitachi Province (Jōshū Ushibori), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -30213,7 +30213,7 @@
   },
   {
    "objectId": 56786,
-   "title": "冨嶽三十六景　甲州三島越|Mishima Pass in Kai Province (Kōshū Mishima goe), from the series Thirty-six Views of Mount Fuji (Fugaku sa",
+   "title": "冨嶽三十六景　甲州三島越|Mishima Pass in Kai Province (Kōshū Mishima goe), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -30223,7 +30223,7 @@
   },
   {
    "objectId": 56787,
-   "title": "冨嶽三十六景　尾州不二見原|Fujimigahara in Owari Province (Bishū Fujimigahara), from the series Thirty-six Views of Mount Fuji (Fugak",
+   "title": "冨嶽三十六景　尾州不二見原|Fujimigahara in Owari Province (Bishū Fujimigahara), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -30233,7 +30233,7 @@
   },
   {
    "objectId": 56789,
-   "title": "鈴木春信画　雪中に筍を掘る女　見立孟宗|Woman Digging Bamboo Shoots in the Snow, or Parody of Meng Zong (Mōsō), from Twenty-Four Paragons of",
+   "title": "鈴木春信画　雪中に筍を掘る女　見立孟宗|Woman Digging Bamboo Shoots in the Snow, or Parody of Meng Zong (Mōsō), from Twenty-Four Paragons of Filial Piety",
    "artist": "Suzuki Harunobu",
    "objectDate": "ca. 1765",
    "begin": 1755,
@@ -30273,7 +30273,7 @@
   },
   {
    "objectId": 56793,
-   "title": "喜多川歌麿画　『美人花合』　「兵庫屋内　花妻図」|“The Courtesan Hanazuma Reading a Letter,” from the series Beauties Compared to Flowers (Bijin ",
+   "title": "喜多川歌麿画　『美人花合』　「兵庫屋内　花妻図」|“The Courtesan Hanazuma Reading a Letter,” from the series Beauties Compared to Flowers (Bijin hana awase)",
    "artist": "Kitagawa Utamaro",
    "objectDate": "1790s",
    "begin": 1790,
@@ -30403,7 +30403,7 @@
   },
   {
    "objectId": 56806,
-   "title": "百人一首　乳母かゑとき　猿丸太夫|Poem by Sarumaru Dayū, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga ",
+   "title": "百人一首　乳母かゑとき　猿丸太夫|Poem by Sarumaru Dayū, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1839",
    "begin": 1839,
@@ -30773,7 +30773,7 @@
   },
   {
    "objectId": 56848,
-   "title": "勝川春好画 三代目澤村宗十郎\t三代目佐野川市松\t|Kabuki Actors Sawamura Sōjūrō III and Sanogawa Ichimatsu III in \"A Courtesan’s Mirror for the E",
+   "title": "勝川春好画 三代目澤村宗十郎\t三代目佐野川市松\t|Kabuki Actors Sawamura Sōjūrō III and Sanogawa Ichimatsu III in \"A Courtesan’s Mirror for the Eastern Provinces\" (Keisei Azuma kagami)",
    "artist": "Katsukawa Shunkō",
    "objectDate": "1788",
    "begin": 1788,
@@ -30963,7 +30963,7 @@
   },
   {
    "objectId": 56876,
-   "title": "六玉川　「千鳥の玉川　陸奥名所」|“The Jewel River of Plovers, a Famous Place in Mutsu Province,” from the series Six Jewel Rivers (Mu Ta",
+   "title": "六玉川　「千鳥の玉川　陸奥名所」|“The Jewel River of Plovers, a Famous Place in Mutsu Province,” from the series Six Jewel Rivers (Mu Tamagawa: Chidori no Tamagawa, Mutsu meisho)",
    "artist": "Suzuki Harunobu",
    "objectDate": "probably 1766",
    "begin": 1766,
@@ -31113,7 +31113,7 @@
   },
   {
    "objectId": 56891,
-   "title": "山海見立相撲　備前偸賀山|Mount Yuga in Bizen Province (Bizen Yugasan), from the series Wrestling Matches between Mountains and Seas ",
+   "title": "山海見立相撲　備前偸賀山|Mount Yuga in Bizen Province (Bizen Yugasan), from the series Wrestling Matches between Mountains and Seas (Sankai mitate zumō)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "8th month, 1858",
    "begin": 1858,
@@ -31293,7 +31293,7 @@
   },
   {
    "objectId": 56910,
-   "title": "東海道五十三次之内　関　本陣早立|Station Forty-Eight: Seki, Early Departure from the Headquarters Inn, from the Fifty-Three Stations of ",
+   "title": "東海道五十三次之内　関　本陣早立|Station Forty-Eight: Seki, Early Departure from the Headquarters Inn, from the Fifty-Three Stations of the Tokaido",
    "artist": "Utagawa Hiroshige",
    "objectDate": "ca. 1833–34",
    "begin": 1833,
@@ -31483,7 +31483,7 @@
   },
   {
    "objectId": 56931,
-   "title": "「名所江戸百景　よし原 日本堤」|“Nihon Embankment at Yoshiwara,” from the series One Hundred Famous Views of Edo (Meisho Edo hyakkei, Y",
+   "title": "「名所江戸百景　よし原 日本堤」|“Nihon Embankment at Yoshiwara,” from the series One Hundred Famous Views of Edo (Meisho Edo hyakkei, Yoshiwara, Nihonzutsumi)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "1857",
    "begin": 1857,
@@ -31823,7 +31823,7 @@
   },
   {
    "objectId": 56966,
-   "title": "三代目瀬川菊之丞のわっぱ菊王にて女朝比奈の草摺引|The Actor Segawa Kikunojō III as Wappa no Kikuō in a Woman’s “Asahina Armor Pulling” (Asahina n",
+   "title": "三代目瀬川菊之丞のわっぱ菊王にて女朝比奈の草摺引|The Actor Segawa Kikunojō III as Wappa no Kikuō in a Woman’s “Asahina Armor Pulling” (Asahina no kusazuri-biki) Scene",
    "artist": "Katsukawa Shunshō　勝川春章",
    "objectDate": "1780 (An’ei 9), 1st month",
    "begin": 1780,
@@ -31833,7 +31833,7 @@
   },
   {
    "objectId": 56967,
-   "title": "百人一首　うはかゑとき　持統天皇|Poem by Jitō Tenno (Empress Jitō), from the series One Hundred Poems Explained by the Nurse (Hyakunin i",
+   "title": "百人一首　うはかゑとき　持統天皇|Poem by Jitō Tenno (Empress Jitō), from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1839",
    "begin": 1829,
@@ -31893,7 +31893,7 @@
   },
   {
    "objectId": 56973,
-   "title": "百人一首　うばがゑとき　大納言経信|Poem by Dainagon Tsunenobu (Minamoto no Tsunenobu, Katsura no Dainagon), from the series One Hundred P",
+   "title": "百人一首　うばがゑとき　大納言経信|Poem by Dainagon Tsunenobu (Minamoto no Tsunenobu, Katsura no Dainagon), from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "1839",
    "begin": 1839,
@@ -31953,7 +31953,7 @@
   },
   {
    "objectId": 56979,
-   "title": "百人一首　うはかゑとき　源宗于朝臣|Poem by Minamoto no Muneyuki Ason, from the series One Hundred Poems Explained by the Nurse (Hyakunin ",
+   "title": "百人一首　うはかゑとき　源宗于朝臣|Poem by Minamoto no Muneyuki Ason, from the series One Hundred Poems Explained by the Nurse (Hyakunin isshu uba ga etoki)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1835",
    "begin": 1825,
@@ -32063,7 +32063,7 @@
   },
   {
    "objectId": 56990,
-   "title": "冨嶽三十六景　礫川雪の旦|Morning after the Snow at Koishikawa in Edo (Koishikawa yuki no ashita), from the series Thirty-six Views o",
+   "title": "冨嶽三十六景　礫川雪の旦|Morning after the Snow at Koishikawa in Edo (Koishikawa yuki no ashita), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -32103,7 +32103,7 @@
   },
   {
    "objectId": 56994,
-   "title": "冨嶽三十六景　甲州犬目峠|The Inume Pass in Kai Province (Kōshū Inume tōge), from the series Thirty-six Views of Mount Fuji (Fugaku s",
+   "title": "冨嶽三十六景　甲州犬目峠|The Inume Pass in Kai Province (Kōshū Inume tōge), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -32123,7 +32123,7 @@
   },
   {
    "objectId": 56996,
-   "title": "冨嶽三十六景　相州江の島|Enoshima in Sagami Province (Sōshū Enoshima), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūr",
+   "title": "冨嶽三十六景　相州江の島|Enoshima in Sagami Province (Sōshū Enoshima), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -32143,7 +32143,7 @@
   },
   {
    "objectId": 56998,
-   "title": "冨嶽三十六景　武州玉川|Tama River in Musashi Province (Bushū Tamagawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanj",
+   "title": "冨嶽三十六景　武州玉川|Tama River in Musashi Province (Bushū Tamagawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -32163,7 +32163,7 @@
   },
   {
    "objectId": 57000,
-   "title": "冨嶽三十六景　東海道江尻田子の浦略図|Tago Bay near Ejiri on the Tōkaidō (Tōkaidō Ejiri Tago no ura ryaku zu), from the series Thirty-six V",
+   "title": "冨嶽三十六景　東海道江尻田子の浦略図|Tago Bay near Ejiri on the Tōkaidō (Tōkaidō Ejiri Tago no ura ryaku zu), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -32193,7 +32193,7 @@
   },
   {
    "objectId": 57003,
-   "title": "冨嶽三十六景　東海道保土ケ谷|Hodogaya on the Tōkaidō (Tōkaidō Hodogaya), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūr",
+   "title": "冨嶽三十六景　東海道保土ケ谷|Hodogaya on the Tōkaidō (Tōkaidō Hodogaya), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -32203,7 +32203,7 @@
   },
   {
    "objectId": 57004,
-   "title": "冨嶽三十六景　武陽佃島|Tsukudajima in Musashi Province (Buyō Tsukudajima), from the series Thirty-six Views of Mount Fuji (Fugaku s",
+   "title": "冨嶽三十六景　武陽佃島|Tsukudajima in Musashi Province (Buyō Tsukudajima), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -32223,7 +32223,7 @@
   },
   {
    "objectId": 57006,
-   "title": "冨嶽三十六景　山下白雨|Storm below Mount Fuji (Sanka no haku u), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei",
+   "title": "冨嶽三十六景　山下白雨|Storm below Mount Fuji (Sanka no haku u), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -32233,7 +32233,7 @@
   },
   {
    "objectId": 57007,
-   "title": "冨嶽三十六景　凱風快晴|South Wind, Clear Sky (Gaifū kaisei), also known as Red Fuji, from the series Thirty-six Views of Mount Fuji",
+   "title": "冨嶽三十六景　凱風快晴|South Wind, Clear Sky (Gaifū kaisei), also known as Red Fuji, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
    "artist": "Katsushika Hokusai",
    "objectDate": "ca. 1830–32",
    "begin": 1820,
@@ -32273,7 +32273,7 @@
   },
   {
    "objectId": 57011,
-   "title": "喜多川歌麿画  「実競色乃美名家見　紙屋次兵衛　紀ノ国屋小春」|Jihei of Kamiya Eloping with the Geisha Koharu of Kinokuniya, from the series “True Feel",
+   "title": "喜多川歌麿画  「実競色乃美名家見　紙屋次兵衛　紀ノ国屋小春」|Jihei of Kamiya Eloping with the Geisha Koharu of Kinokuniya, from the series “True Feelings Compared: The Founts of Love” (Jitsu kurabe iro no Minakami)",
    "artist": "Kitagawa Utamaro",
    "objectDate": "ca. 1798–99",
    "begin": 1798,
@@ -32673,7 +32673,7 @@
   },
   {
    "objectId": 57055,
-   "title": "歌川広重画　近江八景之内　石山秋月|Autumn Full Moon at Ishiyama Temple (Ishiyama shūgetsu), from the series Eight Views of Ōmi Province (",
+   "title": "歌川広重画　近江八景之内　石山秋月|Autumn Full Moon at Ishiyama Temple (Ishiyama shūgetsu), from the series Eight Views of Ōmi Province (Ōmi hakkei)",
    "artist": "Utagawa Hiroshige",
    "objectDate": "1834–35",
    "begin": 1834,
@@ -32823,7 +32823,7 @@
   },
   {
    "objectId": 57070,
-   "title": "勝川春好画　三代目瀬川菊之丞・二代目市川門之助|Kabuki Actors Segawa Kikunojō III and Ichikawa Monnosuke II and Two Courtesans Celebrating the N",
+   "title": "勝川春好画　三代目瀬川菊之丞・二代目市川門之助|Kabuki Actors Segawa Kikunojō III and Ichikawa Monnosuke II and Two Courtesans Celebrating the New Year",
    "artist": "Katsukawa Shunkō",
    "objectDate": "ca. 1790s",
    "begin": 1790,
@@ -32913,7 +32913,7 @@
   },
   {
    "objectId": 57079,
-   "title": "鳥文斎栄之画 　「青楼美人六花仙　丁子屋雛鶴鸖」|The Courtesan Hinazuru of the Chōjiya Brothel (Chōjiya Hinazuru), from the series Beauties of t",
+   "title": "鳥文斎栄之画 　「青楼美人六花仙　丁子屋雛鶴鸖」|The Courtesan Hinazuru of the Chōjiya Brothel (Chōjiya Hinazuru), from the series Beauties of the Pleasure Quarters as Six Floral Immortals (Seirō bijin rokkasen)",
    "artist": "Chōbunsai Eishi",
    "objectDate": "ca. 1795",
    "begin": 1785,
@@ -33123,7 +33123,7 @@
   },
   {
    "objectId": 57101,
-   "title": "『雛形若菜の初模様　扇屋内　七越』|The Courtesan Nanakoshi of the Ōgiya Brothel, from the series “A Pat-tern Book of the Year’s First Des",
+   "title": "『雛形若菜の初模様　扇屋内　七越』|The Courtesan Nanakoshi of the Ōgiya Brothel, from the series “A Pat-tern Book of the Year’s First Designs, Fresh as Spring Herbs” (“Hinagata wakana no hatsu moyō”)",
    "artist": "Isoda Koryūsai",
    "objectDate": "1777–78",
    "begin": 1777,
@@ -33363,7 +33363,7 @@
   },
   {
    "objectId": 57861,
-   "title": "「傾城道中双六　見立よしはら五十三つい」|Album of prints from the series A Tōkaidō Board Game of Courtesans, Fifty-three Pairings in the Yos",
+   "title": "「傾城道中双六　見立よしはら五十三つい」|Album of prints from the series A Tōkaidō Board Game of Courtesans, Fifty-three Pairings in the Yoshiwara (Keisei dōchū sugoroku, Mitate Yoshiwara gojūsan tsui)",
    "artist": "Keisai Eisen",
    "objectDate": "",
    "begin": 1790,
@@ -33513,7 +33513,7 @@
   },
   {
    "objectId": 58000,
-   "title": "歌川国貞画　「籠細工 浪花細工人 一田庄七郎」|Basketry Work: By the Craftsman Ichida Shōshichirō of Naniwa (Kagozaiku Naniwa saikunin Ichida S",
+   "title": "歌川国貞画　「籠細工 浪花細工人 一田庄七郎」|Basketry Work: By the Craftsman Ichida Shōshichirō of Naniwa (Kagozaiku Naniwa saikunin Ichida Shōshichirō)",
    "artist": "Utagawa Kunisada",
    "objectDate": "1819",
    "begin": 1819,
@@ -33523,7 +33523,7 @@
   },
   {
    "objectId": 58001,
-   "title": "「籠細工　浪花細工人一田庄七郎」|Basketry Work: By the Craftsman Ichida Shōshichirō of Naniwa (Kagosaiku Naniwa saikujin Ichida Shōshich",
+   "title": "「籠細工　浪花細工人一田庄七郎」|Basketry Work: By the Craftsman Ichida Shōshichirō of Naniwa (Kagosaiku Naniwa saikujin Ichida Shōshichirō)",
    "artist": "Utagawa Kunisada",
    "objectDate": "1819",
    "begin": 1819,
@@ -33533,7 +33533,7 @@
   },
   {
    "objectId": 58002,
-   "title": "歌川国貞画　「籠細工 浪花細工人 一田庄七郎」|Basketry Work: By the Craftsman Ichida Shōshichirō of Naniwa (Kagozaiku Naniwa saikunin Ichida S",
+   "title": "歌川国貞画　「籠細工 浪花細工人 一田庄七郎」|Basketry Work: By the Craftsman Ichida Shōshichirō of Naniwa (Kagozaiku Naniwa saikunin Ichida Shōshichirō)",
    "artist": "Utagawa Kunisada",
    "objectDate": "1819",
    "begin": 1819,
@@ -33543,7 +33543,7 @@
   },
   {
    "objectId": 58003,
-   "title": "歌川国貞画　「籠細工　浪花細工人 一田庄七郎」|Basketry Work: By the Craftsman Ichida Shōshichirō of Naniwa (Kagozaiku Naniwa saikunin Ichida S",
+   "title": "歌川国貞画　「籠細工　浪花細工人 一田庄七郎」|Basketry Work: By the Craftsman Ichida Shōshichirō of Naniwa (Kagozaiku Naniwa saikunin Ichida Shōshichirō)",
    "artist": "Utagawa Kunisada",
    "objectDate": "1819",
    "begin": 1819,
@@ -34873,7 +34873,7 @@
   },
   {
    "objectId": 63333,
-   "title": "写真楽屋鑑 2代目澤村 訥升|Sawamura Tosshō II (1838–86), from the series Mirror of Photographs  Backstage  (Shashin gakuya kagami - ",
+   "title": "写真楽屋鑑 2代目澤村 訥升|Sawamura Tosshō II (1838–86), from the series Mirror of Photographs  Backstage  (Shashin gakuya kagami - Sawamura Tosshō nisei)",
    "artist": "Toyohara Kunichika",
    "objectDate": "ca. 1859–61",
    "begin": 1849,
@@ -35003,7 +35003,7 @@
   },
   {
    "objectId": 72826,
-   "title": "武勇雪月花之内　ゑびらの梅|Plum Blossoms in the Forrest of Ikuta, from the series Bravery-Beauty of the four seasons (Buyū setsugekka",
+   "title": "武勇雪月花之内　ゑびらの梅|Plum Blossoms in the Forrest of Ikuta, from the series Bravery-Beauty of the four seasons (Buyū setsugekka no uchi-Ikuta no mori, Ebira no ume)",
    "artist": "Tsukioka Yoshitoshi",
    "objectDate": "1867",
    "begin": 1867,
@@ -35053,7 +35053,7 @@
   },
   {
    "objectId": 73390,
-   "title": "安達吟光画　第二番目五幕目　漂流奇譚西洋劇　巴里府演劇の場|“Act II, Scene 5: At the Opera in Paris,” from the series The Strange Tale of the Castaway",
+   "title": "安達吟光画　第二番目五幕目　漂流奇譚西洋劇　巴里府演劇の場|“Act II, Scene 5: At the Opera in Paris,” from the series The Strange Tale of the Castaways: A Western Kabuki",
    "artist": "Adachi Ginkō",
    "objectDate": "1879",
    "begin": 1879,
@@ -35433,7 +35433,7 @@
   },
   {
    "objectId": 73431,
-   "title": "二代歌川広重画　『亜墨利加　横浜本村本牧道』|American Woman Riding Side-Saddle on the Road at Honmoku, Motomura, Yokohama (America Yokohama Mo",
+   "title": "二代歌川広重画　『亜墨利加　横浜本村本牧道』|American Woman Riding Side-Saddle on the Road at Honmoku, Motomura, Yokohama (America Yokohama Motomura Honmoku michi)",
    "artist": "Utagawa Hiroshige II",
    "objectDate": "2nd month, 1861",
    "begin": 1861,
@@ -35473,7 +35473,7 @@
   },
   {
    "objectId": 73436,
-   "title": "東都築地ホテル館庭前の図|Illustration of the Front Garden of the Tsukiji Hotel in the Eastern Capital  (Tōto Tsukiji hoteru kan niwa",
+   "title": "東都築地ホテル館庭前の図|Illustration of the Front Garden of the Tsukiji Hotel in the Eastern Capital  (Tōto Tsukiji hoteru kan niwa mae no zu)",
    "artist": "Utagawa Hiroshige III",
    "objectDate": "ca. 1868–72",
    "begin": 1868,
@@ -35543,7 +35543,7 @@
   },
   {
    "objectId": 73443,
-   "title": "Yokohama kenbutsu zue|Picture of Sights in Yokohama: Woman with a Ringer, Lamp Post, a Steamboat at Full Sail and a Woma",
+   "title": "Yokohama kenbutsu zue|Picture of Sights in Yokohama: Woman with a Ringer, Lamp Post, a Steamboat at Full Sail and a Woman with a Sewing Machine",
    "artist": "Utagawa Yoshikazu",
    "objectDate": "11th month, 1860",
    "begin": 1860,
@@ -36093,7 +36093,7 @@
   },
   {
    "objectId": 73508,
-   "title": "万国名勝尽競之内魯西亜本都伯徳|Heidoru (St. Petersberg), Capital of Russia, from  the series Famous Places from All Nations (Bankoku me",
+   "title": "万国名勝尽競之内魯西亜本都伯徳|Heidoru (St. Petersberg), Capital of Russia, from  the series Famous Places from All Nations (Bankoku meisho zukushi - Oroshiya miyako heidoru)",
    "artist": "Utagawa Yoshitora",
    "objectDate": "2nd month, 1865",
    "begin": 1865,
@@ -36493,7 +36493,7 @@
   },
   {
    "objectId": 73551,
-   "title": "東京名勝高輪　蒸気車鉄道之全図|Illustration of Steam Locomotive Tracks at Takanawa, from the series Famous Places in Tokyo  (Tōkyō meis",
+   "title": "東京名勝高輪　蒸気車鉄道之全図|Illustration of Steam Locomotive Tracks at Takanawa, from the series Famous Places in Tokyo  (Tōkyō meishō Takanawa-jōki kikansha no zen zu)",
    "artist": "Tsukioka Yoshitoshi",
    "objectDate": "1872",
    "begin": 1872,
@@ -36583,7 +36583,7 @@
   },
   {
    "objectId": 73560,
-   "title": "二十四孝童子鑑　 楊香|Yang Xiang (Yō Kō), from the series A Child’s Mirror of the Twenty-four Paragons of Filial Piety (Nijūshi kō",
+   "title": "二十四孝童子鑑　 楊香|Yang Xiang (Yō Kō), from the series A Child’s Mirror of the Twenty-four Paragons of Filial Piety (Nijūshi kō dōji kagami)",
    "artist": "Utagawa Kuniyoshi",
    "objectDate": "ca. 1843",
    "begin": 1843,
@@ -36693,7 +36693,7 @@
   },
   {
    "objectId": 73575,
-   "title": "東錦浮世稿談－幡随院長兵衛|Banzuiin Chōbei, from the series Story of Brocades of the East in the Floating World (Azuma no hana ukiyo ",
+   "title": "東錦浮世稿談－幡随院長兵衛|Banzuiin Chōbei, from the series Story of Brocades of the East in the Floating World (Azuma no hana ukiyo kōdan - Banzuiin Chōbei)",
    "artist": "Tsukioka Yoshitoshi",
    "objectDate": "10th month, 1867",
    "begin": 1867,
@@ -36773,7 +36773,7 @@
   },
   {
    "objectId": 73585,
-   "title": "安達吟光画　第二番目狂言　 漂流奇譚 　西洋劇 　三幕目　アメリカ鉄道の場|“Act II, Scene 2: Along Train Tracks in America,” from the series The Strange Tale",
+   "title": "安達吟光画　第二番目狂言　 漂流奇譚 　西洋劇 　三幕目　アメリカ鉄道の場|“Act II, Scene 2: Along Train Tracks in America,” from the series The Strange Tale of the Castaways: A Western Kabuki",
    "artist": "Adachi Ginkō",
    "objectDate": "1879",
    "begin": 1879,
@@ -37003,7 +37003,7 @@
   },
   {
    "objectId": 73624,
-   "title": "郵便報知新聞 645号|Postal Hōchi Newspaper no. 645,  Englishman raping a wine shopkeeper's daughter (Yūbin Hōchi shinbun, roppya",
+   "title": "郵便報知新聞 645号|Postal Hōchi Newspaper no. 645,  Englishman raping a wine shopkeeper's daughter (Yūbin Hōchi shinbun, roppyaku yonjū gogō)",
    "artist": "Tsukioka Yoshitoshi",
    "objectDate": "August, 1875",
    "begin": 1875,
@@ -37053,7 +37053,7 @@
   },
   {
    "objectId": 73630,
-   "title": "真柴秀吉公名護屋陣先手諸将繰出之図|Hideyoshi and His Troops Leaving Nagoya Camp (Mashiba Hideyoshi kō nagoya jin saki te no shoshō kurida",
+   "title": "真柴秀吉公名護屋陣先手諸将繰出之図|Hideyoshi and His Troops Leaving Nagoya Camp (Mashiba Hideyoshi kō nagoya jin saki te no shoshō kuridashi no zu)",
    "artist": "Tsukioka Yoshitoshi",
    "objectDate": "19th century",
    "begin": 1800,
@@ -37223,7 +37223,7 @@
   },
   {
    "objectId": 76556,
-   "title": "春好斎北洲画   初代浅尾勇次郎・初代市川鰕十郎　 『傾城佐野の船橋』|Kabuki Actors Asao Yūjirō as Sano Genzaemon and Ichikawa Ebijūrō I as Miura Arajirō,",
+   "title": "春好斎北洲画   初代浅尾勇次郎・初代市川鰕十郎　 『傾城佐野の船橋』|Kabuki Actors Asao Yūjirō as Sano Genzaemon and Ichikawa Ebijūrō I as Miura Arajirō, in the play Keisei Sano no Funabashi",
    "artist": "Shunkōsai Hokushū 春好斎北洲",
    "objectDate": "1822",
    "begin": 1822,
@@ -37233,7 +37233,7 @@
   },
   {
    "objectId": 76557,
-   "title": "春好斎北洲画    初代市川鰕十郎   「紅紫大坂潤」|Kabuki Actor Ichikawa Ebijūrō I as Tōken (China Dog) Jūbei, in the play Benimurasaki ai de s",
+   "title": "春好斎北洲画    初代市川鰕十郎   「紅紫大坂潤」|Kabuki Actor Ichikawa Ebijūrō I as Tōken (China Dog) Jūbei, in the play Benimurasaki ai de someage (Red and Purple, Rich Dyes of Osaka)",
    "artist": "Shunkōsai Hokushū 春好斎北洲",
    "objectDate": "1822",
    "begin": 1822,
@@ -37253,7 +37253,7 @@
   },
   {
    "objectId": 76559,
-   "title": "壽鶴堂政國画・壽暁堂梅國画・壽陽堂歳国画・壽松堂ふじ國画・方雅堂きし國画 「風流鍋島夕すゞみ」|“Enjoying the Evening Cool near Lord Nabeshima’s Warehouses” (Fūryū Nabe",
+   "title": "壽鶴堂政國画・壽暁堂梅國画・壽陽堂歳国画・壽松堂ふじ國画・方雅堂きし國画 「風流鍋島夕すゞみ」|“Enjoying the Evening Cool near Lord Nabeshima’s Warehouses” (Fūryū Nabeshima yūsuzumi)",
    "artist": "Jukakudō Masakuni 壽鶴堂政国|Jugyōdō Umekuni 壽暁堂梅国|Juyōdō Toshiku",
    "objectDate": "ca. 1825",
    "begin": 1815,
@@ -37263,7 +37263,7 @@
   },
   {
    "objectId": 76560,
-   "title": "春好斎北洲画     三代目中村歌右衛門    『一世一代当狂言』|Kabuki Actor Nakamura Utaemon III as the Sword Master Kyōgoku Takumi, from the series ",
+   "title": "春好斎北洲画     三代目中村歌右衛門    『一世一代当狂言』|Kabuki Actor Nakamura Utaemon III as the Sword Master Kyōgoku Takumi, from the series Issei ichidai atari Kyōgen (Hits of a Lifetime of Kyōgen)",
    "artist": "Shunkōsai Hokushū 春好斎北洲",
    "objectDate": "1825",
    "begin": 1825,
@@ -37273,7 +37273,7 @@
   },
   {
    "objectId": 76561,
-   "title": "戯画堂芦幸画      二代目嵐橘三郎  「ひらかな盛衰記」|Kabuki Actor Arashi Kitsusaburō II as Kajiwara Heiji, in the play Hiragana seisuiki (Reco",
+   "title": "戯画堂芦幸画      二代目嵐橘三郎  「ひらかな盛衰記」|Kabuki Actor Arashi Kitsusaburō II as Kajiwara Heiji, in the play Hiragana seisuiki (Records of the Battles between the Minamoto and Taira Clans in the Japanese Syllabary)",
    "artist": "Gigadō Ashiyuki",
    "objectDate": "1827",
    "begin": 1827,
@@ -37293,7 +37293,7 @@
   },
   {
    "objectId": 76563,
-   "title": "玉柳亭重春画      三代目尾上菊五郎・三代目中村歌右衛門   『義経千本桜』|Kabuki Actors Onoe Kikugorō III as Shizuka Gozen and Nakamura Utaemon III as Ki",
+   "title": "玉柳亭重春画      三代目尾上菊五郎・三代目中村歌右衛門   『義経千本桜』|Kabuki Actors Onoe Kikugorō III as Shizuka Gozen and Nakamura Utaemon III as Kitsune Tadanobu, in the play Yoshitsune senbon zakura (The Thousand Cherry Trees of Yoshitsune)",
    "artist": "Gyokuryūtei (Ryūsai) Shigeharu",
    "objectDate": "1830",
    "begin": 1830,
@@ -37313,7 +37313,7 @@
   },
   {
    "objectId": 76565,
-   "title": "春江斎北英画     二代目嵐璃寛 　見立 「百物語」|Kabuki Actor Arashi Rikan II as Iemon Confronted by an Image of His Murdered Wife, Oiwa, on ",
+   "title": "春江斎北英画     二代目嵐璃寛 　見立 「百物語」|Kabuki Actor Arashi Rikan II as Iemon Confronted by an Image of His Murdered Wife, Oiwa, on a Broken Lantern, Referring to Katsushika Hokusai’s Hyaku monogatari (One Hundred Ghost Stories)",
    "artist": "Shunbaisai Hokuei 春梅斎北英",
    "objectDate": "1832",
    "begin": 1832,
@@ -37333,7 +37333,7 @@
   },
   {
    "objectId": 76567,
-   "title": "戯場水滸伝百|Three Heroes of the Water Margin Capture the Bandit Queen Ichijōsei, from the series One Hundred Eight Heroes of ",
+   "title": "戯場水滸伝百|Three Heroes of the Water Margin Capture the Bandit Queen Ichijōsei, from the series One Hundred Eight Heroes of the Theater Suikoden",
    "artist": "Shunbaisai Hokuei 春梅斎北英",
    "objectDate": "ca. 1835",
    "begin": 1825,
@@ -37343,7 +37343,7 @@
   },
   {
    "objectId": 76568,
-   "title": "春梅斎北英画     二代目嵐璃寛  『当世化粧鏡』|Kabuki Actor Arashi Rikan II as Akogi Heiji, from the print series Tōsei keshōkagami (Makeup ",
+   "title": "春梅斎北英画     二代目嵐璃寛  『当世化粧鏡』|Kabuki Actor Arashi Rikan II as Akogi Heiji, from the print series Tōsei keshōkagami (Makeup Mirrors of Our Time)",
    "artist": "Shunbaisai Hokuei 春梅斎北英",
    "objectDate": "1835",
    "begin": 1835,
@@ -37433,7 +37433,7 @@
   },
   {
    "objectId": 76578,
-   "title": "「忠孝復讐傳　磯貝藤助」二代目嵐璃珏|The Actor Arashi Rikaku II as Isogai Tōsuke, from the series Lives of Men who Carried Out Revenge for",
+   "title": "「忠孝復讐傳　磯貝藤助」二代目嵐璃珏|The Actor Arashi Rikaku II as Isogai Tōsuke, from the series Lives of Men who Carried Out Revenge for Loyalty or Filial Piety",
    "artist": "Hasegawa Sadanobu 長谷川貞信",
    "objectDate": "1848",
    "begin": 1848,
@@ -38033,7 +38033,7 @@
   },
   {
    "objectId": 843991,
-   "title": "「大坂新町ねりもの　つる屋　琴鶴太夫　あさづま舟」|The Courtesan Kotozuru of the Tsuruya Brothel as an Asazuma Boat Prostitute (Tsuruya Kotozuru-",
+   "title": "「大坂新町ねりもの　つる屋　琴鶴太夫　あさづま舟」|The Courtesan Kotozuru of the Tsuruya Brothel as an Asazuma Boat Prostitute (Tsuruya Kotozuru-dayū Asazuma-bune), from the series Costume Parade of the Shinmachi Quarter in Osaka (Ōsaka Shinmachi nerimono)",
    "artist": "Yanagawa Shigenobu 柳川重信",
    "objectDate": "1822",
    "begin": 1822,
@@ -38043,7 +38043,7 @@
   },
   {
    "objectId": 843992,
-   "title": "「かみ結多助　嵐橘三郎」(二代目)　 「鑓ノ権三　あらし小六」(四代目)|The Actors Arashi Kitsusaburō II as the Hairdresser Kamiyui Tasuke, and Arashi Koro",
+   "title": "「かみ結多助　嵐橘三郎」(二代目)　 「鑓ノ権三　あらし小六」(四代目)|The Actors Arashi Kitsusaburō II as the Hairdresser Kamiyui Tasuke, and Arashi Koroku IV as Gonza the Lancer (Yari no Gonza)",
    "artist": "Gigadō Ashiyuki 戯画堂芦幸",
    "objectDate": "1824",
    "begin": 1824,
@@ -38063,7 +38063,7 @@
   },
   {
    "objectId": 843994,
-   "title": "「生涯御名残狂言　ほていお市　嵐小六」　（四代目）|The Actor Arashi Koroku IV in the Final Farewell Performance of His Career (Shōgai onagori kyō",
+   "title": "「生涯御名残狂言　ほていお市　嵐小六」　（四代目）|The Actor Arashi Koroku IV in the Final Farewell Performance of His Career (Shōgai onagori kyōgen) as the Female Bandit Hotei Oichi",
    "artist": "Shunkōsai Hokushū 春好斎北洲",
    "objectDate": "1826",
    "begin": 1826,
@@ -38073,7 +38073,7 @@
   },
   {
    "objectId": 843995,
-   "title": "「真柴久次　勇次郎改　浅尾額十郎」 (Masashiba Hisatsugu Yūjirō aratame Asao Gakujūrō)|The Actor Asao Gakujūrō I (previously Yūjirō I) as ",
+   "title": "「真柴久次　勇次郎改　浅尾額十郎」 (Masashiba Hisatsugu Yūjirō aratame Asao Gakujūrō)|The Actor Asao Gakujūrō I (previously Yūjirō I) as Mashiba Hisatsugu",
    "artist": "Shunkōsai Hokushū 春好斎北洲",
    "objectDate": "1822",
    "begin": 1822,
@@ -38103,7 +38103,7 @@
   },
   {
    "objectId": 843998,
-   "title": "「浪花嶋之内ねり物　静　きやうき(京喜)　ゑみ」|The Courtesan Emi of the Kyōki Brothel as Shizuka Gozen (Shizuka Kyōki Emi), from the series Co",
+   "title": "「浪花嶋之内ねり物　静　きやうき(京喜)　ゑみ」|The Courtesan Emi of the Kyōki Brothel as Shizuka Gozen (Shizuka Kyōki Emi), from the series Costume Parade of the Shimanouchi District in Osaka (Naniwa Shimanouchi nerimono)",
    "artist": "Jukōdō Yoshikuni 寿好堂よし国",
    "objectDate": "probably 1836",
    "begin": 1836,
@@ -38113,7 +38113,7 @@
   },
   {
    "objectId": 843999,
-   "title": "「嶋之内ねり物　華陽夫人　山村吾斗好　中森軒　ゑい」|“Ei of the Nakamoriken Brothel, who was a favorite of Yamamura Goto, as Lady Huayang (Kayō Fu",
+   "title": "「嶋之内ねり物　華陽夫人　山村吾斗好　中森軒　ゑい」|“Ei of the Nakamoriken Brothel, who was a favorite of Yamamura Goto, as Lady Huayang (Kayō Fujin Yamamura Goto gonomi Nakamoriken Ei),” from the series Costume Parade of the Shimanouchi District in Osaka (Naniwa Shimanouchi nerimono)",
    "artist": "Ryūsai Shigeharu 柳斎重春",
    "objectDate": "1836",
    "begin": 1836,
@@ -38123,7 +38123,7 @@
   },
   {
    "objectId": 844000,
-   "title": "「馬子大臣」　四代三枡大五郎 ・「馬屋大臣」　五代目市川海老蔵 ・「聖徳太子」　実川延三郎|The Actors Mimasu Daigorō IV as Umako Daijin (right), Ichikawa Ebizō V as ",
+   "title": "「馬子大臣」　四代三枡大五郎 ・「馬屋大臣」　五代目市川海老蔵 ・「聖徳太子」　実川延三郎|The Actors Mimasu Daigorō IV as Umako Daijin (right), Ichikawa Ebizō V as Umaya Daijin (center), and Jitsukawa Ensaburō as Prince Shōtoku (left)",
    "artist": "Gosōtei Hirosada 五粽亭広貞",
    "objectDate": "1849",
    "begin": 1849,
@@ -38133,7 +38133,7 @@
   },
   {
    "objectId": 844001,
-   "title": "「日本駄右衛門」　五代目市川海老蔵 ・「徳嶋五平」　二代目片岡我童|The Actors Ichikawa Ebizō V as the Outlaw Nippon Daemon (right) and Kataoka Gadō as To",
+   "title": "「日本駄右衛門」　五代目市川海老蔵 ・「徳嶋五平」　二代目片岡我童|The Actors Ichikawa Ebizō V as the Outlaw Nippon Daemon (right) and Kataoka Gadō as Tokushima Gohei",
    "artist": "Gosōtei Hirosada 五粽亭広貞",
    "objectDate": "1849",
    "begin": 1849,
@@ -38153,7 +38153,7 @@
   },
   {
    "objectId": 845811,
-   "title": "「大坂新町ねりもの　先はやし　くらはしや　小なみ」|Konami of the Kurahashiya in the Front Group of Musicians (Saki-bayashi), from the series Cost",
+   "title": "「大坂新町ねりもの　先はやし　くらはしや　小なみ」|Konami of the Kurahashiya in the Front Group of Musicians (Saki-bayashi), from the series Costume Parade of the Shinmachi Quarter in Osaka (Ōsaka Shinmachi nerimono)",
    "artist": "Yanagawa Shigenobu 柳川重信",
    "objectDate": "1822",
    "begin": 1822,
@@ -38163,7 +38163,7 @@
   },
   {
    "objectId": 845812,
-   "title": "「大坂新町ねりもの　東扇屋　花靏太夫」|The Courtesan Hanatsuru of the Higashiōgiya Brothel as the Dragon Princess Otohime, from the series ",
+   "title": "「大坂新町ねりもの　東扇屋　花靏太夫」|The Courtesan Hanatsuru of the Higashiōgiya Brothel as the Dragon Princess Otohime, from the series Costume Parade of the Shinmachi Quarter in Osaka (Ōsaka Shinmachi nerimono)",
    "artist": "Yanagawa Shigenobu 柳川重信",
    "objectDate": "1822",
    "begin": 1822,
@@ -38173,7 +38173,7 @@
   },
   {
    "objectId": 845813,
-   "title": "「嶋ノ内ねり物　鵜飼　まつ屋　ゑむ」 (Shimanouchi nerimono)|The Courtesan Emu of the Matsuya Brothel as a Cormorant Fisherwoman (Ukai Mats",
+   "title": "「嶋ノ内ねり物　鵜飼　まつ屋　ゑむ」 (Shimanouchi nerimono)|The Courtesan Emu of the Matsuya Brothel as a Cormorant Fisherwoman (Ukai Matsuya Emu), from the series “A Costume Parade in the Shimanouchi District” (Shimanouchi nerimono)",
    "artist": "Shunbaisai Hokuei 春梅斎北英",
    "objectDate": "1836",
    "begin": 1836,

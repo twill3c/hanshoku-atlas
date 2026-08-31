@@ -8,6 +8,7 @@
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import { DESIGNS } from "@/data/designs";
+import counts from "@/data/designs-count.json";
 import { toSameOrigin } from "@/core/met";
 import {
   DOUBTFUL_DE,
@@ -211,11 +212,23 @@ export default function SuriPage() {
       </p>
 
       <p className="caveat">
-        <strong>網羅していない。</strong>
-        ここにあるのは題名で引いて実際に確かめた 3 図柄・11 摺りだけで、
-        <strong>Met に同一図柄の複数摺りが何件あるかは測っていない</strong>。
-        Met の検索 API は標本枠にならない(<code>q=Hokusai</code> の 58 件中、日本の作品は 5 件)。
-        数えるのは、収蔵目録の CSV を使う次の段の仕事である。
+        <strong>網羅していない。ただし、何を網羅していないかは数えた。</strong>
+        収蔵目録 CSV から作った枠 {counts.frame} 件に、同一図柄の複数摺りは
+        <strong>{counts.strict.designs}〜{counts.loose.designs} 図柄</strong>ある
+        (作品数では {counts.strict.works}〜{counts.loose.works} 件)。
+        <strong>ここで見せているのはそのうち 3 図柄・11 摺りだけ。</strong>
+      </p>
+
+      <p className="caveat">
+        <strong>幅がある理由は、題名が同一性の鍵ではないから。</strong>
+        枠のうち<strong>題名があるのは {counts.titled} 件({((counts.titled / counts.frame) * 100).toFixed(1)} %)だけ</strong>で、
+        残り {counts.untitled} 件は空欄 —— そもそも判定できない。
+        さらに、英題まるごとで束ねると<strong>神奈川沖浪裏の 4 摺りが 3 + 1 に割れる</strong>
+        (「… also known as the great wave …」と「… or the great wave …」)。
+        最初のコンマまでで束ねると 4 つとも揃うが、こんどは
+        <strong>「spring rain collection harusame shū」が 14 件に膨らむ</strong> ——
+        それは図柄ではなく叢書の名前である。
+        <strong>だから一つの数字にせず、二つの規則で挟んである。</strong>
       </p>
     </main>
   );

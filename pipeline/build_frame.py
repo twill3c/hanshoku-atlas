@@ -78,7 +78,10 @@ def build_frame(csv_path: Path) -> list[dict]:
             rows.append(
                 {
                     "objectId": int(row[COL["id"]]),
-                    "title": row[COL["title"]][:120],
+                    # **題名は切らない。** 同一性の鍵なので、切り詰めると
+                    # 「切れる位置が違うだけの別題名」が生まれる(実測 2026-09-01 ——
+                    # 神奈川沖浪裏の 4 摺りが 120 字で切られて 4 つの別題名になっていた)
+                    "title": row[COL["title"]],
                     "artist": row[COL["artist"]][:60],
                     "objectDate": row[COL["odate"]][:40],
                     "begin": begin,

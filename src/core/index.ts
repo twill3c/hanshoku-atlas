@@ -8,4 +8,5 @@ export * from "./wasm";
 export * from "./spread";
 export * from "./years";
 export * from "./iro";
+export * from "./design";
 export * from "./met";

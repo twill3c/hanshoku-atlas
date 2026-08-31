@@ -1,0 +1,18 @@
+{
+ "note": "pipeline/designs.mjs が書き出す。手で編集しない",
+ "frame": 3833,
+ "titled": 1468,
+ "untitled": 2365,
+ "strict": {
+  "titled": 1468,
+  "designs": 143,
+  "works": 327,
+  "max": 4
+ },
+ "loose": {
+  "titled": 1468,
+  "designs": 159,
+  "works": 404,
+  "max": 14
+ }
+}
