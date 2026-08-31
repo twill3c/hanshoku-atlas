@@ -171,9 +171,41 @@ if (judgeFooter({ ...CONFORMING_FOOTER, fixed: "static" }).length === 0) {
   process.exit(2);
 }
 
+/**
+ * **本番検品の前に「同じ版が配られているか」を確かめる。**
+ *
+ * 実測 2026-08-31(二度):commit status が `success` になった後でも、エッジが前の版を
+ * 配っていることがある。その状態で検品を回すと「反映待ち」と「本当の不合格」が混ざる
+ * —— 実際に、直したはずのフッタの逃げが 64px と報告され、置いたはずの .wasm が 404 になった。
+ *
+ * ローカルのビルド成果物が参照する CSS の指紋と、本番が返す HTML の指紋を突き合わせる。
+ * **合格するまで検品を繰り返すのではなく、反映の確認を検品と分ける。**
+ */
+async function waitForSameBuild(url) {
+  const local = await readFile(join(ROOT, "index.html"), "utf-8");
+  const want = [...local.matchAll(/_next\/static\/css\/([a-z0-9]+)\.css/g)].map((m) => m[1]);
+  if (want.length === 0) {
+    console.log("指紋を取れなかった(ローカルの index.html に CSS 参照が無い)。反映確認を飛ばす");
+    return;
+  }
+  for (let i = 1; i <= 10; i++) {
+    const html = await (await fetch(url, { cache: "no-store" })).text();
+    const got = [...html.matchAll(/_next\/static\/css\/([a-z0-9]+)\.css/g)].map((m) => m[1]);
+    if (want.every((w) => got.includes(w))) {
+      console.log(`反映を確認(CSS 指紋 ${want.join(",")} / ${i} 回目)`);
+      return;
+    }
+    console.log(`反映待ち ${i}/10 —— 期待 ${want.join(",")} / 本番 ${got.join(",") || "(無し)"}`);
+    await new Promise((r) => setTimeout(r, 15_000));
+  }
+  console.error("本番がローカルのビルドと違う版を配り続けている。**検品ではなく反映を疑うこと**");
+  process.exit(3);
+}
+
 const server = target ? null : await serve();
 const base = target ?? `http://127.0.0.1:${server.address().port}/`;
 console.log(`検品対象: ${base}${target ? "(本番経路)" : "(ローカル out/ + rewrite の模倣)"}`);
+if (target) await waitForSameBuild(base);
 const fail = [];
 
 try {
