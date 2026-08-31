@@ -13,6 +13,7 @@ import { readFile } from "node:fs/promises";
 import { existsSync, mkdirSync } from "node:fs";
 import { extname, join, resolve } from "node:path";
 import { chromium, firefox } from "playwright";
+import { judgeFooter, CONFORMING_FOOTER } from "./footer-rule.mjs";
 
 const ROOT = resolve(process.cwd(), "out");
 const SHOTS = resolve(process.cwd(), "out-shots");
@@ -114,11 +115,26 @@ async function readPlates(browserType, base, name) {
   });
   const curveStats = (await page.$$eval(".stats", (els) => els.map((e) => e.textContent ?? ""))).join(" | ");
 
+  // フリート規約のフッタ(koho-lens が正本)。**描画結果の DOM で見る** ——
+  // HTML を文字列で grep する検品は JS で組み立てるアプリで必ず誤判定する。
+  // 1 ページに footer が 2 つあることもあるので、**MIT License を含むものを選ぶ**。
+  const footer = await page.evaluate(() => {
+    const fs = [...document.querySelectorAll("footer")];
+    const f = fs.find((x) => (x.innerText ?? "").includes("MIT License")) ?? fs[0];
+    if (!f) return null;
+    return {
+      text: (f.innerText ?? "").replace(/\s+/g, " ").trim(),
+      links: [...f.querySelectorAll("a")].map((a) => ({ text: a.textContent?.trim() ?? "", href: a.href })),
+      fixed: getComputedStyle(f).position,
+      count: fs.length,
+    };
+  });
+
   // 検品器の陽性対照(HC-080): 在るはずのないものを数える
   const bogus = await page.$$eval("button.plate-does-not-exist", (els) => els.length);
 
   await browser.close();
-  return { plates, maskChanged, overflow, problems, bogus, stats, curveStats };
+  return { plates, maskChanged, overflow, problems, bogus, stats, curveStats, footer };
 }
 
 function hueOf(meta) {
@@ -134,6 +150,16 @@ function circDiff(a, b) {
 // —— SPEC §2.7 の「見込み」を実測に変えるのはこちらである(HC-096)。
 const urlArg = process.argv.indexOf("--url");
 const target = urlArg > -1 ? process.argv[urlArg + 1] : null;
+// 検品器自身の対照(HC-080)—— 規則が実際に撃てることを、対象に当てる前に確かめる
+if (judgeFooter(CONFORMING_FOOTER).length !== 0) {
+  console.error("フッタ規則が規約どおりのフッタを落とした。規則の側が壊れている。");
+  process.exit(2);
+}
+if (judgeFooter({ ...CONFORMING_FOOTER, fixed: "static" }).length === 0) {
+  console.error("フッタ規則が壊れたフッタを通した。規則の側が壊れている。");
+  process.exit(2);
+}
+
 const server = target ? null : await serve();
 const base = target ?? `http://127.0.0.1:${server.address().port}/`;
 console.log(`検品対象: ${base}${target ? "(本番経路)" : "(ローカル out/ + rewrite の模倣)"}`);
@@ -156,6 +182,18 @@ try {
     if (r.overflow.length) fail.push(`${name}: ${r.overflow.join(" / ")}`);
     if (r.bogus !== 0) fail.push(`${name}: 検品器の陽性対照が壊れている(存在しない要素を ${r.bogus} 件数えた)`);
     if (r.plates.length < 2) fail.push(`${name}: 版が 2 つ未満`);
+
+    // ---- フッタ規約
+    // 変数名は ft。この下の G-07 が firefox の結果を f で持つので、重ねない
+    const ft = r.footer;
+    if (!ft) {
+      fail.push(`${name}: footer が無い`);
+    } else {
+      console.log(`  フッタ(${ft.fixed}): ${ft.text}`);
+      // 規則は scripts/footer-rule.mjs に置き、**対照つきで単体テストしてある**(T-021)。
+      // 検品器の中に書くと、規則が壊れたときに誰も気づかない。
+      for (const p of judgeFooter(ft)) fail.push(`${name}: フッタ — ${p}`);
+    }
   }
 
   // ---- G-07 —— ブラウザ間の色相角

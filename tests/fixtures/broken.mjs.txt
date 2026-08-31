@@ -1,0 +1,6 @@
+// T-022 の陽性対照。**わざと閉じ括弧を落としてある。**
+// 拡張子を .txt にしてあるのは、検査対象(scripts/*.mjs)に混ざらないようにするため。
+export function broken() {
+  for (const x of [1, 2, 3]) {
+    console.log(x);
+}

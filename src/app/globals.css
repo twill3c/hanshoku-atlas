@@ -311,20 +311,38 @@ input:focus-visible {
   border-top: 1px solid var(--rule);
   font-size: 0.78rem;
   color: var(--ink-3);
-  text-align: center;
   padding: 8px 12px;
   z-index: 50;
+}
+
+/* 項目は「・」で区切る。狭い幅では折り返す(HC-078 —— 横に溢れさせない) */
+.fleet-footer__inner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+  gap: 2px 0;
+}
+
+.fleet-footer__inner > * + *::before {
+  content: "・";
+  color: var(--rule-2);
+  margin: 0 6px;
 }
 
 .fleet-footer a {
   color: var(--ink-3);
   text-decoration: none;
-  margin: 0 2px;
 }
 
 .fleet-footer a:hover {
   color: var(--ai);
   text-decoration: underline;
+}
+
+.fleet-footer a:focus-visible {
+  outline: 2px solid var(--ai);
+  outline-offset: 2px;
 }
 
 .mono {

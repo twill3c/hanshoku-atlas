@@ -54,7 +54,7 @@
 
 ```bash
 npm install
-npm test                  # vitest(40 件)
+npm test                  # vitest(47 件)
 npm run build             # 静的書き出し(out/)
 npm run verify:browser    # 実ブラウザ検品 + G-07 の実測(ローカル out/・rewrite は模倣)
 node scripts/verify-browser.mjs --url https://hanshoku-atlas.vercel.app/   # 本番経路
@@ -62,6 +62,8 @@ python scripts/make_color_oracle.py   # 色変換オラクルの再生成(colour
 ```
 
 - 仕様は [SPEC.md](SPEC.md)、検査は [TEST_SPEC.md](TEST_SPEC.md)
+- 使い方は[版色アトラスの歩き方](https://claude.ai/code/artifact/53dcce2c-f144-4615-8418-d3e3faad5be7)、
+  構造は[版色アトラスの設計図](https://claude.ai/code/artifact/5a6c3bad-00fc-463d-ad9a-55b0710b1b53)
 - ループの記録は `logs/loops/`
 
 MIT License © 2026 坂田哲朗
