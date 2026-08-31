@@ -148,6 +148,56 @@ async function readPlates(browserType, base, name) {
   return { plates, maskChanged, overflow, problems, bogus, stats, curveStats, footer };
 }
 
+/** ⑤ 摺りの散らばり(F-09 / G-09)。**画面に出ている数字をそのまま読む。** */
+async function readSpread(browserType, base, name) {
+  const browser = await browserType.launch();
+  const page = await browser.newPage({ viewport: { width: 1280, height: 1000 } });
+  const problems = [];
+  page.on("pageerror", (e) => problems.push(`pageerror: ${e.message}`));
+  await page.goto(new URL("suri/", base).toString(), { waitUntil: "load" });
+  const designCount = await page.$$eval("#d option", (o) => o.length);
+  const waitTable = () =>
+    page.waitForFunction(() => document.querySelectorAll("table.suri tbody tr").length >= 2, null, {
+      timeout: 240_000,
+    });
+  await waitTable();
+
+  // **全図柄を測る。** 1 図柄の幅を代表値にしない —— 誤差棒は図柄ごとに違いうる
+  const all = [];
+  for (let i = 0; i < designCount; i++) {
+    if (i > 0) {
+      await page.selectOption("#d", String(i));
+      await page.waitForFunction(() => document.querySelectorAll("table.suri tbody tr").length === 0, null, {
+        timeout: 60_000,
+      }).catch(() => {});
+      await waitTable();
+    }
+    const label = await page.$eval("#d", (e) => e.options[e.selectedIndex].textContent?.trim() ?? "");
+    const ns = await page.$$eval(".bignums .n", (els) => els.map((e) => Number(e.textContent)));
+    const doubt = await page.$$eval("table.suri td.doubt", (els) => els.length);
+    all.push({ label, deMedian: ns[0], deMax: ns[1], shareMedian: ns[2], shareMax: ns[3], doubt });
+  }
+  await page.selectOption("#d", "0");
+  await waitTable();
+  const nums = await page.$$eval(".bignums > div", (els) =>
+    els.map((e) => ({
+      n: e.querySelector(".n")?.textContent?.trim() ?? "",
+      l: e.querySelector(".l")?.textContent?.trim() ?? "",
+    })),
+  );
+  const rows = await page.$$eval("table.suri tbody tr", (trs) =>
+    trs.map((tr) => [...tr.querySelectorAll("td")].map((td) => (td.textContent ?? "").replace(/\s+/g, " ").trim())),
+  );
+  const cols = await page.$$eval("table.suri thead th", (ths) => ths.map((t) => t.textContent?.trim() ?? ""));
+  const claim = await page.$eval(".headline p", (e) => (e.textContent ?? "").replace(/\s+/g, " ").trim());
+  const w = await page.evaluate(() => ({
+    scrollW: document.documentElement.scrollWidth,
+    clientW: document.documentElement.clientWidth,
+  }));
+  await browser.close();
+  return { nums, rows, cols, claim, problems, all, overflow: w.scrollW > w.clientW + 1 };
+}
+
 function hueOf(meta) {
   const m = meta.match(/h\s+([-\d.]+)°/);
   return m ? Number(m[1]) : NaN;
@@ -236,6 +286,41 @@ try {
       // 規則は scripts/footer-rule.mjs に置き、**対照つきで単体テストしてある**(T-021)。
       // 検品器の中に書くと、規則が壊れたときに誰も気づかない。
       for (const p of judgeFooter(ft)) fail.push(`${name}: フッタ — ${p}`);
+    }
+  }
+
+  // ---- ⑤ 摺りの散らばり(F-09 / G-09)
+  const sp = await readSpread(chromium, base, "chromium");
+  console.log("[⑤ 摺りの散らばり]");
+  for (const n of sp.nums) console.log(`  ${n.n.padStart(6)}  ${n.l}`);
+  console.log(`  列: ${sp.cols.join(" | ")}`);
+  for (const r of sp.rows) console.log(`  ${r.join("  |  ")}`);
+  console.log(`  ${sp.claim}`);
+  console.log("  --- 図柄ごとの幅 ---");
+  for (const d of sp.all) {
+    console.log(
+      `  ${d.label.padEnd(34)} ΔE 中央 ${String(d.deMedian).padStart(5)} 最大 ${String(d.deMax).padStart(5)}` +
+        ` / 面積比の幅 中央 ${String(d.shareMedian).padStart(5)} 最大 ${String(d.shareMax).padStart(5)} pt / 怪しい対応 ${d.doubt}`,
+    );
+  }
+  if (sp.all.length < 3) fail.push(`suri: 図柄が 3 つ未満(${sp.all.length})`);
+  if (sp.problems.length) fail.push(`suri: ${sp.problems.join(" / ")}`);
+  if (sp.rows.length < 2) fail.push("suri: 版が 2 行未満");
+  if (sp.overflow) fail.push("suri: 横に溢れた");
+  if (sp.nums.length !== 4) fail.push(`suri: 見出しの数字が 4 つでない(${sp.nums.length})`);
+  {
+    // G-09 —— **表示の桁が、測った幅より細かくないこと。**
+    // 幅(ポイント)を読み、面積比の表示から刻みを読み、単位 ≤ 幅 を確かめる
+    const spreadPoints = Number(sp.nums[3]?.n);
+    const shareCell = sp.rows[0]?.[1] ?? "";
+    const m = shareCell.match(/^(\d+)(?:\.(\d+))?\s*%$/);
+    if (!Number.isFinite(spreadPoints) || !m) {
+      fail.push(`G-09: 幅または面積比を読めなかった(幅=${sp.nums[3]?.n} 面積比=${shareCell})`);
+    } else {
+      const unit = m[2] ? Math.pow(10, -m[2].length) : Number(m[1]) % 10 === 0 ? 10 : 1;
+      console.log(`  [G-09] 面積比の幅 ${spreadPoints} ポイント / 表示の刻み ${unit} ポイント`);
+      if (unit > spreadPoints + 1e-9) fail.push(`G-09: 刻み ${unit} が幅 ${spreadPoints} より粗い`);
+      if (spreadPoints >= unit * 10) fail.push(`G-09: 刻み ${unit} が幅 ${spreadPoints} に対し細かすぎる`);
     }
   }
 

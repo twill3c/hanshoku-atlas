@@ -430,3 +430,153 @@ input:focus-visible {
 .wheel figcaption strong {
   color: var(--ink-2);
 }
+
+/* ---- ⑤ 摺りの散らばり(F-09) */
+select {
+  font: inherit;
+  font-size: 0.85rem;
+  padding: 6px 10px;
+  border: 1px solid var(--rule-2);
+  border-radius: 3px;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+.headline h2 {
+  margin: 0 0 10px;
+  font-size: 1.05rem;
+}
+
+.bignums {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 28px;
+  margin-bottom: 8px;
+}
+
+.bignums > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.bignums .n {
+  font-family: ui-monospace, Consolas, monospace;
+  font-variant-numeric: tabular-nums;
+  font-size: 1.8rem;
+  line-height: 1.2;
+  color: var(--ai);
+}
+
+.bignums .l {
+  font-size: 0.74rem;
+  color: var(--ink-3);
+}
+
+.scrollx {
+  overflow-x: auto;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  background: var(--surface);
+  margin: 16px 0;
+}
+
+table.suri {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.85rem;
+  min-width: 620px;
+}
+
+table.suri th,
+table.suri td {
+  text-align: left;
+  padding: 8px 11px;
+  border-bottom: 1px solid var(--rule);
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+table.suri thead th {
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  color: var(--ink-3);
+  background: var(--surface-2);
+  border-bottom: 1px solid var(--rule-2);
+}
+
+table.suri tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+table.suri .num {
+  text-align: right;
+  font-family: ui-monospace, Consolas, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+table.suri .strong {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+table.suri .sw {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border-radius: 2px;
+  border: 1px solid var(--rule-2);
+  vertical-align: -3px;
+  margin-right: 6px;
+}
+
+table.suri .mono {
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 0.82rem;
+}
+
+table.suri .sub {
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 0.74rem;
+  color: var(--ink-3);
+}
+
+/* 画面間の行き来 */
+.nav {
+  display: flex;
+  gap: 14px;
+  font-size: 0.85rem;
+  margin: 0 0 18px;
+}
+
+.nav a {
+  color: var(--ai);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.nav a:hover {
+  border-bottom-color: var(--ai);
+}
+
+.nav a[aria-current="page"] {
+  color: var(--ink);
+  font-weight: 700;
+  border-bottom-color: var(--ink);
+}
+
+table.suri td.doubt {
+  outline: 2px solid var(--beni);
+  outline-offset: -3px;
+}
+
+.doubt {
+  color: var(--beni);
+  font-weight: 700;
+}
+
+.doubtnote {
+  font-size: 0.85rem;
+  color: var(--ink-2);
+  border-top: 1px dashed var(--rule-2);
+  padding-top: 10px;
+}

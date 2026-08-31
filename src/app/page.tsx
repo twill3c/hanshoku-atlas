@@ -8,6 +8,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { HueWheel } from "./HueWheel";
 import { toSameOrigin } from "@/core/met";
+import { MEASURED_SHARE_SPREAD, formatShare, sharePrecision } from "@/core/spread";
 import type { WorkerRequest, WorkerResponse } from "./plate.worker";
 
 /** 実測 2026-08-31: primaryImageSmall(web-large)は 600 px 幅・ICC プロファイル無し(SPEC §2.6) */
@@ -40,6 +41,13 @@ const PRESETS = [
 ];
 
 const SEED = 20260831;
+
+/**
+ * 面積比を出す桁は、⑤ で測った誤差棒が決める(G-09)。
+ * **「12.3 %」と書けば 0.1 ポイントの分解能を主張したことになる** —— 実際には
+ * 同じ版木から摺られた 4 枚で面積比が 4.5 ポイント(中央値)散る。
+ */
+const SHARE_PRECISION = sharePrecision(MEASURED_SHARE_SPREAD);
 
 type Result = Omit<WorkerResponse, "assign"> & { assign: Uint32Array };
 
@@ -185,6 +193,11 @@ export default function Page() {
         <span className="en">hanshoku-atlas ① 一枚解剖</span>
       </h1>
 
+      <nav className="nav">
+        <a href="/" aria-current="page">① 一枚解剖</a>
+        <a href="/suri/">⑤ 摺りの散らばり</a>
+      </nav>
+
       {/* F-04 —— 主語を短くしない */}
       <p className="subject">
         この画面が測っているのは<strong>「メトロポリタン美術館が公開した画像において、k-means が復元した版色の分布」</strong>である。
@@ -301,7 +314,7 @@ export default function Page() {
                     L {p.oklch.L.toFixed(3)} / C {p.oklch.C.toFixed(3)} / h {p.oklch.h.toFixed(1)}°
                   </span>
                 </span>
-                <span className="share">{(p.share * 100).toFixed(1)} %</span>
+                <span className="share">{formatShare(p.share, SHARE_PRECISION)}</span>
               </button>
             ))}
             {shown.length === 0 ? <div style={{ padding: "14px 12px" }}>{busy ? "抽出中…" : "—"}</div> : null}
@@ -325,10 +338,18 @@ export default function Page() {
       </div>
 
       <p className="caveat">
+        <strong>この面積比の桁は、測った誤差棒が決めている。</strong>
+        Met 館内の同一図柄・複数摺りで測ると、<strong>同じ版の面積比が中央値で 4.5 ポイント散る</strong>
+        (色差 ΔE2000 の中央値は 4.4〜6.1 —— <strong>半分が「誰にでも別の色に見える」域まで動く</strong>)。
+        だからここでは小数点以下を出していない。散らばりの実測は
+        <a href="/suri/">⑤ 摺りの散らばり</a>にある。
+      </p>
+
+      <p className="caveat">
         <strong>紙の地色は一つの版ではない。</strong>
         神奈川沖浪裏(Met JP10)を k=8 で解剖すると、上位 5 版のうち 4 版
         <span className="mono"> #E1CCAB / #CBBCA0 / #B9B097 / #F1E2C9 </span>
-        が生成り〜黄変の帯で、合わせて画面の 75.9 % を占める(実測 2026-08-31)。
+        が生成り〜黄変の帯で、合わせて画面の 3/4 ほどを占める(実測 2026-08-31)。
         これは版が 4 枚あるのではなく、<strong>200 年分の褪色ムラが一枚の紙を複数のクラスタに割っている</strong>。
         地色のトグルが外せるのは 1 つだけなので、<strong>外しても紙は残る</strong>。
         ここは自動判定にせず、分析者が見て決める場所である。
