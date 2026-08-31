@@ -19,6 +19,8 @@
 **アプリが制御できるのは 4 だけである。**したがって「浮世絵の色相分布」という対象は素朴には存在しない。
 このアプリが測るのは **「メトロポリタン美術館が公開した画像において、k-means が復元した版色の分布」** である。
 
+**本番 https://hanshoku-atlas.vercel.app**
+
 ## いま動くもの(L1)
 
 **① 一枚解剖** —— 画像 URL を入れると版色を抽出し、面積比と OKLCh 座標を出す。
@@ -42,7 +44,8 @@
 ## 落とし穴の記録
 
 - **`images.metmuseum.org` は `curl -I`(HEAD)には `Access-Control-Allow-Origin: *` を返すが、GET には返さない。**
-  HEAD で測って「プロキシ不要」と書き、実ブラウザ検品で初めて誤りが分かった(SPEC §2.7)
+  HEAD で測って「プロキシ不要」と書き、実ブラウザ検品で初めて誤りが分かった(SPEC §2.7)。
+  対処は `vercel.json` の rewrite で `/met/*` を同一オリジンに寄せること。**本番経路で検証済み**
 - **シカゴ美術館の IIIF は Cloudflare の bot チャレンジで 403。**クロスオリジンの img はチャレンジを解けない
 - **AIC の `color` フィールドは色オラクルにならない。**神奈川沖浪裏の「dominant」は画面の 0.5 % しか占めない
 - **露草色(褪せる)と藍色(残る)の色相角の差は 1.3°。**色相ヒストグラムでは分離できない
@@ -53,7 +56,8 @@
 npm install
 npm test                  # vitest(40 件)
 npm run build             # 静的書き出し(out/)
-npm run verify:browser    # 実ブラウザ検品 + G-07 の実測
+npm run verify:browser    # 実ブラウザ検品 + G-07 の実測(ローカル out/・rewrite は模倣)
+node scripts/verify-browser.mjs --url https://hanshoku-atlas.vercel.app/   # 本番経路
 python scripts/make_color_oracle.py   # 色変換オラクルの再生成(colour-science)
 ```
 

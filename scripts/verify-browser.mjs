@@ -130,8 +130,13 @@ function circDiff(a, b) {
   return Math.abs(((a - b + 540) % 360) - 180);
 }
 
-const server = await serve();
-const base = `http://127.0.0.1:${server.address().port}/`;
+// 既定はローカルの out/(rewrite は模倣)。`--url https://…` を渡すと**本番経路**を検品する
+// —— SPEC §2.7 の「見込み」を実測に変えるのはこちらである(HC-096)。
+const urlArg = process.argv.indexOf("--url");
+const target = urlArg > -1 ? process.argv[urlArg + 1] : null;
+const server = target ? null : await serve();
+const base = target ?? `http://127.0.0.1:${server.address().port}/`;
+console.log(`検品対象: ${base}${target ? "(本番経路)" : "(ローカル out/ + rewrite の模倣)"}`);
 const fail = [];
 
 try {
@@ -177,7 +182,7 @@ try {
     console.log(`[G-07] 16 進表記まで一致: ${sameHex ? "はい" : "いいえ"}`);
   }
 } finally {
-  server.close();
+  server?.close();
 }
 
 if (fail.length) {
