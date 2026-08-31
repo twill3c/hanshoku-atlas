@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/met/:path*", "destination": "https://images.metmuseum.org/:path*" }
+  ]
+}

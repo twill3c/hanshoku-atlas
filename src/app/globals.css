@@ -1,0 +1,333 @@
+/* 版色アトラス —— 色を測るアプリなので、画面そのものは色を主張しない。
+   彩度を持つのは「測定値としての色」(見本・マスク)だけにする。 */
+
+:root {
+  --bg: #edeff1;
+  --surface: #f9fafb;
+  --surface-2: #e3e7ea;
+  --ink: #12171b;
+  --ink-2: #4b5760;
+  --ink-3: #737f88;
+  --rule: #cfd6db;
+  --rule-2: #b4bec5;
+  --ai: #1f4e87; /* ベロ藍 */
+  --ai-soft: #dce6f2;
+  --beni: #a63c4c;
+  --kihada: #8c6a19;
+  --kihada-soft: #f0e6cc;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #10151a;
+    --surface: #171e24;
+    --surface-2: #1f272e;
+    --ink: #e7ecef;
+    --ink-2: #9daab4;
+    --ink-3: #78858e;
+    --rule: #2a343c;
+    --rule-2: #3a4750;
+    --ai: #7fade2;
+    --ai-soft: #1b2e45;
+    --beni: #e2919c;
+    --kihada: #d6b45e;
+    --kihada-soft: #332913;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Noto Sans JP", system-ui, sans-serif;
+  line-height: 1.8;
+  font-size: 15px;
+  padding-bottom: 64px; /* fleet: fixed footer の逃げ */
+}
+
+main {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 32px 20px 40px;
+}
+
+h1 {
+  font-family: "Yu Mincho", "Hiragino Mincho ProN", serif;
+  font-size: clamp(1.7rem, 5vw, 2.4rem);
+  margin: 0 0 8px;
+  letter-spacing: 0.04em;
+}
+
+h1 .en {
+  display: block;
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 0.42em;
+  letter-spacing: 0.12em;
+  color: var(--ink-3);
+  margin-top: 6px;
+}
+
+h2 {
+  font-family: "Yu Mincho", "Hiragino Mincho ProN", serif;
+  font-size: 1.15rem;
+  margin: 32px 0 4px;
+}
+
+/* 測っている対象の主語(F-04)—— 短くしない */
+.subject {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--ai);
+  padding: 14px 18px;
+  margin: 18px 0 26px;
+  font-size: 0.94rem;
+  color: var(--ink-2);
+  max-width: 72ch;
+}
+
+.subject strong {
+  color: var(--ink);
+}
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  padding: 16px 18px;
+  margin: 16px 0;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 16px;
+  align-items: center;
+}
+
+label {
+  font-size: 0.85rem;
+  color: var(--ink-2);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+input[type="url"],
+input[type="text"] {
+  flex: 1 1 320px;
+  min-width: 0;
+  padding: 8px 10px;
+  border: 1px solid var(--rule-2);
+  border-radius: 3px;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 0.85rem;
+}
+
+input[type="range"] {
+  accent-color: var(--ai);
+  flex: 1 1 200px;
+}
+
+button {
+  font: inherit;
+  font-size: 0.85rem;
+  padding: 6px 12px;
+  border: 1px solid var(--rule-2);
+  border-radius: 3px;
+  background: var(--bg);
+  color: var(--ink);
+  cursor: pointer;
+}
+
+button:hover {
+  border-color: var(--ai);
+  color: var(--ai);
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--ai);
+  outline-offset: 2px;
+}
+
+.presets {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.presets button {
+  font-size: 0.8rem;
+}
+
+.presets button[aria-pressed="true"] {
+  background: var(--ai-soft);
+  border-color: var(--ai);
+  color: var(--ai);
+  font-weight: 700;
+}
+
+.stage {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr;
+  margin-top: 20px;
+}
+
+@media (min-width: 900px) {
+  .stage {
+    grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+    align-items: start;
+  }
+}
+
+.canvasWrap {
+  position: relative;
+  background: var(--surface-2);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.canvasWrap canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.plates {
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  overflow: hidden;
+  background: var(--surface);
+}
+
+.plate {
+  display: grid;
+  grid-template-columns: 34px 1fr auto;
+  gap: 12px;
+  align-items: center;
+  width: 100%;
+  padding: 9px 12px;
+  border: 0;
+  border-bottom: 1px solid var(--rule);
+  background: transparent;
+  text-align: left;
+  border-radius: 0;
+}
+
+.plate:last-child {
+  border-bottom: 0;
+}
+
+.plate[aria-pressed="true"] {
+  background: var(--ai-soft);
+}
+
+.plate .sw {
+  width: 34px;
+  height: 34px;
+  border-radius: 2px;
+  border: 1px solid var(--rule-2);
+}
+
+.plate .meta {
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 0.76rem;
+  color: var(--ink-3);
+  line-height: 1.5;
+}
+
+.plate .hex {
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 0.88rem;
+  color: var(--ink);
+}
+
+.plate .share {
+  font-family: ui-monospace, Consolas, monospace;
+  font-variant-numeric: tabular-nums;
+  font-size: 1rem;
+  color: var(--ink);
+}
+
+.paperNote {
+  font-size: 0.82rem;
+  color: var(--kihada);
+  background: var(--kihada-soft);
+  padding: 8px 12px;
+  border-radius: 3px;
+  margin-top: 10px;
+}
+
+.stats {
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 0.78rem;
+  color: var(--ink-3);
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+}
+
+.caveat {
+  font-size: 0.85rem;
+  color: var(--ink-2);
+  border-top: 1px solid var(--rule);
+  margin-top: 34px;
+  padding-top: 18px;
+  max-width: 74ch;
+}
+
+.caveat strong {
+  color: var(--ink);
+}
+
+.err {
+  color: var(--beni);
+  font-size: 0.86rem;
+}
+
+/* fleet: fixed footer */
+.fleet-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: var(--surface);
+  border-top: 1px solid var(--rule);
+  font-size: 0.78rem;
+  color: var(--ink-3);
+  text-align: center;
+  padding: 8px 12px;
+  z-index: 50;
+}
+
+.fleet-footer a {
+  color: var(--ink-3);
+  text-decoration: none;
+  margin: 0 2px;
+}
+
+.fleet-footer a:hover {
+  color: var(--ai);
+  text-decoration: underline;
+}
+
+.mono {
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 0.9em;
+}
