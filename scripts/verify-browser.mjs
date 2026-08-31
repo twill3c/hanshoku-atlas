@@ -95,13 +95,24 @@ async function readPlates(browserType, base, name) {
   for (const w of WIDTHS) {
     await page.setViewportSize({ width: w, height: 900 });
     await page.waitForTimeout(250);
-    const m = await page.evaluate(() => ({
-      scrollW: document.documentElement.scrollWidth,
-      clientW: document.documentElement.clientWidth,
-      docH: document.documentElement.scrollHeight,
-    }));
+    const m = await page.evaluate(() => {
+      const fs = [...document.querySelectorAll("footer")];
+      const foot = fs.find((x) => (x.innerText ?? "").includes("MIT License")) ?? fs[0];
+      return {
+        scrollW: document.documentElement.scrollWidth,
+        clientW: document.documentElement.clientWidth,
+        docH: document.documentElement.scrollHeight,
+        footerH: foot ? Math.ceil(foot.getBoundingClientRect().height) : 0,
+        padBottom: Math.floor(parseFloat(getComputedStyle(document.body).paddingBottom) || 0),
+      };
+    });
     if (m.scrollW > m.clientW + 1) overflow.push(`${w}px で横に ${m.scrollW - m.clientW}px 溢れた`);
     if (m.docH > 16000) overflow.push(`${w}px で縦が ${m.docH}px(表の潰れを疑う)`);
+    // 固定フッタは狭い幅で折り返して高くなる。逃げ(body の padding-bottom)が
+    // それより小さいと、**最後の要素がフッタの下に隠れる**(実測 2026-08-31)
+    if (m.footerH > m.padBottom) {
+      overflow.push(`${w}px でフッタ ${m.footerH}px > 逃げ ${m.padBottom}px(本文が隠れる)`);
+    }
     await page.screenshot({ path: join(SHOTS, `${name}-${w}.png`), fullPage: false });
   }
 

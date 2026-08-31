@@ -51,7 +51,10 @@ body {
   font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Noto Sans JP", system-ui, sans-serif;
   line-height: 1.8;
   font-size: 15px;
-  padding-bottom: 64px; /* fleet: fixed footer の逃げ */
+  /* fleet: fixed footer の逃げ。**狭い幅ではフッタが 3 行に折り返す**ので、
+     1 行分の高さで見積もると最後の要素がフッタの下に隠れる(実測 2026-08-31)。
+     検品器が「フッタの高さ < この値」を各幅で確かめる。 */
+  padding-bottom: 112px;
 }
 
 main {
@@ -185,6 +188,12 @@ input:focus-visible {
   gap: 20px;
   grid-template-columns: 1fr;
   margin-top: 20px;
+}
+
+@media (min-width: 700px) {
+  body {
+    padding-bottom: 72px; /* 広い幅ではフッタは 1 行 */
+  }
 }
 
 @media (min-width: 900px) {
