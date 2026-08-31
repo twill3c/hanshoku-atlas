@@ -16,7 +16,15 @@ import {
   type RGB,
 } from "./color";
 import type { RasterImage } from "./image";
-import { kmeans, type KMeansInit } from "./kmeans";
+import { kmeans, type KMeansInit, type KMeansResult } from "./kmeans";
+
+/** k-means の実装を差し替えるための署名。TS 実装と Rust/WASM 実装は**ビット一致する**(G-08) */
+export type KMeansFn = (
+  points: Float64Array,
+  weights: Float64Array,
+  k: number,
+  opts: { seed: number; maxIter?: number; tol?: number; init?: KMeansInit },
+) => KMeansResult;
 
 export type Plate = {
   index: number;
@@ -102,7 +110,15 @@ const DEFAULT_RESTARTS = 4;
 
 export function extractPlates(
   img: RasterImage,
-  opts: { k: number; seed?: number; init?: KMeansInit; maxIter?: number; restarts?: number },
+  opts: {
+    k: number;
+    seed?: number;
+    init?: KMeansInit;
+    maxIter?: number;
+    restarts?: number;
+    /** 省略時は TS 実装。Rust/WASM 実装を渡しても**結果はビット一致する**(G-08) */
+    impl?: KMeansFn;
+  },
 ): Extraction {
   const { points, weights, keyOf } = foldColors(img);
   const distinct = weights.length;
@@ -113,9 +129,10 @@ export function extractPlates(
   const restarts = opts.init === "degenerate" ? 1 : (opts.restarts ?? DEFAULT_RESTARTS);
 
   // 慣性最小の解を採る。同値なら添字の小さい始動 —— 決定論を保つ(G-06)
-  let res = kmeans(points, weights, k, { seed: baseSeed, init: opts.init, maxIter: opts.maxIter });
+  const run = opts.impl ?? kmeans;
+  let res = run(points, weights, k, { seed: baseSeed, init: opts.init, maxIter: opts.maxIter });
   for (let r = 1; r < restarts; r++) {
-    const cand = kmeans(points, weights, k, {
+    const cand = run(points, weights, k, {
       seed: (baseSeed + r) >>> 0,
       init: opts.init,
       maxIter: opts.maxIter,
@@ -168,11 +185,11 @@ export type ElbowPoint = { k: number; inertia: number };
 
 export function elbowCurve(
   img: RasterImage,
-  opts: { kMin: number; kMax: number; seed?: number; restarts?: number },
+  opts: { kMin: number; kMax: number; seed?: number; restarts?: number; impl?: KMeansFn },
 ): ElbowPoint[] {
   const out: ElbowPoint[] = [];
   for (let k = opts.kMin; k <= opts.kMax; k++) {
-    const ex = extractPlates(img, { k, seed: opts.seed, restarts: opts.restarts });
+    const ex = extractPlates(img, { k, seed: opts.seed, restarts: opts.restarts, impl: opts.impl });
     out.push({ k, inertia: ex.inertia });
     if (ex.plates.length < k) break; // 相異なる色を使い切った
   }

@@ -6,6 +6,7 @@
 // 「Met が公開した画像において k-means が復元した版色」であって、摺られた当時の色ではない。
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { HueWheel } from "./HueWheel";
 import { toSameOrigin } from "@/core/met";
 import type { WorkerRequest, WorkerResponse } from "./plate.worker";
 
@@ -281,7 +282,10 @@ export default function Page() {
         </div>
 
         <div>
-          <div className="plates">
+          {shown.length > 0 ? (
+            <HueWheel plates={shown} selected={selected} onSelect={setSelected} />
+          ) : null}
+          <div className="plates" style={{ marginTop: shown.length > 0 ? 16 : 0 }}>
             {shown.map((p) => (
               <button
                 key={p.index}
@@ -310,6 +314,10 @@ export default function Page() {
               <span>抽出 {result.elapsedMs.toFixed(0)} ms</span>
               <span>慣性曲線 {result.curveMs.toFixed(0)} ms</span>
               <span>seed {SEED}</span>
+              <span title="TS 実装と Rust/WASM 実装はビット一致する。速い方をその場で測って選んでいる">
+                {result.engine}
+                {result.engineNote ? `(${result.engineNote})` : ""}
+              </span>
               {busy ? <span>抽出中…</span> : null}
             </div>
           ) : null}

@@ -26,6 +26,9 @@
 **① 一枚解剖** —— 画像 URL を入れると版色を抽出し、面積比と OKLCh 座標を出す。
 パレットを押すとその版だけが画面上で光る。紙の地色を版色に数えるかはトグルで選べる。
 
+**② 色相環** —— 一枚の絵を数点の布置に抽象化する。角度 = 色相、半径 = 彩度、点の大きさ = 面積比、
+**縁の太さ = 明度**。明度を色の濃さで表すと褪せる青と残る青が同じ点になるので、縁に逃がしてある。
+
 ## 測って分かったこと(2026-08-31)
 
 | | |
@@ -34,6 +37,8 @@
 | 面積比の復元 | 絶対誤差 最大 **4.43×10⁻⁴** |
 | エルボーが版数を当てる率 | **1.000**(合成木版。**本物の版画では検証できない**) |
 | Chromium ↔ Firefox の色相角の差 | **0.000°**(16 進表記まで一致) |
+| TS ↔ Rust/WASM | 結論も**経路も**ビット一致(経路をずらした対照は 12/12 で落ちる) |
+| 抽出の速さ(実画像・k=8) | Chromium **610–724 ms**(WASM)/ Firefox **968–1,128 ms**(TS) |
 | 神奈川沖浪裏 JP10 の相異なる色 | **55,100** |
 | 同、k=8 のとき紙の帯が占める割合 | **75.9 %**(4 クラスタに割れる) |
 
@@ -49,16 +54,24 @@
 - **シカゴ美術館の IIIF は Cloudflare の bot チャレンジで 403。**クロスオリジンの img はチャレンジを解けない
 - **AIC の `color` フィールドは色オラクルにならない。**神奈川沖浪裏の「dominant」は画面の 0.5 % しか占めない
 - **露草色(褪せる)と藍色(残る)の色相角の差は 1.3°。**色相ヒストグラムでは分離できない
+- **Rust/WASM が速いとは限らない。** Chromium では TS の 1.5 倍速いが、**Firefox では 4 倍遅い**。
+  だから実行時に測って選ぶ —— 二実装がビット一致するので、選択は結果を変えない
+- **小さすぎるベンチと暖機なしは、実測と反対の結論を出す**(SPEC §2.10)
 
 ## 開発
 
 ```bash
 npm install
-npm test                  # vitest(47 件)
+npm test                  # vitest(56 件)
 npm run build             # 静的書き出し(out/)
 npm run verify:browser    # 実ブラウザ検品 + G-07 の実測(ローカル out/・rewrite は模倣)
 node scripts/verify-browser.mjs --url https://hanshoku-atlas.vercel.app/   # 本番経路
 python scripts/make_color_oracle.py   # 色変換オラクルの再生成(colour-science)
+
+# Rust/WASM(第二実装)
+cargo test  --manifest-path rust/Cargo.toml --release
+cargo build --manifest-path rust/Cargo.toml --target wasm32-unknown-unknown --release
+cp rust/target/wasm32-unknown-unknown/release/hanshoku.wasm public/hanshoku.wasm
 ```
 
 - 仕様は [SPEC.md](SPEC.md)、検査は [TEST_SPEC.md](TEST_SPEC.md)
