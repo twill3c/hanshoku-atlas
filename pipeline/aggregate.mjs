@@ -19,7 +19,16 @@ if (!existsSync(CORE)) {
 }
 // **年代の重み付けと「青」の定義は出荷している実装から読む。** ここで書き直さない(HC-069)
 const core = await import("file://" + CORE.replaceAll("\\", "/"));
-const { yearlyWeighted, windowMean, blueShare: coreBlueShare, BLUE_HUE, BLUE_MIN_CHROMA } = core;
+const {
+  yearlyWeighted,
+  windowMean,
+  blueShare: coreBlueShare,
+  redShare: coreRedShare,
+  chromaticShare: coreChromaticShare,
+  BLUE_HUE,
+  BLUE_MIN_CHROMA,
+  RED_HUE,
+} = core;
 
 const src = JSON.parse(readFileSync(resolve(ROOT, "data/plates.json"), "utf-8"));
 
@@ -76,6 +85,33 @@ const spanBefore = win(spanSeries, WINDOWS.before);
 const spanAfter = win(spanSeries, WINDOWS.after);
 const spanDiff = spanAfter.mean - spanBefore.mean;
 
+// ---- G-目玉2c'(SPEC §5.2 で 2026-09-01 に測定前宣言)—— 青の増加は青に固有か
+//
+// 顔料史の話なら青だけが増えるはず。Met が風景版画を多く買ったのなら青だけではないはず。
+// 摺りが豪華になったのなら有彩色全体が増えるはず。**青だけが増えるなら、顔料の話に近づく。**
+const CPRIME_MARGIN = 0.02; // 2.0 ポイント
+const cprime = {};
+for (const [name, works] of Object.entries(samples)) {
+  const dif = (valueOf) => {
+    const series = yearly(works, valueOf);
+    return win(series, WINDOWS.after).mean - win(series, WINDOWS.before).mean;
+  };
+  const blue = dif((w) => coreBlueShare(w.plates));
+  const red = dif((w) => coreRedShare(w.plates));
+  const chroma = dif((w) => coreChromaticShare(w.plates));
+  cprime[name] = {
+    blue,
+    red,
+    chroma,
+    marginRed: blue - red,
+    marginChroma: blue - chroma,
+    passA: blue - red >= CPRIME_MARGIN,
+    passB: blue - chroma >= CPRIME_MARGIN,
+  };
+}
+const cpa = Object.values(cprime).every((x) => x.passA);
+const cpb = Object.values(cprime).every((x) => x.passB);
+
 // ---- 判定
 const a = Object.values(report).every((r) => r.diffMain >= THRESHOLD);
 const b = Object.values(report).every(
@@ -98,7 +134,16 @@ console.log(`\n[G-目玉2c] 遷移をまたぐ絵師 ${spanning.length} 名 / �
 console.log(`  1820–1828 ${pct(spanBefore.mean)} → 1831–1840 ${pct(spanAfter.mean)} / 差 ${pct(spanDiff)}`);
 console.log(`  絵師: ${spanning.map(([k, e]) => `${k}(前${e.before}/後${e.after})`).join(" ・ ")}`);
 
+console.log(`\n[G-目玉2c'] 青の増加は青に固有か(余裕 ${(CPRIME_MARGIN * 100).toFixed(1)} pt 以上を要求)`);
+for (const [name, x] of Object.entries(cprime)) {
+  console.log(
+    `  [${name}] 青 ${pct(x.blue)} / 赤 ${pct(x.red)} / 有彩色 ${pct(x.chroma)}` +
+      `  → 対赤 ${pct(x.marginRed)} ${x.passA ? "通過" : "不通過"} / 対有彩色 ${pct(x.marginChroma)} ${x.passB ? "通過" : "不通過"}`,
+  );
+}
+
 console.log(`\n判定 —— 2a ${a ? "通過" : "不通過"} / 2b ${b ? "通過" : "不通過"} / 2c ${c ? "通過" : "不通過"}`);
+console.log(`         2c'-a ${cpa ? "通過" : "不通過"} / 2c'-b ${cpb ? "通過" : "不通過"}`);
 console.log(`**G-目玉2: ${a && b && c ? "通過" : "不通過"}**`);
 
 // ---- ③ の画面が使うデータ
@@ -132,6 +177,7 @@ writeFileSync(
       threshold: THRESHOLD,
       windows: WINDOWS,
       verdict: { a, b, c, pass: a && b && c },
+      cprime: { margin: CPRIME_MARGIN, red: RED_HUE, passA: cpa, passB: cpb, samples: cprime },
       samples: Object.fromEntries(
         Object.entries(report).map(([k, r]) => [
           k,

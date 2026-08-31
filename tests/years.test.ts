@@ -4,7 +4,16 @@
 // 年代の重み付けは目玉の判定の土台なので、ここが狂うと判定そのものが意味を失う。
 
 import { describe, expect, it } from "vitest";
-import { BLUE_HUE, BLUE_MIN_CHROMA, blueShare, windowMean, yearlyWeighted } from "@/core/years";
+import {
+  BLUE_HUE,
+  BLUE_MIN_CHROMA,
+  RED_HUE,
+  blueShare,
+  chromaticShare,
+  redShare,
+  windowMean,
+  yearlyWeighted,
+} from "@/core/years";
 
 describe("T-034 幅 1 年の作品はその年にだけ効く", () => {
   it("重みは 1、平均は値そのもの", () => {
@@ -86,5 +95,37 @@ describe("T-037 「青」の定義(SPEC §5.1)", () => {
     expect(blueShare([tsuyukusa])).toBe(0.5);
     expect(blueShare([ai])).toBe(0.5);
     expect(Math.abs(tsuyukusa.h - ai.h)).toBeLessThan(2);
+  });
+});
+
+describe("T-047 対照の指標(G-目玉2c' —— SPEC §5.2 で測定前に宣言)", () => {
+  const plates = [
+    { h: 236, C: 0.09, share: 0.2 }, // 青
+    { h: 35, C: 0.13, share: 0.3 }, // 赤
+    { h: 79, C: 0.05, share: 0.1 }, // 黄(どちらでもない有彩色)
+    { h: 236, C: 0.01, share: 0.4 }, // 彩度が足りない —— どの指標にも入らない
+  ];
+
+  it("赤系は h ∈ [20°, 50°)", () => {
+    expect(RED_HUE).toEqual([20, 50]);
+    expect(redShare(plates)).toBeCloseTo(0.3, 12);
+    expect(redShare([{ h: 20, C: 0.5, share: 1 }])).toBe(1);
+    expect(redShare([{ h: 50, C: 0.5, share: 1 }])).toBe(0);
+  });
+
+  it("有彩色は色相を問わず C ≥ 閾値 の合計", () => {
+    expect(chromaticShare(plates)).toBeCloseTo(0.6, 12);
+  });
+
+  it("**青と赤は重ならない** —— 対照として成立する条件", () => {
+    // 重なっていたら「青が増えれば赤も増える」ことになり、対照にならない
+    expect(BLUE_HUE[0]).toBeGreaterThan(RED_HUE[1]);
+  });
+
+  it("**有彩色は青を含む** —— だから青の増加が有彩色の増加を上回るのは自明ではない", () => {
+    // 2c'-b が厳しい理由。青だけが増えれば有彩色も同じだけ増えるので、
+    // 差が出るのは「青以外の有彩色が減ったとき」だけである
+    expect(chromaticShare(plates)).toBeGreaterThanOrEqual(blueShare(plates));
+    expect(BLUE_MIN_CHROMA).toBe(0.02);
   });
 });

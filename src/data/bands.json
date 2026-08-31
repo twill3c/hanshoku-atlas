@@ -43,6 +43,35 @@
   "c": true,
   "pass": false
  },
+ "cprime": {
+  "margin": 0.02,
+  "red": [
+   20,
+   50
+  ],
+  "passA": true,
+  "passB": false,
+  "samples": {
+   "緩標本": {
+    "blue": 0.022020079703175183,
+    "red": -0.019908993915540754,
+    "chroma": 0.00444998629322213,
+    "marginRed": 0.04192907361871594,
+    "marginChroma": 0.017570093409953053,
+    "passA": true,
+    "passB": false
+   },
+   "厳密標本": {
+    "blue": 0.043639253225806446,
+    "red": -0.08076387338709677,
+    "chroma": 0.040826921612903244,
+    "marginRed": 0.12440312661290322,
+    "marginChroma": 0.0028123316129032017,
+    "passA": true,
+    "passB": false
+   }
+  }
+ },
  "samples": {
   "緩標本": {
    "n": 830,

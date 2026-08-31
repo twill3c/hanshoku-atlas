@@ -103,6 +103,26 @@ export default function NendaiPage() {
                 <td className={bands.verdict.b ? "ok" : "ng"}>{bands.verdict.b ? "通過" : "不通過"}</td>
               </tr>
               <tr>
+                <td>
+                  2c&apos; 青の増加は<strong>青に固有</strong>か(2026-09-01 に測定前宣言)
+                  <br />
+                  <span className="sub">a: 赤系の増加を 2.0 pt 以上上回る / b: 有彩色全体の増加を 2.0 pt 以上上回る</span>
+                </td>
+                <td>—</td>
+                <td className="num">
+                  緩 青 {pct(bands.cprime.samples["緩標本"].blue)} / 赤 {pct(bands.cprime.samples["緩標本"].red)} / 有彩色{" "}
+                  {pct(bands.cprime.samples["緩標本"].chroma)}
+                  <br />
+                  厳密 青 {pct(bands.cprime.samples["厳密標本"].blue)} / 赤 {pct(bands.cprime.samples["厳密標本"].red)} / 有彩色{" "}
+                  {pct(bands.cprime.samples["厳密標本"].chroma)}
+                </td>
+                <td>
+                  <span className={bands.cprime.passA ? "ok" : "ng"}>a {bands.cprime.passA ? "通過" : "不通過"}</span>
+                  <br />
+                  <span className={bands.cprime.passB ? "ok" : "ng"}>b {bands.cprime.passB ? "通過" : "不通過"}</span>
+                </td>
+              </tr>
+              <tr>
                 <td>2c 標本の偏りで説明できない</td>
                 <td>遷移をまたぐ絵師だけの部分標本で符号が同じ</td>
                 <td className="num">
@@ -124,6 +144,17 @@ export default function NendaiPage() {
           10 年ごとに数えると 1820 年代は 1.68 % しかない。差は
           <strong>年代幅の広い作品が 1830 年代の青を 1820 年代へ滲ませている</strong>ことから来る。
           <strong>二本並走させたのは、まさにこれを見るためだった。</strong>
+        </p>
+        <p>
+          <strong>対照を作り直した(2c&apos;)。それでも通らなかった。</strong>
+          <strong>赤系は同じ窓で減っている</strong>(緩 {pct(bands.cprime.samples["緩標本"].red)} / 厳密{" "}
+          {pct(bands.cprime.samples["厳密標本"].red)})—— 増えたのは青であって、色一般ではない。
+          <strong>だが有彩色の面積比全体も、青とほぼ同じだけ増えている</strong>
+          (厳密標本で有彩色 {pct(bands.cprime.samples["厳密標本"].chroma)} に対し青{" "}
+          {pct(bands.cprime.samples["厳密標本"].blue)})。
+          つまり<strong>1830 年代に増えたのは「有彩色」で、その増分がほぼまるごと「青」だった</strong>。
+          「新しい青が入った」のか「彩色が増えて、その中身が青だった」のか ——
+          <strong>この標本では区別できない。通説と整合的だが、通説を証明しない。</strong>
         </p>
         <p>
           <strong>2c は「通過」と出たが、通過に意味がない。</strong>

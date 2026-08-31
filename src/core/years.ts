@@ -54,8 +54,29 @@ export const BLUE_HUE: [number, number] = [200, 270];
 export const BLUE_MIN_CHROMA = 0.02;
 
 export function blueShare(plates: { h: number; C: number; share: number }[]): number {
-  return plates.reduce(
-    (a, p) => (p.h >= BLUE_HUE[0] && p.h < BLUE_HUE[1] && p.C >= BLUE_MIN_CHROMA ? a + p.share : a),
-    0,
-  );
+  return hueShare(plates, BLUE_HUE);
+}
+
+/**
+ * 赤系。**G-目玉2c'-a の対照**(SPEC §5.2 で測定前に宣言)。
+ *
+ * 顔料史の話なら青だけが増えるはずで、Met が風景版画を多く買ったのなら
+ * 増えるのは青だけではないはずである。**赤が同じだけ増えるなら、青に固有ではない。**
+ */
+export const RED_HUE: [number, number] = [20, 50];
+
+export function redShare(plates: { h: number; C: number; share: number }[]): number {
+  return hueShare(plates, RED_HUE);
+}
+
+/**
+ * 有彩色の面積比の合計。**G-目玉2c'-b の対照**。
+ * 摺りが豪華になったのなら、色相を問わず有彩色が増えるはずである。
+ */
+export function chromaticShare(plates: { h: number; C: number; share: number }[]): number {
+  return plates.reduce((a, p) => (p.C >= BLUE_MIN_CHROMA ? a + p.share : a), 0);
+}
+
+function hueShare(plates: { h: number; C: number; share: number }[], [lo, hi]: [number, number]): number {
+  return plates.reduce((a, p) => (p.h >= lo && p.h < hi && p.C >= BLUE_MIN_CHROMA ? a + p.share : a), 0);
 }
