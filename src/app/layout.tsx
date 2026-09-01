@@ -28,10 +28,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <div className="fleet-footer__inner">
             <a href={FOOTER.license}>MIT License</a>
             <span className="fleet-footer__copy">© 2026 坂田哲朗</span>
-            <a href={FOOTER.repository}>GitHub</a>
-            <a href={FOOTER.guide}>版色アトラスの歩き方</a>
-            <a href={FOOTER.blueprint}>版色アトラスの設計図</a>
-            <a href={FOOTER.appMenu}>App Menu</a>
+            <span className="fsep">・</span><a href={FOOTER.repository}>GitHub</a>
+            <span className="fsep">・</span><a href={FOOTER.guide}>版色アトラスの歩き方</a>
+            <span className="fsep">・</span><a href={FOOTER.blueprint}>版色アトラスの設計図</a>
+            <span className="fsep">・</span><a href={FOOTER.appMenu}>App Menu</a>
           </div>
         </footer>
       </body>
